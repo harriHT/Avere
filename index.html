@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8">
+<title>Italian verbit</title>
+
+<style>
+
+body{
+    font-family: Helvetica, Arial, sans-serif;
+    text-align:center;
+    margin-top:40px;
+}
+
+#title{
+    font-size:22px;
+    font-weight:bold;
+}
+
+#copyright{
+    font-size:12px;
+    color:gray;
+    margin-bottom:20px;
+}
+
+#stats{
+    margin-bottom:25px;
+}
+
+#finnish{
+    font-size:34px;
+    margin-top:40px;
+}
+
+#italian{
+    font-size:24px;
+    color:gray;
+    margin-top:15px;
+}
+
+button{
+    font-size:16px;
+    padding:10px 18px;
+    margin:8px;
+}
+
+</style>
+</head>
+
+
+<body>
+
+<div id="title"></div>
+<div id="copyright">(C) Simone</div>
+<div id="stats"></div>
+
+<div id="finnish"></div>
+<div id="italian"></div>
+
+<div style="margin-top:40px;">
+
+<button onclick="showAnswer()">Näytä vastaus</button>
+<button onclick="known()">Osasin</button>
+<button onclick="unknown()">En osannut</button>
+
+</div>
+
+
+<!-- ========================================= -->
+<!-- SANASTO                                  -->
+<!-- Muokkaa vain tätä blokkia                -->
+<!-- ========================================= -->
+
+<script id="vocabulary" type="text/plain">
+
+VERBI INTRANSITIVI CON AUSILIARE “AVERE”
+
+abitare HO ABITATO (asua)
+ballare HO BALLATO (tanssia)
+camminare HO CAMMINATO (kävellä)
+cavalcare HO CAVALCATO (ratsastaa)
+cenare HO CENATO (syödä illallista)
+chiacchierare HO CHIACCHIERATO (jutella)
+collaborare HO COLLABORATO (tehdä yhteistyötä)
+conversare HO CONVERSATO (keskustella)
+divorziare HO DIVORZIATO (erota)
+dormire HO DORMITO (nukkua)
+esagerare HO ESAGERATO (liioitella)
+festeggiare HO FESTEGGIATO (juhlia)
+galleggiare HO GALLEGGIATO (kellua)
+ghignare HO GHIGNATO (ivata)
+giocare HO GIOCATO (leikkiä / pelata)
+girare HO GIRATO (kierrellä)
+gocciolare HA GOCCIOLATO (vuotaa)
+godere HO GODUTO (nauttia)
+insistere HO INSISTITO (vaatia jatkuvasti)
+lavorare HO LAVORATO (työskennellä)
+litigare HO LITIGATO (riidellä)
+mentire HO MENTITO (valehdella)
+navigare HO NAVIGATO (navigoida – vain meressä)
+nuotare HO NUOTATO (uida)
+obbedire HO OBBEDITO (totella)
+parlare HO PARLATO (puhua)
+partecipare HO PARTECIPATO (osallistua)
+passeggiare HO PASSEGGIATO (kävellä rauhallisesti / käveleskellä)
+pattinare HO PATTINATO (luistella)
+piangere HO PIANTO (itkeä)
+pranzare HO PRANZATO (syödä lounasta)
+puzzare HO PUZZATO (löyhkätä)
+ragionare HO RAGIONATO (järkeillä)
+remare HO REMATO (meloa / soutaa)
+ridere HO RISO (nauraa)
+riposare HO RIPOSATO (levätä)
+ruttare HO RUTTATO (röyhtäistä)
+sbadigliare HO SBADIGLIATO (haukotella)
+scherzare HO SCHERZATO (vitsailla)
+sciare HO SCIATO (hiihtää)
+sorridere HO SORRISO (hymyillä)
+sudare HO SUDATO (hikoilla)
+telefonare HO TELEFONATO (soittaa puhelimella)
+tossire HO TOSSITO (yskiä)
+viaggiare HO VIAGGIATO (matkustaa)
+volare HO VOLATO (lentää)
+
+</script>
+
+
+<script>
+
+let pairs = []
+let learned = 0
+let current = null
+let answerShown = false
+
+
+function loadVocabulary(){
+
+    let text = document.getElementById("vocabulary").textContent
+
+    let lines = text.split("\n").map(l => l.trim()).filter(l => l !== "")
+
+    let title = lines[0]
+
+    document.getElementById("title").innerText = title
+
+    for(let i=1;i<lines.length;i++){
+
+        let line = lines[i]
+
+        if(!line.includes("(")) continue
+
+        let it = line.split("(")[0].trim()
+
+        let fi = line.split("(")[1].replace(")","").trim()
+
+        pairs.push({it:it, fi:fi})
+    }
+
+    nextWord()
+}
+
+
+function updateStats(){
+
+    document.getElementById("stats").innerText =
+        "Osatut: " + learned +
+        " | Jäljellä: " + pairs.length +
+        " | Yhteensä: " + (learned + pairs.length)
+
+}
+
+
+function nextWord(){
+
+    if(pairs.length === 0){
+
+        document.getElementById("finnish").innerText =
+        "🎉 Ora hai imparato tutto!\nMa la ripetizione è la madre dello studio."
+
+        document.getElementById("italian").innerText = ""
+
+        return
+    }
+
+    let index = Math.floor(Math.random()*pairs.length)
+
+    current = pairs[index]
+
+    document.getElementById("finnish").innerText = current.fi
+
+    document.getElementById("italian").innerText = ""
+
+    answerShown = false
+
+    updateStats()
+}
+
+
+function showAnswer(){
+
+    if(!current) return
+
+    document.getElementById("italian").innerText = current.it
+
+    answerShown = true
+}
+
+
+function known(){
+
+    if(!answerShown) return
+
+    let index = pairs.indexOf(current)
+
+    pairs.splice(index,1)
+
+    learned++
+
+    nextWord()
+}
+
+
+function unknown(){
+
+    if(!answerShown) return
+
+    nextWord()
+}
+
+
+document.addEventListener("keydown", function(e){
+
+    if(e.code === "Space"){
+        e.preventDefault()
+        showAnswer()
+    }
+
+    if(e.code === "ArrowLeft"){
+        known()
+    }
+
+    if(e.code === "ArrowRight"){
+        unknown()
+    }
+
+})
+
+
+loadVocabulary()
+
+</script>
+
+
+</body>
+</html>
