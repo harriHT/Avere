@@ -1,0 +1,236 @@
+[
+  {
+    "italian": "arrabbiarsi con",
+    "finnish": "suuttua jollekin",
+    "example": "Mi arrabbio con te.",
+    "example_translation": "Suutun sinulle."
+  },
+  {
+    "italian": "avvicinarsi a",
+    "finnish": "lähestyä",
+    "example": "Mi avvicino alla porta.",
+    "example_translation": "Lähestyn ovea."
+  },
+  {
+    "italian": "chiamarsi",
+    "finnish": "olla nimeltään",
+    "example": "Mi chiamo Luca.",
+    "example_translation": "Nimeni on Luca."
+  },
+  {
+    "italian": "conoscersi",
+    "finnish": "tuntea toisensa",
+    "example": "Ci conosciamo bene.",
+    "example_translation": "Tunnemme toisemme hyvin."
+  },
+  {
+    "italian": "dedicarsi a",
+    "finnish": "omistautua",
+    "example": "Mi dedico allo studio.",
+    "example_translation": "Paneudun opiskeluun."
+  },
+  {
+    "italian": "diplomarsi",
+    "finnish": "valmistua oppilaitoksesta",
+    "example": "Si diploma quest'anno.",
+    "example_translation": "Hän valmistuu tänä vuonna."
+  },
+  {
+    "italian": "fermarsi",
+    "finnish": "pysähtyä, jäädä",
+    "example": "Mi fermo qui.",
+    "example_translation": "Pysähdyn tähän."
+  },
+  {
+    "italian": "incontrarsi",
+    "finnish": "tavata toisensa",
+    "example": "Ci incontriamo domani.",
+    "example_translation": "Tapaamme huomenna."
+  },
+  {
+    "italian": "iscriversi",
+    "finnish": "ilmoittautua esim. kurssille",
+    "example": "Mi iscrivo al corso.",
+    "example_translation": "Ilmoittaudun kurssille."
+  },
+  {
+    "italian": "laurearsi",
+    "finnish": "valmistua yliopistosta",
+    "example": "Si laurea a giugno.",
+    "example_translation": "Hän valmistuu kesäkuussa."
+  },
+  {
+    "italian": "mettersi",
+    "finnish": "laittaa ylleen",
+    "example": "Mi metto il cappotto.",
+    "example_translation": "Laitan takin päälle."
+  },
+  {
+    "italian": "occuparsi di",
+    "finnish": "huolehtia jostakin, hoitaa jotakin",
+    "example": "Mi occupo dei bambini.",
+    "example_translation": "Huolehdin lapsista."
+  },
+  {
+    "italian": "preoccuparsi di",
+    "finnish": "olla huolissaan, huolestua",
+    "example": "Mi preoccupo di tutto.",
+    "example_translation": "Olen huolissani kaikesta."
+  },
+  {
+    "italian": "prepararsi",
+    "finnish": "valmistautua",
+    "example": "Mi preparo subito.",
+    "example_translation": "Valmistaudun heti."
+  },
+  {
+    "italian": "rilassarsi",
+    "finnish": "rentoutua",
+    "example": "Mi rilasso a casa.",
+    "example_translation": "Rentoudun kotona."
+  },
+  {
+    "italian": "rompersi",
+    "finnish": "rikkoutua, mennä rikki",
+    "example": "Si rompe facilmente.",
+    "example_translation": "Se menee helposti rikki."
+  },
+  {
+    "italian": "sbrigarsi",
+    "finnish": "pitää kiirettä, kiirehtiä",
+    "example": "Sbrigati, è tardi.",
+    "example_translation": "Pidä kiirettä, on myöhä."
+  },
+  {
+    "italian": "sentirsi bene/male",
+    "finnish": "voida hyvin/huonosti",
+    "example": "Oggi mi sento bene.",
+    "example_translation": "Tänään voin hyvin."
+  },
+  {
+    "italian": "trasferirsi",
+    "finnish": "muuttaa asumaan",
+    "example": "Si trasferisce a Roma.",
+    "example_translation": "Hän muuttaa Roomaan."
+  },
+  {
+    "italian": "trattarsi di",
+    "finnish": "olla kyse jostakin",
+    "example": "Si tratta di lavoro.",
+    "example_translation": "On kyse työstä."
+  },
+  {
+    "italian": "trovarsi bene",
+    "finnish": "viihtyä",
+    "example": "Mi trovo bene qui.",
+    "example_translation": "Viihdyn täällä."
+  },
+  {
+    "italian": "trovarsi",
+    "finnish": "sijaita",
+    "example": "Il museo si trova qui.",
+    "example_translation": "Museo sijaitsee täällä."
+  },
+  {
+    "italian": "vedersi",
+    "finnish": "nähdä toisensa",
+    "example": "Ci vediamo stasera.",
+    "example_translation": "Nähdään tänä iltana."
+  },
+  {
+    "italian": "addormentarsi",
+    "finnish": "nukahtaa",
+    "example": "Mi addormento presto.",
+    "example_translation": "Nukahdan aikaisin."
+  },
+  {
+    "italian": "svegliarsi",
+    "finnish": "herätä",
+    "example": "Mi sveglio alle sette.",
+    "example_translation": "Herään kello seitsemän."
+  },
+  {
+    "italian": "divertirsi",
+    "finnish": "pitää hauskaa",
+    "example": "Ci divertiamo molto.",
+    "example_translation": "Pidämme paljon hauskaa."
+  },
+  {
+    "italian": "annoiarsi",
+    "finnish": "ikävystyä, tylsistyä",
+    "example": "Mi annoio spesso.",
+    "example_translation": "Ikävystyn usein."
+  },
+  {
+    "italian": "ricordarsi",
+    "finnish": "muistaa",
+    "example": "Mi ricordo tutto.",
+    "example_translation": "Muistan kaiken."
+  },
+  {
+    "italian": "dimenticarsi",
+    "finnish": "unohtaa",
+    "example": "Mi dimentico sempre.",
+    "example_translation": "Unohdan aina."
+  },
+  {
+    "italian": "sedersi",
+    "finnish": "istuutua",
+    "example": "Mi siedo qui.",
+    "example_translation": "Istun tähän."
+  },
+  {
+    "italian": "alzarsi",
+    "finnish": "nousta",
+    "example": "Mi alzo presto.",
+    "example_translation": "Nousen aikaisin."
+  },
+  {
+    "italian": "sposarsi",
+    "finnish": "mennä naimisiin",
+    "example": "Si sposano a maggio.",
+    "example_translation": "He menevät naimisiin toukokuussa."
+  },
+  {
+    "italian": "separarsi",
+    "finnish": "erota",
+    "example": "Si separano presto.",
+    "example_translation": "He eroavat pian."
+  },
+  {
+    "italian": "vestirsi",
+    "finnish": "pukeutua",
+    "example": "Mi vesto in fretta.",
+    "example_translation": "Pukeudun nopeasti."
+  },
+  {
+    "italian": "spogliarsi",
+    "finnish": "riisuutua",
+    "example": "Mi spoglio subito.",
+    "example_translation": "Riisuudun heti."
+  },
+  {
+    "italian": "lavarsi",
+    "finnish": "peseytyä",
+    "example": "Mi lavo le mani.",
+    "example_translation": "Pesen käteni."
+  },
+  {
+    "italian": "sporcarsi",
+    "finnish": "liata itsensä",
+    "example": "Mi sporco facilmente.",
+    "example_translation": "Likaan itseni helposti."
+  },
+  {
+    "italian": "arrabbiarsi",
+    "finnish": "suuttua",
+    "example": "Mi arrabbio subito.",
+    "example_translation": "Suutun helposti."
+  },
+  {
+    "italian": "calmarsi",
+    "finnish": "rauhoittua",
+    "example": "Mi calmo presto.",
+    "example_translation": "Rauhoitun nopeasti."
+  }
+]

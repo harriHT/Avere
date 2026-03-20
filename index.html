@@ -1,255 +1,325 @@
 <!DOCTYPE html>
-<html lang="fi">
+<html lang="it">
 <head>
-<meta charset="UTF-8">
-<title>Italian verbit</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Studiamo italiano</title>
 
-<style>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 950px;
+      margin: 0 auto;
+      padding: 20px;
+      background: #f5f7fb;
+      color: #222;
+    }
 
-body{
-    font-family: Helvetica, Arial, sans-serif;
-    text-align:center;
-    margin-top:40px;
-}
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
 
-#title{
-    font-size:22px;
-    font-weight:bold;
-}
+    .box {
+      background: white;
+      padding: 20px;
+      margin-top: 15px;
+      border-radius: 10px;
+    }
 
-#copyright{
-    font-size:12px;
-    color:gray;
-    margin-bottom:20px;
-}
+    .row {
+      margin-bottom: 14px;
+    }
 
-#stats{
-    margin-bottom:25px;
-}
+    .prompt {
+      font-size: 28px;
+      font-weight: bold;
+      text-align: center;
+    }
 
-#finnish{
-    font-size:34px;
-    margin-top:40px;
-}
+    .example {
+      font-size: 18px;
+      text-align: center;
+      margin-top: 10px;
+    }
 
-#italian{
-    font-size:24px;
-    color:gray;
-    margin-top:15px;
-}
+    .answer {
+      font-size: 22px;
+      color: blue;
+      text-align: center;
+      margin-top: 20px;
+      white-space: pre-line;
+    }
 
-button{
-    font-size:16px;
-    padding:10px 18px;
-    margin:8px;
-}
+    .buttons {
+      margin-top: 20px;
+      text-align: center;
+    }
 
-</style>
+    button,
+    select,
+    .file-button {
+      padding: 12px;
+      margin: 5px;
+      font-size: 16px;
+      border-radius: 8px;
+      border: none;
+    }
+
+    button,
+    .file-button {
+      cursor: pointer;
+      background: #e9edf5;
+    }
+
+    button:hover,
+    .file-button:hover {
+      background: #dce4f2;
+    }
+
+    .action-button {
+      width: 220px;
+      min-height: 80px;
+    }
+
+    #language {
+      margin-left: 8px;
+    }
+
+    #fileInput {
+      display: none;
+    }
+
+    .file-name {
+      display: inline-block;
+      margin-left: 10px;
+      font-style: italic;
+      color: #444;
+      vertical-align: middle;
+    }
+  </style>
 </head>
-
-
 <body>
 
-<div id="title"></div>
-<div id="copyright">(C) Simone</div>
-<div id="stats"></div>
+  <h1>Studiamo italiano</h1>
 
-<div id="finnish"></div>
-<div id="italian"></div>
+  <div class="box">
+    <div class="row">
+      <label for="fileInput" class="file-button">Scegli il file - Valitse tiedosto (json)</label>
+      <input type="file" id="fileInput" accept=".json,application/json">
+      <span id="fileName" class="file-name">Nessun file selezionato</span>
+    </div>
 
-<div style="margin-top:40px;">
+    <div class="row">
+      <label for="language">Lingua:</label>
+      <select id="language">
+        <option value="Italiano">Italiano</option>
+        <option value="Finlandese">Finlandese</option>
+      </select>
+    </div>
 
-<button onclick="showAnswer()">Näytä vastaus</button>
-<button onclick="known()">Osasin</button>
-<button onclick="unknown()">En osannut</button>
+    <div class="row">
+      <button onclick="start()">Inizia da capo - Aloita alusta</button>
+    </div>
+  </div>
 
-</div>
+  <div class="box">
+    <div id="stats">Imparate | Tutte: 0 | 0</div>
+  </div>
 
+  <div class="box">
+    <div class="prompt" id="prompt">Scegli un file JSON e inizia il test.</div>
+    <div class="example" id="example"></div>
+    <div class="answer" id="answer"></div>
+  </div>
 
-<!-- ========================================= -->
-<!-- SANASTO                                  -->
-<!-- Muokkaa vain tätä blokkia                -->
-<!-- ========================================= -->
+  <div class="buttons">
+    <button class="action-button" onclick="showAnswer()">
+      Mostra la risposta<br>Nayta vastaus
+    </button>
 
-<script id="vocabulary" type="text/plain">
+    <button class="action-button" onclick="failItem()">
+      Non lo sapevo<br>En osannut
+    </button>
 
-VERBI INTRANSITIVI CON AUSILIARE “AVERE”
+    <button class="action-button" onclick="successItem()">
+      Lo sapevo<br>Osasin
+    </button>
+  </div>
 
-abitare HO ABITATO (asua)
-ballare HO BALLATO (tanssia)
-camminare HO CAMMINATO (kävellä)
-cavalcare HO CAVALCATO (ratsastaa)
-cenare HO CENATO (syödä illallista)
-chiacchierare HO CHIACCHIERATO (jutella)
-collaborare HO COLLABORATO (tehdä yhteistyötä)
-conversare HO CONVERSATO (keskustella)
-divorziare HO DIVORZIATO (erota)
-dormire HO DORMITO (nukkua)
-esagerare HO ESAGERATO (liioitella)
-festeggiare HO FESTEGGIATO (juhlia)
-galleggiare HO GALLEGGIATO (kellua)
-ghignare HO GHIGNATO (ivata)
-giocare HO GIOCATO (leikkiä / pelata)
-girare HO GIRATO (kierrellä)
-gocciolare HA GOCCIOLATO (vuotaa)
-godere HO GODUTO (nauttia)
-insistere HO INSISTITO (vaatia)
-lavorare HO LAVORATO (työskennellä)
-litigare HO LITIGATO (riidellä)
-mentire HO MENTITO (valehdella)
-navigare HO NAVIGATO (navigoida – meressä, ja muuallakin, internetissä)
-nuotare HO NUOTATO (uida)
-obbedire HO OBBEDITO (totella)
-parlare HO PARLATO (puhua)
-partecipare HO PARTECIPATO (osallistua)
-passeggiare HO PASSEGGIATO (kävellä rauhallisesti / käveleskellä)
-pattinare HO PATTINATO (luistella)
-piangere HO PIANTO (itkeä)
-pranzare HO PRANZATO (syödä lounasta)
-puzzare HO PUZZATO (löyhkätä)
-ragionare HO RAGIONATO (järkeillä)
-remare HO REMATO (meloa / soutaa)
-ridere HO RISO (nauraa)
-riposare HO RIPOSATO (levätä)
-ruttare HO RUTTATO (röyhtäistä)
-sbadigliare HO SBADIGLIATO (haukotella)
-scherzare HO SCHERZATO (vitsailla)
-sciare HO SCIATO (hiihtää)
-sorridere HO SORRISO (hymyillä)
-sudare HO SUDATO (hikoilla)
-telefonare HO TELEFONATO (soittaa puhelimella)
-tossire HO TOSSITO (yskiä)
-viaggiare HO VIAGGIATO (matkustaa)
-volare HO VOLATO (lentää)
+  <script>
+    let data = [];
+    let test = [];
+    let current = null;
+    let currentIndex = null;
 
-</script>
+    const fileSources = {
+      "Verbi_intransitivi_con_ausiliare_AVERE.json": "Simone",
+      "Verbi_riflessivi.json": "Bella Vista I, p 239"
+    };
 
+    const fileInput = document.getElementById("fileInput");
+    const fileName = document.getElementById("fileName");
+    const language = document.getElementById("language");
+    const promptEl = document.getElementById("prompt");
+    const exampleEl = document.getElementById("example");
+    const answerEl = document.getElementById("answer");
+    const statsEl = document.getElementById("stats");
 
-<script>
-
-let pairs = []
-let learned = 0
-let current = null
-let answerShown = false
-
-
-function loadVocabulary(){
-
-    let text = document.getElementById("vocabulary").textContent
-
-    let lines = text.split("\n").map(l => l.trim()).filter(l => l !== "")
-
-    let title = lines[0]
-
-    document.getElementById("title").innerText = title
-
-    for(let i=1;i<lines.length;i++){
-
-        let line = lines[i]
-
-        if(!line.includes("(")) continue
-
-        let it = line.split("(")[0].trim()
-
-        let fi = line.split("(")[1].replace(")","").trim()
-
-        pairs.push({it:it, fi:fi})
+    function updateStats() {
+      const learned = data.length - test.length;
+      statsEl.innerText = "Imparate | Tutte: " + learned + " | " + data.length;
     }
 
-    nextWord()
-}
-
-
-function updateStats(){
-
-    document.getElementById("stats").innerText =
-        "Osatut: " + learned +
-        " | Jäljellä: " + pairs.length +
-        " | Yhteensä: " + (learned + pairs.length)
-
-}
-
-
-function nextWord(){
-
-    if(pairs.length === 0){
-
-        document.getElementById("finnish").innerText =
-        "🎉 Ora hai imparato tutto!\nMa la ripetizione è la madre dello studio."
-
-        document.getElementById("italian").innerText = ""
-
-        return
+    function clearAnswer() {
+      answerEl.innerText = "";
     }
 
-    let index = Math.floor(Math.random()*pairs.length)
-
-    current = pairs[index]
-
-    document.getElementById("finnish").innerText = current.fi
-
-    document.getElementById("italian").innerText = ""
-
-    answerShown = false
-
-    updateStats()
-}
-
-
-function showAnswer(){
-
-    if(!current) return
-
-    document.getElementById("italian").innerText = current.it
-
-    answerShown = true
-}
-
-
-function known(){
-
-    if(!answerShown) return
-
-    let index = pairs.indexOf(current)
-
-    pairs.splice(index,1)
-
-    learned++
-
-    nextWord()
-}
-
-
-function unknown(){
-
-    if(!answerShown) return
-
-    nextWord()
-}
-
-
-document.addEventListener("keydown", function(e){
-
-    if(e.code === "Space"){
-        e.preventDefault()
-        showAnswer()
+    function getDisplayFileName(filename) {
+      const source = fileSources[filename];
+      return source ? filename + " (" + source + ")" : filename;
     }
 
-    if(e.code === "ArrowLeft"){
-        known()
+    function validateData(arr) {
+      if (!Array.isArray(arr)) {
+        throw new Error("Il file JSON deve contenere una lista.");
+      }
+
+      for (let i = 0; i < arr.length; i++) {
+        const item = arr[i];
+
+        if (typeof item !== "object" || item === null) {
+          throw new Error("Elemento non valido alla posizione " + i);
+        }
+
+        const required = ["italian", "finnish", "example", "example_translation"];
+        for (const key of required) {
+          if (!(key in item)) {
+            throw new Error("Manca il campo '" + key + "' alla posizione " + i);
+          }
+        }
+      }
     }
 
-    if(e.code === "ArrowRight"){
-        unknown()
+    function render() {
+      if (test.length === 0) {
+        current = null;
+        currentIndex = null;
+        promptEl.innerText = "Benissimo!";
+        exampleEl.innerText = "";
+        answerEl.innerText = "";
+        updateStats();
+        return;
+      }
+
+      currentIndex = Math.floor(Math.random() * test.length);
+      current = test[currentIndex];
+
+      if (language.value === "Italiano") {
+        promptEl.innerText = current.italian;
+        exampleEl.innerText = current.example;
+      } else {
+        promptEl.innerText = current.finnish;
+        exampleEl.innerText = current.example_translation;
+      }
+
+      clearAnswer();
+      updateStats();
     }
 
-})
+    function showAnswer() {
+      if (!current) return;
 
+      if (language.value === "Italiano") {
+        answerEl.innerText = current.finnish + "\n" + current.example_translation;
+      } else {
+        answerEl.innerText = current.italian + "\n" + current.example;
+      }
+    }
 
-loadVocabulary()
+    function failItem() {
+      if (!current) return;
+      render();
+    }
 
-</script>
+    function successItem() {
+      if (!current) return;
+      test.splice(currentIndex, 1);
+      render();
+    }
 
+    function start() {
+      if (data.length === 0) {
+        promptEl.innerText = "Scegli prima un file JSON.";
+        exampleEl.innerText = "";
+        answerEl.innerText = "";
+        return;
+      }
+
+      test = [...data];
+      current = null;
+      currentIndex = null;
+      render();
+    }
+
+    function refreshCurrentLanguageView() {
+      if (!current) return;
+
+      if (language.value === "Italiano") {
+        promptEl.innerText = current.italian;
+        exampleEl.innerText = current.example;
+      } else {
+        promptEl.innerText = current.finnish;
+        exampleEl.innerText = current.example_translation;
+      }
+
+      clearAnswer();
+    }
+
+    fileInput.addEventListener("change", function(event) {
+      const file = event.target.files[0];
+
+      if (!file) {
+        return;
+      }
+
+      fileName.innerText = getDisplayFileName(file.name);
+
+      const reader = new FileReader();
+
+      reader.onload = function(e) {
+        try {
+          const parsed = JSON.parse(e.target.result);
+          validateData(parsed);
+
+          data = parsed;
+          test = [];
+          current = null;
+          currentIndex = null;
+
+          promptEl.innerText = "File caricato. Premi Inizia da capo.";
+          exampleEl.innerText = "";
+          answerEl.innerText = "";
+          updateStats();
+        } catch (err) {
+          data = [];
+          test = [];
+          current = null;
+          currentIndex = null;
+          promptEl.innerText = "Errore nel file JSON.";
+          exampleEl.innerText = err.message;
+          answerEl.innerText = "";
+          updateStats();
+        }
+      };
+
+      reader.readAsText(file, "utf-8");
+    });
+
+    language.addEventListener("change", refreshCurrentLanguageView);
+
+    updateStats();
+  </script>
 
 </body>
 </html>
