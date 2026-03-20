@@ -1,255 +1,530 @@
 <!DOCTYPE html>
-<html lang="fi">
+<html lang="it">
 <head>
-<meta charset="UTF-8">
-<title>Italian verbit</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Studiamo italiano</title>
 
-<style>
+  <style>
+    :root {
+      --bg: #f5f7fb;
+      --card: #ffffff;
+      --text: #222;
+      --muted: #666;
+      --border: #d9e1ee;
+      --btn: #e9edf5;
+      --btn-hover: #dce4f2;
+      --accent: #2f5bd3;
+      --accent-soft: #eef3ff;
+      --shadow: 0 8px 24px rgba(0,0,0,0.06);
+      --radius: 14px;
+    }
 
-body{
-    font-family: Helvetica, Arial, sans-serif;
-    text-align:center;
-    margin-top:40px;
-}
+    * {
+      box-sizing: border-box;
+    }
 
-#title{
-    font-size:22px;
-    font-weight:bold;
-}
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 16px;
+      background: var(--bg);
+      color: var(--text);
+    }
 
-#copyright{
-    font-size:12px;
-    color:gray;
-    margin-bottom:20px;
-}
+    h1 {
+      text-align: center;
+      margin: 10px 0 16px;
+      font-size: clamp(28px, 4vw, 40px);
+    }
 
-#stats{
-    margin-bottom:25px;
-}
+    .box {
+      background: var(--card);
+      padding: 18px;
+      margin-top: 14px;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+    }
 
-#finnish{
-    font-size:34px;
-    margin-top:40px;
-}
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin-bottom: 12px;
+    }
 
-#italian{
-    font-size:24px;
-    color:gray;
-    margin-top:15px;
-}
+    .row:last-child {
+      margin-bottom: 0;
+    }
 
-button{
-    font-size:16px;
-    padding:10px 18px;
-    margin:8px;
-}
+    label {
+      font-weight: bold;
+    }
 
-</style>
+    select,
+    button {
+      font-size: 16px;
+      border-radius: 10px;
+      border: 1px solid var(--border);
+      padding: 12px 14px;
+    }
+
+    select {
+      background: #fff;
+      min-height: 48px;
+    }
+
+    button {
+      cursor: pointer;
+      background: var(--btn);
+      border: 1px solid var(--border);
+      min-height: 52px;
+    }
+
+    button:hover {
+      background: var(--btn-hover);
+    }
+
+    button:disabled {
+      cursor: not-allowed;
+      opacity: 0.55;
+    }
+
+    .primary-button {
+      background: var(--accent-soft);
+      border-color: #cfd9fb;
+    }
+
+    .primary-button:hover {
+      background: #dde7ff;
+    }
+
+    .full-width {
+      width: 100%;
+    }
+
+    .grow {
+      flex: 1 1 280px;
+      min-width: 220px;
+    }
+
+    .file-meta {
+      color: var(--muted);
+      font-style: italic;
+      margin-top: 4px;
+      word-break: break-word;
+    }
+
+    .stats {
+      text-align: center;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .prompt {
+      font-size: clamp(28px, 5vw, 40px);
+      font-weight: bold;
+      text-align: center;
+      line-height: 1.25;
+      margin-top: 6px;
+      word-break: break-word;
+    }
+
+    .example {
+      font-size: clamp(18px, 3vw, 22px);
+      text-align: center;
+      margin-top: 16px;
+      color: #3c3c3c;
+      min-height: 28px;
+      white-space: pre-line;
+    }
+
+    .answer {
+      font-size: clamp(20px, 3.5vw, 28px);
+      color: var(--accent);
+      text-align: center;
+      margin-top: 20px;
+      min-height: 34px;
+      white-space: pre-line;
+      font-weight: bold;
+    }
+
+    .buttons {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .action-button {
+      min-height: 86px;
+      font-size: 18px;
+      line-height: 1.25;
+      white-space: normal;
+    }
+
+    @media (max-width: 700px) {
+      body {
+        padding: 12px;
+      }
+
+      .box {
+        padding: 14px;
+      }
+
+      .row {
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .buttons {
+        grid-template-columns: 1fr;
+      }
+
+      .action-button,
+      select,
+      button {
+        width: 100%;
+      }
+    }
+  </style>
 </head>
-
-
 <body>
 
-<div id="title"></div>
-<div id="copyright">(C) Simone</div>
-<div id="stats"></div>
+  <h1>Studiamo italiano</h1>
 
-<div id="finnish"></div>
-<div id="italian"></div>
+  <div class="box">
+    <div class="row">
+      <div class="grow">
+        <label for="jsonSelect">File JSON</label>
+        <select id="jsonSelect" class="full-width">
+          <option value="">-- Scegli un file JSON --</option>
+        </select>
+      </div>
+    </div>
 
-<div style="margin-top:40px;">
+    <div class="row">
+      <div class="grow">
+        <label for="language">Lingua</label>
+        <select id="language" class="full-width">
+          <option value="Italiano">Italiano</option>
+          <option value="Finlandese">Finlandese</option>
+        </select>
+      </div>
 
-<button onclick="showAnswer()">Näytä vastaus</button>
-<button onclick="known()">Osasin</button>
-<button onclick="unknown()">En osannut</button>
+      <div class="grow">
+        <label>&nbsp;</label>
+        <button id="startButton" class="primary-button full-width" type="button">
+          Inizia da capo - Aloita alusta
+        </button>
+      </div>
+    </div>
 
-</div>
+    <div id="fileName" class="file-meta">Nessun file selezionato</div>
+  </div>
 
+  <div class="box">
+    <div id="stats" class="stats">Imparate | Tutte: 0 | 0</div>
+  </div>
 
-<!-- ========================================= -->
-<!-- SANASTO                                  -->
-<!-- Muokkaa vain tätä blokkia                -->
-<!-- ========================================= -->
+  <div class="box">
+    <div id="prompt" class="prompt">Scegli un file JSON e inizia il test.</div>
+    <div id="example" class="example"></div>
+    <div id="answer" class="answer"></div>
+  </div>
 
-<script id="vocabulary" type="text/plain">
+  <div class="buttons">
+    <button id="showAnswerButton" class="action-button" type="button">
+      Mostra la risposta<br>Näytä vastaus
+    </button>
 
-VERBI INTRANSITIVI CON AUSILIARE “AVERE”
+    <button id="failButton" class="action-button" type="button">
+      Non lo sapevo<br>En osannut
+    </button>
 
-abitare HO ABITATO (asua)
-ballare HO BALLATO (tanssia)
-camminare HO CAMMINATO (kävellä)
-cavalcare HO CAVALCATO (ratsastaa)
-cenare HO CENATO (syödä illallista)
-chiacchierare HO CHIACCHIERATO (jutella)
-collaborare HO COLLABORATO (tehdä yhteistyötä)
-conversare HO CONVERSATO (keskustella)
-divorziare HO DIVORZIATO (erota)
-dormire HO DORMITO (nukkua)
-esagerare HO ESAGERATO (liioitella)
-festeggiare HO FESTEGGIATO (juhlia)
-galleggiare HO GALLEGGIATO (kellua)
-ghignare HO GHIGNATO (ivata)
-giocare HO GIOCATO (leikkiä / pelata)
-girare HO GIRATO (kierrellä)
-gocciolare HA GOCCIOLATO (vuotaa)
-godere HO GODUTO (nauttia)
-insistere HO INSISTITO (vaatia)
-lavorare HO LAVORATO (työskennellä)
-litigare HO LITIGATO (riidellä)
-mentire HO MENTITO (valehdella)
-navigare HO NAVIGATO (navigoida – meressä, ja muuallakin, internetissä)
-nuotare HO NUOTATO (uida)
-obbedire HO OBBEDITO (totella)
-parlare HO PARLATO (puhua)
-partecipare HO PARTECIPATO (osallistua)
-passeggiare HO PASSEGGIATO (kävellä rauhallisesti / käveleskellä)
-pattinare HO PATTINATO (luistella)
-piangere HO PIANTO (itkeä)
-pranzare HO PRANZATO (syödä lounasta)
-puzzare HO PUZZATO (löyhkätä)
-ragionare HO RAGIONATO (järkeillä)
-remare HO REMATO (meloa / soutaa)
-ridere HO RISO (nauraa)
-riposare HO RIPOSATO (levätä)
-ruttare HO RUTTATO (röyhtäistä)
-sbadigliare HO SBADIGLIATO (haukotella)
-scherzare HO SCHERZATO (vitsailla)
-sciare HO SCIATO (hiihtää)
-sorridere HO SORRISO (hymyillä)
-sudare HO SUDATO (hikoilla)
-telefonare HO TELEFONATO (soittaa puhelimella)
-tossire HO TOSSITO (yskiä)
-viaggiare HO VIAGGIATO (matkustaa)
-volare HO VOLATO (lentää)
+    <button id="successButton" class="action-button" type="button">
+      Lo sapevo<br>Osasin
+    </button>
+  </div>
 
-</script>
+  <script>
+    let data = [];
+    let test = [];
+    let current = null;
+    let currentIndex = null;
+    let currentFileLabel = "";
 
+    const jsonSelect = document.getElementById("jsonSelect");
+    const fileName = document.getElementById("fileName");
+    const language = document.getElementById("language");
+    const startButton = document.getElementById("startButton");
+    const promptEl = document.getElementById("prompt");
+    const exampleEl = document.getElementById("example");
+    const answerEl = document.getElementById("answer");
+    const statsEl = document.getElementById("stats");
+    const showAnswerButton = document.getElementById("showAnswerButton");
+    const failButton = document.getElementById("failButton");
+    const successButton = document.getElementById("successButton");
 
-<script>
-
-let pairs = []
-let learned = 0
-let current = null
-let answerShown = false
-
-
-function loadVocabulary(){
-
-    let text = document.getElementById("vocabulary").textContent
-
-    let lines = text.split("\n").map(l => l.trim()).filter(l => l !== "")
-
-    let title = lines[0]
-
-    document.getElementById("title").innerText = title
-
-    for(let i=1;i<lines.length;i++){
-
-        let line = lines[i]
-
-        if(!line.includes("(")) continue
-
-        let it = line.split("(")[0].trim()
-
-        let fi = line.split("(")[1].replace(")","").trim()
-
-        pairs.push({it:it, fi:fi})
+    function setButtonsEnabled(enabled) {
+      startButton.disabled = !enabled;
+      showAnswerButton.disabled = !enabled;
+      failButton.disabled = !enabled;
+      successButton.disabled = !enabled;
     }
 
-    nextWord()
-}
-
-
-function updateStats(){
-
-    document.getElementById("stats").innerText =
-        "Osatut: " + learned +
-        " | Jäljellä: " + pairs.length +
-        " | Yhteensä: " + (learned + pairs.length)
-
-}
-
-
-function nextWord(){
-
-    if(pairs.length === 0){
-
-        document.getElementById("finnish").innerText =
-        "🎉 Ora hai imparato tutto!\nMa la ripetizione è la madre dello studio."
-
-        document.getElementById("italian").innerText = ""
-
-        return
+    function updateStats() {
+      const learned = data.length - test.length;
+      statsEl.innerText = "Imparate | Tutte: " + learned + " | " + data.length;
     }
 
-    let index = Math.floor(Math.random()*pairs.length)
-
-    current = pairs[index]
-
-    document.getElementById("finnish").innerText = current.fi
-
-    document.getElementById("italian").innerText = ""
-
-    answerShown = false
-
-    updateStats()
-}
-
-
-function showAnswer(){
-
-    if(!current) return
-
-    document.getElementById("italian").innerText = current.it
-
-    answerShown = true
-}
-
-
-function known(){
-
-    if(!answerShown) return
-
-    let index = pairs.indexOf(current)
-
-    pairs.splice(index,1)
-
-    learned++
-
-    nextWord()
-}
-
-
-function unknown(){
-
-    if(!answerShown) return
-
-    nextWord()
-}
-
-
-document.addEventListener("keydown", function(e){
-
-    if(e.code === "Space"){
-        e.preventDefault()
-        showAnswer()
+    function clearAnswer() {
+      answerEl.innerText = "";
     }
 
-    if(e.code === "ArrowLeft"){
-        known()
+    function clearExample() {
+      exampleEl.innerText = "";
     }
 
-    if(e.code === "ArrowRight"){
-        unknown()
+    function resetExerciseState() {
+      test = [];
+      current = null;
+      currentIndex = null;
+      clearAnswer();
+      clearExample();
+      updateStats();
     }
 
-})
+    function fileNameWithoutExtension(name) {
+      return String(name || "").replace(/\.json$/i, "");
+    }
 
+    function normalizePayload(parsed, fallbackFileName = "") {
+      if (Array.isArray(parsed)) {
+        return {
+          title: "",
+          source: "",
+          items: parsed,
+          fileLabel: fileNameWithoutExtension(fallbackFileName)
+        };
+      }
 
-loadVocabulary()
+      if (parsed && typeof parsed === "object" && Array.isArray(parsed.items)) {
+        return {
+          title: typeof parsed.title === "string" ? parsed.title.trim() : "",
+          source: typeof parsed.source === "string" ? parsed.source.trim() : "",
+          items: parsed.items,
+          fileLabel: fileNameWithoutExtension(fallbackFileName)
+        };
+      }
 
-</script>
+      throw new Error("Il file JSON deve contenere una lista oppure { title, source, items }.");
+    }
 
+    function validateData(arr) {
+      if (!Array.isArray(arr)) {
+        throw new Error("Il file JSON deve contenere una lista.");
+      }
+
+      for (let i = 0; i < arr.length; i++) {
+        const item = arr[i];
+
+        if (typeof item !== "object" || item === null) {
+          throw new Error("Elemento non valido alla posizione " + i);
+        }
+
+        const required = ["italian", "finnish", "example", "example_translation"];
+        for (const key of required) {
+          if (!(key in item)) {
+            throw new Error("Manca il campo '" + key + "' alla posizione " + i);
+          }
+        }
+      }
+    }
+
+    function buildVisibleLabel(filename, title, source) {
+      let label = (title && title.trim()) || fileNameWithoutExtension(filename) || "JSON";
+      if (source && source.trim()) {
+        label += " (" + source.trim() + ")";
+      }
+      return label;
+    }
+
+    function applyLoadedData(normalized, fallbackFileName = "") {
+      validateData(normalized.items);
+
+      data = normalized.items;
+      resetExerciseState();
+
+      currentFileLabel = buildVisibleLabel(
+        fallbackFileName,
+        normalized.title,
+        normalized.source
+      );
+
+      fileName.innerText = currentFileLabel;
+      promptEl.innerText = "File caricato. Premi Inizia da capo.";
+      clearExample();
+      clearAnswer();
+      updateStats();
+      setButtonsEnabled(true);
+    }
+
+    function render() {
+      if (test.length === 0) {
+        current = null;
+        currentIndex = null;
+        promptEl.innerText = "Benissimo!";
+        exampleEl.innerText = "";
+        answerEl.innerText = "";
+        updateStats();
+        return;
+      }
+
+      currentIndex = Math.floor(Math.random() * test.length);
+      current = test[currentIndex];
+
+      if (language.value === "Italiano") {
+        promptEl.innerText = current.italian;
+        exampleEl.innerText = current.example;
+      } else {
+        promptEl.innerText = current.finnish;
+        exampleEl.innerText = current.example_translation;
+      }
+
+      clearAnswer();
+      updateStats();
+    }
+
+    function showAnswer() {
+      if (!current) return;
+
+      if (language.value === "Italiano") {
+        answerEl.innerText = current.finnish + "\n" + current.example_translation;
+      } else {
+        answerEl.innerText = current.italian + "\n" + current.example;
+      }
+    }
+
+    function failItem() {
+      if (!current) return;
+      render();
+    }
+
+    function successItem() {
+      if (!current) return;
+      test.splice(currentIndex, 1);
+      render();
+    }
+
+    function start() {
+      if (data.length === 0) {
+        promptEl.innerText = "Scegli prima un file JSON.";
+        exampleEl.innerText = "";
+        answerEl.innerText = "";
+        return;
+      }
+
+      test = [...data];
+      current = null;
+      currentIndex = null;
+      render();
+    }
+
+    function refreshCurrentLanguageView() {
+      if (!current) return;
+
+      if (language.value === "Italiano") {
+        promptEl.innerText = current.italian;
+        exampleEl.innerText = current.example;
+      } else {
+        promptEl.innerText = current.finnish;
+        exampleEl.innerText = current.example_translation;
+      }
+
+      clearAnswer();
+    }
+
+    async function loadJsonFromSite(filename) {
+      if (!filename) return;
+
+      promptEl.innerText = "Caricamento del file JSON...";
+      clearExample();
+      clearAnswer();
+
+      try {
+        const response = await fetch(filename, { cache: "no-store" });
+
+        if (!response.ok) {
+          throw new Error("Load failed");
+        }
+
+        const parsed = await response.json();
+        const normalized = normalizePayload(parsed, filename);
+
+        applyLoadedData(normalized, filename);
+        start();
+      } catch (err) {
+        data = [];
+        resetExerciseState();
+        fileName.innerText = "Errore nel caricamento del file JSON.";
+        promptEl.innerText = "Errore nel caricamento del file JSON.";
+        exampleEl.innerText = "Controlla che il file esista nella stessa cartella di index.html.";
+        answerEl.innerText = err.message || "Load failed";
+        setButtonsEnabled(false);
+      }
+    }
+
+    async function loadFileList() {
+      try {
+        const response = await fetch("files.json", { cache: "no-store" });
+
+        if (!response.ok) {
+          throw new Error("Impossibile leggere files.json");
+        }
+
+        const files = await response.json();
+
+        if (!Array.isArray(files)) {
+          throw new Error("files.json deve contenere una lista di nomi file.");
+        }
+
+        jsonSelect.innerHTML = '<option value="">-- Scegli un file JSON --</option>';
+
+        files.forEach((filename) => {
+          const option = document.createElement("option");
+          option.value = filename;
+          option.textContent = fileNameWithoutExtension(filename);
+          jsonSelect.appendChild(option);
+        });
+      } catch (err) {
+        jsonSelect.innerHTML = '<option value="">Errore caricamento lista</option>';
+        fileName.innerText = "Errore nel caricamento di files.json.";
+        promptEl.innerText = "Controlla che files.json esista nella stessa cartella di index.html.";
+        exampleEl.innerText = err.message || "";
+        answerEl.innerText = "";
+        setButtonsEnabled(false);
+      }
+    }
+
+    jsonSelect.addEventListener("change", function() {
+      const filename = this.value;
+      if (!filename) return;
+      loadJsonFromSite(filename);
+    });
+
+    language.addEventListener("change", refreshCurrentLanguageView);
+    startButton.addEventListener("click", start);
+    showAnswerButton.addEventListener("click", showAnswer);
+    failButton.addEventListener("click", failItem);
+    successButton.addEventListener("click", successItem);
+
+    loadFileList();
+    setButtonsEnabled(false);
+    updateStats();
+  </script>
 
 </body>
 </html>

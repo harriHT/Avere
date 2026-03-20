@@ -1,4 +1,7 @@
-[
+{
+  "title": "Verbi riflessivi",
+  "source": "Bella Vista, p 239",
+  "items": [
   {
     "italian": "arrabbiarsi con",
     "finnish": "suuttua jollekin",
@@ -234,3 +237,4 @@
     "example_translation": "Rauhoitun nopeasti."
   }
 ]
+}
