@@ -153,11 +153,6 @@
     let current = null;
     let currentIndex = null;
 
-    const fileSources = {
-      "Verbi_intransitivi_con_ausiliare_AVERE.json": "Simone",
-      "Verbi_riflessivi.json": "Bella Vista I, p 239"
-    };
-
     const fileInput = document.getElementById("fileInput");
     const fileName = document.getElementById("fileName");
     const language = document.getElementById("language");
@@ -173,11 +168,6 @@
 
     function clearAnswer() {
       answerEl.innerText = "";
-    }
-
-    function getDisplayFileName(filename) {
-      const source = fileSources[filename];
-      return source ? filename + " (" + source + ")" : filename;
     }
 
     function validateData(arr) {
@@ -283,7 +273,7 @@
         return;
       }
 
-      fileName.innerText = getDisplayFileName(file.name);
+      fileName.innerText = file.name;
 
       const reader = new FileReader();
 
