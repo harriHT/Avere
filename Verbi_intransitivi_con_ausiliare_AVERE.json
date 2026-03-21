@@ -63,16 +63,58 @@
       "example_translation": "Nukuin hyvin."
     },
     {
-      "italian": "gocciolare",
-      "finnish": "tippua / vuotaa",
-      "example": "Ha gocciolato tutta la notte.",
-      "example_translation": "Se tiputti koko yön."
+      "italian": "esagerare",
+      "finnish": "liioitella",
+      "example": "Ho esagerato un po'.",
+      "example_translation": "Liioittelin vähän."
+    },
+    {
+      "italian": "festeggiare",
+      "finnish": "juhlia",
+      "example": "Ho festeggiato il compleanno.",
+      "example_translation": "Juhlin syntymäpäivää."
+    },
+    {
+      "italian": "galleggiare",
+      "finnish": "kellua",
+      "example": "Ho galleggiato nell'acqua.",
+      "example_translation": "Kelluin vedessä."
+    },
+    {
+      "italian": "ghignare",
+      "finnish": "ivata",
+      "example": "Ho ghignato per scherzo.",
+      "example_translation": "Ivailin leikilläni."
     },
     {
       "italian": "giocare",
-      "finnish": "pelata / leikkiä",
+      "finnish": "leikkiä / pelata",
       "example": "Ho giocato a carte.",
       "example_translation": "Pelasin korttia."
+    },
+    {
+      "italian": "girare",
+      "finnish": "kierrellä",
+      "example": "Ho girato in centro.",
+      "example_translation": "Kiertelin keskustassa."
+    },
+    {
+      "italian": "gocciolare",
+      "finnish": "vuotaa",
+      "example": "Ha gocciolato tutta la notte.",
+      "example_translation": "Se vuoti koko yön."
+    },
+    {
+      "italian": "godere",
+      "finnish": "nauttia",
+      "example": "Ho goduto del sole.",
+      "example_translation": "Nautin auringosta."
+    },
+    {
+      "italian": "insistere",
+      "finnish": "vaatia jatkuvasti",
+      "example": "Ho insistito molto.",
+      "example_translation": "Vaadin jatkuvasti paljon."
     },
     {
       "italian": "lavorare",
@@ -81,10 +123,46 @@
       "example_translation": "Työskentelin koko päivän."
     },
     {
+      "italian": "litigare",
+      "finnish": "riidellä",
+      "example": "Ho litigato con lui.",
+      "example_translation": "Riitelin hänen kanssaan."
+    },
+    {
+      "italian": "mentire",
+      "finnish": "valehdella",
+      "example": "Ho mentito ieri.",
+      "example_translation": "Valehtelin eilen."
+    },
+    {
+      "italian": "navigare",
+      "finnish": "navigoida meressä",
+      "example": "Ho navigato nel mare.",
+      "example_translation": "Navigoin merellä."
+    },
+    {
+      "italian": "nuotare",
+      "finnish": "uida",
+      "example": "Ho nuotato nel lago.",
+      "example_translation": "Uin järvessä."
+    },
+    {
+      "italian": "obbedire",
+      "finnish": "totella",
+      "example": "Ho obbedito al medico.",
+      "example_translation": "Tottelin lääkäriä."
+    },
+    {
       "italian": "parlare",
       "finnish": "puhua",
       "example": "Ho parlato con Maria.",
       "example_translation": "Puhuin Marian kanssa."
+    },
+    {
+      "italian": "partecipare",
+      "finnish": "osallistua",
+      "example": "Ho partecipato al corso.",
+      "example_translation": "Osallistuin kurssille."
     },
     {
       "italian": "passeggiare",
@@ -93,10 +171,100 @@
       "example_translation": "Käveleskelin kaupungissa."
     },
     {
+      "italian": "pattinare",
+      "finnish": "luistella",
+      "example": "Ho pattinato sul ghiaccio.",
+      "example_translation": "Luistelin jäällä."
+    },
+    {
+      "italian": "piangere",
+      "finnish": "itkeä",
+      "example": "Ho pianto molto.",
+      "example_translation": "Itkin paljon."
+    },
+    {
+      "italian": "pranzare",
+      "finnish": "syödä lounasta",
+      "example": "Ho pranzato al ristorante.",
+      "example_translation": "Söin lounasta ravintolassa."
+    },
+    {
+      "italian": "puzzare",
+      "finnish": "löyhkätä",
+      "example": "Ha puzzato terribilmente.",
+      "example_translation": "Se löyhkäsi hirveästi."
+    },
+    {
+      "italian": "ragionare",
+      "finnish": "järkeillä",
+      "example": "Ho ragionato con calma.",
+      "example_translation": "Järkeilin rauhallisesti."
+    },
+    {
+      "italian": "remare",
+      "finnish": "meloa / soutaa",
+      "example": "Ho remato per un'ora.",
+      "example_translation": "Soudin tunnin."
+    },
+    {
+      "italian": "ridere",
+      "finnish": "nauraa",
+      "example": "Ho riso molto.",
+      "example_translation": "Nauroin paljon."
+    },
+    {
+      "italian": "riposare",
+      "finnish": "levätä",
+      "example": "Ho riposato a lungo.",
+      "example_translation": "Lepäsin pitkään."
+    },
+    {
+      "italian": "ruttare",
+      "finnish": "röyhtäistä",
+      "example": "Ho ruttato forte.",
+      "example_translation": "Röyhtäisin kovaa."
+    },
+    {
+      "italian": "sbadigliare",
+      "finnish": "haukotella",
+      "example": "Ho sbadigliato spesso.",
+      "example_translation": "Haukottelin usein."
+    },
+    {
+      "italian": "scherzare",
+      "finnish": "vitsailla",
+      "example": "Ho scherzato con te.",
+      "example_translation": "Vitsailin kanssasi."
+    },
+    {
+      "italian": "sciare",
+      "finnish": "hiihtää",
+      "example": "Ho sciato in montagna.",
+      "example_translation": "Hiihdin vuorilla."
+    },
+    {
+      "italian": "sorridere",
+      "finnish": "hymyillä",
+      "example": "Ho sorriso a tutti.",
+      "example_translation": "Hymyilin kaikille."
+    },
+    {
+      "italian": "sudare",
+      "finnish": "hikoilla",
+      "example": "Ho sudato molto.",
+      "example_translation": "Hikoilin paljon."
+    },
+    {
       "italian": "telefonare",
-      "finnish": "soittaa",
+      "finnish": "soittaa puhelimella",
       "example": "Ho telefonato a Luca.",
       "example_translation": "Soitin Lucalle."
+    },
+    {
+      "italian": "tossire",
+      "finnish": "yskiä",
+      "example": "Ho tossito tutta la notte.",
+      "example_translation": "Yskin koko yön."
     },
     {
       "italian": "viaggiare",
