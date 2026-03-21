@@ -1,0 +1,186 @@
+{
+  "title": "Le vacanze",
+  "source": "Bella Vista I, p. 217",
+  "items": [
+    {
+      "italian": "un posto / luogo turistico",
+      "finnish": "turistipaikka",
+      "example": "Questo è un posto turistico molto famoso.",
+      "example_translation": "Tämä on hyvin kuuluisa turistipaikka."
+    },
+    {
+      "italian": "una località turistica",
+      "finnish": "turistikohde",
+      "example": "Questa è una località turistica molto bella.",
+      "example_translation": "Tämä on erittäin kaunis turistikohde."
+    },
+    {
+      "italian": "la macchina fotografica",
+      "finnish": "kamera",
+      "example": "Ho portato la macchina fotografica in vacanza.",
+      "example_translation": "Otin kameran mukaan lomalle."
+    },
+    {
+      "italian": "la fotocamera digitale",
+      "finnish": "digikamera",
+      "example": "Uso una fotocamera digitale.",
+      "example_translation": "Käytän digikameraa."
+    },
+    {
+      "italian": "la memory card",
+      "finnish": "muistikortti",
+      "example": "La memory card è piena.",
+      "example_translation": "Muistikortti on täynnä."
+    },
+    {
+      "italian": "la videocamera",
+      "finnish": "videokamera",
+      "example": "Filmo con la videocamera.",
+      "example_translation": "Kuvaan videokameralla."
+    },
+    {
+      "italian": "affittare una casa / un appartamento",
+      "finnish": "vuokrata talo / asunto",
+      "example": "Affittiamo una casa al mare.",
+      "example_translation": "Vuokraamme talon meren rannalta."
+    },
+    {
+      "italian": "noleggiare",
+      "finnish": "vuokrata (väline)",
+      "example": "Noleggiamo una barca.",
+      "example_translation": "Vuokraamme veneen."
+    },
+    {
+      "italian": "la cabina",
+      "finnish": "uimakoppi",
+      "example": "La cabina è vicino alla spiaggia.",
+      "example_translation": "Uimakoppi on lähellä rantaa."
+    },
+    {
+      "italian": "il lettino",
+      "finnish": "aurinkovuode",
+      "example": "Mi sdraio sul lettino.",
+      "example_translation": "Makaan aurinkovuoteella."
+    },
+    {
+      "italian": "l’ombrellone",
+      "finnish": "aurinkovarjo",
+      "example": "Siamo sotto l’ombrellone.",
+      "example_translation": "Olemme aurinkovarjon alla."
+    },
+    {
+      "italian": "il pattino",
+      "finnish": "polkuvene",
+      "example": "Usiamo il pattino sul lago.",
+      "example_translation": "Käytämme polkuvenettä järvellä."
+    },
+    {
+      "italian": "la sedia a sdraio / la sdraio",
+      "finnish": "lepotuoli",
+      "example": "Riposo sulla sdraio.",
+      "example_translation": "Lepään lepotuolissa."
+    },
+    {
+      "italian": "il bagnino",
+      "finnish": "uimavalvoja",
+      "example": "Il bagnino controlla i bagnanti.",
+      "example_translation": "Uimavalvoja valvoo uimareita."
+    },
+    {
+      "italian": "il costume da bagno",
+      "finnish": "uimapuku",
+      "example": "Indosso il costume da bagno.",
+      "example_translation": "Puen uimapuvun."
+    },
+    {
+      "italian": "la crema solare",
+      "finnish": "aurinkorasva",
+      "example": "Uso la crema solare.",
+      "example_translation": "Käytän aurinkorasvaa."
+    },
+    {
+      "italian": "gli occhiali da sole",
+      "finnish": "aurinkolasit",
+      "example": "Porto gli occhiali da sole.",
+      "example_translation": "Käytän aurinkolaseja."
+    },
+    {
+      "italian": "il salvagente",
+      "finnish": "uimarengas",
+      "example": "Il bambino usa il salvagente.",
+      "example_translation": "Lapsi käyttää uimarenkasta."
+    },
+    {
+      "italian": "il telo da spiaggia",
+      "finnish": "rantapyyhe",
+      "example": "Stendo il telo da spiaggia.",
+      "example_translation": "Levitän rantapyyhkeen."
+    },
+    {
+      "italian": "stare al sole / all’ombra",
+      "finnish": "olla auringossa / varjossa",
+      "example": "Sto al sole tutto il giorno.",
+      "example_translation": "Olen auringossa koko päivän."
+    },
+    {
+      "italian": "prendere il sole",
+      "finnish": "ottaa aurinkoa",
+      "example": "Prendo il sole in spiaggia.",
+      "example_translation": "Otan aurinkoa rannalla."
+    },
+    {
+      "italian": "fare il bagno",
+      "finnish": "uida / käydä uimassa",
+      "example": "Faccio il bagno nel mare.",
+      "example_translation": "Uin meressä."
+    },
+    {
+      "italian": "fare un picnic",
+      "finnish": "mennä piknikille",
+      "example": "Facciamo un picnic.",
+      "example_translation": "Menemme piknikille."
+    },
+    {
+      "italian": "fare fotografie",
+      "finnish": "ottaa valokuvia",
+      "example": "Faccio molte fotografie.",
+      "example_translation": "Otan paljon valokuvia."
+    },
+    {
+      "italian": "andare al cottage",
+      "finnish": "mennä mökille",
+      "example": "Andiamo al cottage.",
+      "example_translation": "Menemme mökille."
+    },
+    {
+      "italian": "fare la sauna",
+      "finnish": "saunoa",
+      "example": "Facciamo la sauna la sera.",
+      "example_translation": "Saunomme illalla."
+    },
+    {
+      "italian": "fare il barbeque",
+      "finnish": "grillata",
+      "example": "Facciamo il barbeque.",
+      "example_translation": "Grillaamme."
+    },
+    {
+      "italian": "nuotare nel lago",
+      "finnish": "uida järvessä",
+      "example": "Nuoto nel lago.",
+      "example_translation": "Uin järvessä."
+    },
+    {
+      "italian": "pescare",
+      "finnish": "kalastaa",
+      "example": "Pesco con mio padre.",
+      "example_translation": "Kalastan isäni kanssa."
+    },
+    {
+      "italian": "spaccare la legna",
+      "finnish": "hakata halkoja",
+      "example": "Spacco la legna.",
+      "example_translation": "Hakkaan halkoja."
+    }
+  ]
+}
