@@ -165,6 +165,12 @@
       white-space: normal;
     }
 
+    .info-text {
+      white-space: pre-line;
+      line-height: 1.6;
+      font-size: 17px;
+    }
+
     @media (max-width: 700px) {
       body {
         padding: 12px;
@@ -220,9 +226,30 @@
           Inizia da capo - Aloita alusta
         </button>
       </div>
+
+      <div class="grow">
+        <label>&nbsp;</label>
+        <button id="infoButton" class="full-width" type="button">
+          Di cosa si tratta?
+        </button>
+      </div>
     </div>
 
     <div id="fileName" class="file-meta">Nessun file selezionato</div>
+  </div>
+
+  <div id="infoBox" class="box" style="display:none;">
+    <div class="info-text">Avere – Ave Rex Educationis
+
+Avere on tarkoitettu joidenkin vaikeiden asioiden oppimiseen italian kielen alkeisopinnoissa (A1).
+
+Voin lisätä jonkin teeman mukaisia asioita tiettyyn tyyliin varsin helposti käyttämällä hyväksi tekoälyä. Sovellus toimii kuten “Flash Card”, mutta lisäksi on mukana pieni esimerkkilause. Olen havainnut tällaisen tavan hyödylliseksi.
+
+Muisti on assosiatiivista. Kun uusi asia liittyy johonkin vanhaan jo opittuun, se ikään kuin liittyy mukaan jo opittujen asioiden joukkoon, ja sen muistaa helpommin.
+
+Tee vain lista sanoista tai sanonnoista (suomeksi tai italiaksi), jotka sinua kiinnostavat, ja minä lisään listasi esimerkkeineen valikkoon (ehkä en sittenkään ;).
+
+harritoivonen{at}icloud.com</div>
   </div>
 
   <div class="box">
@@ -260,6 +287,8 @@
     const fileName = document.getElementById("fileName");
     const language = document.getElementById("language");
     const startButton = document.getElementById("startButton");
+    const infoButton = document.getElementById("infoButton");
+    const infoBox = document.getElementById("infoBox");
     const promptEl = document.getElementById("prompt");
     const exampleEl = document.getElementById("example");
     const answerEl = document.getElementById("answer");
@@ -520,6 +549,14 @@
     showAnswerButton.addEventListener("click", showAnswer);
     failButton.addEventListener("click", failItem);
     successButton.addEventListener("click", successItem);
+
+    infoButton.addEventListener("click", function() {
+      if (infoBox.style.display === "none") {
+        infoBox.style.display = "block";
+      } else {
+        infoBox.style.display = "none";
+      }
+    });
 
     loadFileList();
     setButtonsEnabled(false);
