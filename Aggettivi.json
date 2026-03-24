@@ -1,6 +1,6 @@
 {
-  "title": "Aggettivo",
-  "source": "Bella Vista 1, p. 109 et intelligenza artificiale et H.",
+  "title": "Aggettivi",
+  "source": "Bella Vista 1, p. 109 e Intelligenza Artificiale e H.",
   "items": [
   {
     "italian": "alto",
@@ -53,8 +53,8 @@
   {
     "italian": "dolce",
     "finnish": "makea",
-    "example": "Il dolce è buono.",
-    "example_translation": "Jälkiruoka on makea."
+    "example": "La torta è dolce.  Il dolce è dolce.",
+    "example_translation": "Kakku on makeaa. Jälkiruoka on makeaa."
   },
   {
     "italian": "secco",
