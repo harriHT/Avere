@@ -1,0 +1,252 @@
+{
+  "title": "Colori",
+  "source": "Intelligenza artificiale et H.",
+  "items": [
+    {
+      "italian": "bianco (variabile)",
+      "finnish": "valkoinen",
+      "example": "La neve è bianca.",
+      "example_translation": "Lumi on valkoista."
+    },
+    {
+      "italian": "nero (variabile)",
+      "finnish": "musta",
+      "example": "Il gatto è nero.",
+      "example_translation": "Kissa on musta."
+    },
+    {
+      "italian": "rosso (variabile)",
+      "finnish": "punainen",
+      "example": "La mela è rossa.",
+      "example_translation": "Omena on punainen."
+    },
+    {
+      "italian": "verde (variabile)",
+      "finnish": "vihreä",
+      "example": "L'erba è verde.",
+      "example_translation": "Ruoho on vihreää."
+    },
+    {
+      "italian": "blu (invariabile)",
+      "finnish": "sininen",
+      "example": "I pantaloni sono blu.",
+      "example_translation": "Housut ovat siniset."
+    },
+    {
+      "italian": "giallo (variabile)",
+      "finnish": "keltainen",
+      "example": "Il sole è giallo.",
+      "example_translation": "Aurinko on keltainen."
+    },
+    {
+      "italian": "arancione (invariabile)",
+      "finnish": "oranssi",
+      "example": "Le pareti sono arancione.",
+      "example_translation": "Seinät ovat oranssit."
+    },
+    {
+      "italian": "rosa (invariabile)",
+      "finnish": "vaaleanpunainen",
+      "example": "Le scarpe sono rosa.",
+      "example_translation": "Kengät ovat vaaleanpunaiset."
+    },
+    {
+      "italian": "viola (invariabile)",
+      "finnish": "violetti",
+      "example": "I fiori sono viola.",
+      "example_translation": "Kukat ovat violetteja."
+    },
+    {
+      "italian": "marrone (invariabile)",
+      "finnish": "ruskea",
+      "example": "Le scarpe sono marrone.",
+      "example_translation": "Kengät ovat ruskeat."
+    },
+    {
+      "italian": "grigio (variabile)",
+      "finnish": "harmaa",
+      "example": "Il cielo è grigio.",
+      "example_translation": "Taivas on harmaa."
+    },
+    {
+      "italian": "azzurro (variabile)",
+      "finnish": "vaaleansininen",
+      "example": "Gli occhi sono azzurri.",
+      "example_translation": "Silmät ovat vaaleansiniset."
+    },
+    {
+      "italian": "celeste (invariabile)",
+      "finnish": "taivaansininen",
+      "example": "Il cielo è celeste.",
+      "example_translation": "Taivas on taivaansininen."
+    },
+    {
+      "italian": "turchese (invariabile)",
+      "finnish": "turkoosi",
+      "example": "Il mare è turchese.",
+      "example_translation": "Meri on turkoosi."
+    },
+    {
+      "italian": "beige (invariabile)",
+      "finnish": "beige",
+      "example": "Il cappotto è beige.",
+      "example_translation": "Takki on beige."
+    },
+    {
+      "italian": "crema (invariabile)",
+      "finnish": "kermanvärinen",
+      "example": "Le tende sono color crema.",
+      "example_translation": "Verhot ovat kermanväriset."
+    },
+    {
+      "italian": "avorio (invariabile)",
+      "finnish": "norsunluunvärinen",
+      "example": "L'abito è color avorio.",
+      "example_translation": "Puku on norsunluunvärinen."
+    },
+    {
+      "italian": "oro (invariabile)",
+      "finnish": "kullanvärinen",
+      "example": "Le foglie diventano color oro.",
+      "example_translation": "Lehdet muuttuvat kullanvärisiksi."
+    },
+    {
+      "italian": "argento (invariabile)",
+      "finnish": "hopeanvärinen",
+      "example": "La macchina è color argento.",
+      "example_translation": "Auto on hopeanvärinen."
+    },
+    {
+      "italian": "dorato (variabile)",
+      "finnish": "kultainen",
+      "example": "Il bordo è dorato.",
+      "example_translation": "Reuna on kultainen."
+    },
+    {
+      "italian": "argentato (variabile)",
+      "finnish": "hopeinen",
+      "example": "L'orologio è argentato.",
+      "example_translation": "Kello on hopeinen."
+    },
+    {
+      "italian": "chiaro (variabile)",
+      "finnish": "vaalea",
+      "example": "Preferisco colori chiari.",
+      "example_translation": "Pidän vaaleista väreistä."
+    },
+    {
+      "italian": "scuro (variabile)",
+      "finnish": "tumma",
+      "example": "Indosso colori scuri.",
+      "example_translation": "Käytän tummia värejä."
+    },
+    {
+      "italian": "verde oliva (invariabile)",
+      "finnish": "oliivinvihreä",
+      "example": "I pantaloni sono verde oliva.",
+      "example_translation": "Housut ovat oliivinvihreät."
+    },
+    {
+      "italian": "blu navy (invariabile)",
+      "finnish": "laivastonsininen",
+      "example": "Il completo è blu navy.",
+      "example_translation": "Puku on laivastonsininen."
+    },
+    {
+      "italian": "bordeaux (invariabile)",
+      "finnish": "viininpunainen",
+      "example": "Le tende sono bordeaux.",
+      "example_translation": "Verhot ovat viininpunaiset."
+    },
+    {
+      "italian": "lilla (invariabile)",
+      "finnish": "liila",
+      "example": "Le nuvole sono lilla.",
+      "example_translation": "Pilvet ovat liilat."
+    },
+    {
+      "italian": "lavanda (invariabile)",
+      "finnish": "laventelinvärinen",
+      "example": "I cuscini sono lavanda.",
+      "example_translation": "Tyynyt ovat laventelinväriset."
+    },
+    {
+      "italian": "indaco (invariabile)",
+      "finnish": "indigo",
+      "example": "Il colore è indaco.",
+      "example_translation": "Väri on indigo."
+    },
+    {
+      "italian": "ocra (invariabile)",
+      "finnish": "okra",
+      "example": "I muri sono ocra.",
+      "example_translation": "Ulkoseinät ovat okranväriset."
+    },
+    {
+      "italian": "senape (invariabile)",
+      "finnish": "sinapinkeltainen",
+      "example": "La sciarpa è senape.",
+      "example_translation": "Huivi on sinapinkeltainen."
+    },
+    {
+      "italian": "corallo (invariabile)",
+      "finnish": "korallinvärinen",
+      "example": "Il rossetto è corallo.",
+      "example_translation": "Huulipuna on korallinvärinen."
+    },
+    {
+      "italian": "salmone (invariabile)",
+      "finnish": "lohenvärinen",
+      "example": "Le pareti sono salmone.",
+      "example_translation": "Seinät ovat lohenväriset."
+    },
+    {
+      "italian": "porpora (invariabile)",
+      "finnish": "purppura",
+      "example": "Il cielo è porpora.",
+      "example_translation": "Taivas on purppura."
+    },
+    {
+      "italian": "magenta (invariabile)",
+      "finnish": "magenta",
+      "example": "Il colore è magenta.",
+      "example_translation": "Väri on magenta."
+    },
+    {
+      "italian": "ciano (invariabile)",
+      "finnish": "syaani (sinivihreä)",
+      "example": "Usiamo ciano nella stampa.",
+      "example_translation": "Käytämme syaania painatuksessa."
+    },
+    {
+      "italian": "colorato (variabile)",
+      "finnish": "värikäs",
+      "example": "Il mercato è colorato.",
+      "example_translation": "Tori on värikäs."
+    },
+    {
+      "italian": "pallido (variabile)",
+      "finnish": "kalpea",
+      "example": "Il viso è pallido.",
+      "example_translation": "Kasvot ovat kalpeat."
+    },
+    {
+      "italian": "vivace (variabile)",
+      "finnish": "kirkas",
+      "example": "I colori sono vivaci.",
+      "example_translation": "Värit ovat eläväisiä (kirkkaita)."
+    },
+    {
+      "italian": "spento (variabile)",
+      "finnish": "himmeä",
+      "example": "Il verde è spento.",
+      "example_translation": "Vihreä väri on himmeää."
+    },
+    {
+      "italian": "pastello (variabile)",
+      "finnish": "pastellisävyinen",
+      "example": "I colori sono pastello.",
+      "example_translation": "Värit ovat pastellisävyisiä."
+    }
+  ]
+}
