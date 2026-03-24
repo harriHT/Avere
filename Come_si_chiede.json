@@ -1,0 +1,144 @@
+{
+  "title": "Come si chiede?",
+  "source": "Intelligenza artificiale et H.",
+  "items": [
+    {
+      "italian": "chi",
+      "finnish": "kuka, ketkä",
+      "example": "Chi è lui?",
+      "example_translation": "Kuka hän on?"
+    },
+    {
+      "italian": "che",
+      "finnish": "mitä; mikä",
+      "example": "Che fai?",
+      "example_translation": "Mitä teet?"
+    },
+    {
+      "italian": "che cosa",
+      "finnish": "mitä",
+      "example": "Che cosa vuoi?",
+      "example_translation": "Mitä haluat?"
+    },
+    {
+      "italian": "cosa",
+      "finnish": "mitä",
+      "example": "Cosa dici?",
+      "example_translation": "Mitä sanot?"
+    },
+    {
+      "italian": "quale",
+      "finnish": "mikä, kumpi",
+      "example": "Quale treno prendi?",
+      "example_translation": "Minkä junan otat?"
+    },
+    {
+      "italian": "quali",
+      "finnish": "mitkä",
+      "example": "Quali lingue parli?",
+      "example_translation": "Mitä kieliä puhut?"
+    },
+    {
+      "italian": "quanto",
+      "finnish": "kuinka paljon",
+      "example": "Quanto costa il biglietto?",
+      "example_translation": "Kuinka paljon lippu maksaa?"
+    },
+    {
+      "italian": "quando",
+      "finnish": "milloin",
+      "example": "Quando parti?",
+      "example_translation": "Milloin lähdet?"
+    },
+	{
+	  "italian": "che ore sono",
+	  "finnish": "paljonko kello on",
+	  "example": "Che ore sono?",
+	  "example_translation": "Paljonko kello on?"
+	},
+    {
+      "italian": "a che ora",
+      "finnish": "mihin aikaan",
+      "example": "A che ora parti?",
+      "example_translation": "Mihin aikaan lähdet?"
+    },
+    {
+      "italian": "a che ora",
+      "finnish": "mihin aikaan",
+      "example": "A che ora arriva il treno?",
+      "example_translation": "Mihin aikaan juna saapuu?"
+    },
+	{
+	  "italian": "quanto tempo ci vuole",
+	  "finnish": "kuinka kauan kestää",
+	  "example": "Quanto tempo ci vuole da Roma a Lecce?",
+	  "example_translation": "Kuinka kauan kestää Roomasta Lecceen?"
+	},
+    {
+      "italian": "dove",
+      "finnish": "missä; minne",
+      "example": "Dove vai?",
+      "example_translation": "Minne menet?"
+    },
+    {
+      "italian": "da dove",
+      "finnish": "mistä",
+      "example": "Da dove parti?",
+      "example_translation": "Mistä lähdet?"
+    },
+    {
+      "italian": "dove",
+      "finnish": "missä",
+      "example": "Dove sei?",
+      "example_translation": "Missä olet?"
+    },
+    {
+      "italian": "come",
+      "finnish": "miten",
+      "example": "Come arrivi?",
+      "example_translation": "Miten saavut?"
+    },
+    {
+      "italian": "come",
+      "finnish": "miten",
+      "example": "Come vai al lavoro?",
+      "example_translation": "Miten menet töihin?"
+    },
+    {
+      "italian": "perché",
+      "finnish": "miksi",
+      "example": "Perché parti presto?",
+      "example_translation": "Miksi lähdet aikaisin?"
+    },
+    {
+      "italian": "quanto tempo",
+      "finnish": "kuinka kauan",
+      "example": "Quanto tempo resti?",
+      "example_translation": "Kuinka kauan jäät?"
+    },
+    {
+      "italian": "da quanto tempo",
+      "finnish": "kuinka kauan (jo)",
+      "example": "Da quanto tempo vivi qui?",
+      "example_translation": "Kuinka kauan olet asunut täällä?"
+    },
+    {
+      "italian": "con chi",
+      "finnish": "kenen kanssa",
+      "example": "Con chi parti?",
+      "example_translation": "Kenen kanssa lähdet?"
+    },
+    {
+      "italian": "per dove",
+      "finnish": "minne päin",
+      "example": "Per dove parti?",
+      "example_translation": "Minne päin lähdet?"
+    },
+	{
+	  "italian": "di che colore",
+	  "finnish": "minkä värinen",
+	  "example": "Di che colore sono i fiori?",
+	  "example_translation": "Minkä värisiä kukat ovat?"
+	}
+  ]
+}
