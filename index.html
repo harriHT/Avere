@@ -317,6 +317,10 @@ harritoivonen{at}icloud.com</div>
       exampleEl.innerText = "";
     }
 
+    function hideInfo() {
+      infoBox.style.display = "none";
+    }
+
     function resetExerciseState() {
       test = [];
       current = null;
@@ -539,22 +543,53 @@ harritoivonen{at}icloud.com</div>
     }
 
     jsonSelect.addEventListener("change", function() {
+      hideInfo();
       const filename = this.value;
       if (!filename) return;
       loadJsonFromSite(filename);
     });
 
-    language.addEventListener("change", refreshCurrentLanguageView);
-    startButton.addEventListener("click", start);
-    showAnswerButton.addEventListener("click", showAnswer);
-    failButton.addEventListener("click", failItem);
-    successButton.addEventListener("click", successItem);
+    language.addEventListener("change", function() {
+      hideInfo();
+      refreshCurrentLanguageView();
+    });
 
-    infoButton.addEventListener("click", function() {
+    startButton.addEventListener("click", function() {
+      hideInfo();
+      start();
+    });
+
+    showAnswerButton.addEventListener("click", function() {
+      hideInfo();
+      showAnswer();
+    });
+
+    failButton.addEventListener("click", function() {
+      hideInfo();
+      failItem();
+    });
+
+    successButton.addEventListener("click", function() {
+      hideInfo();
+      successItem();
+    });
+
+    infoButton.addEventListener("click", function(event) {
+      event.stopPropagation();
       if (infoBox.style.display === "none") {
         infoBox.style.display = "block";
       } else {
         infoBox.style.display = "none";
+      }
+    });
+
+    infoBox.addEventListener("click", function(event) {
+      event.stopPropagation();
+    });
+
+    document.addEventListener("click", function(e) {
+      if (!infoBox.contains(e.target) && e.target !== infoButton) {
+        hideInfo();
       }
     });
 
