@@ -1,0 +1,211 @@
+{
+  "title": "Aggettivo",
+  "source": "Bella Vista 1, p. 109 et intelligenza artificiale et H.",
+  "items": [
+  {
+    "italian": "alto",
+    "finnish": "korkea, pitkä",
+    "example": "L'uomo è alto.",
+    "example_translation": "Mies on pitkä."
+  },
+  {
+    "italian": "basso",
+    "finnish": "matala, lyhyt",
+    "example": "Il ragazzo è basso.",
+    "example_translation": "Poika on lyhyt."
+  },
+  {
+    "italian": "anziano",
+    "finnish": "iäkäs",
+    "example": "Il signore è anziano.",
+    "example_translation": "Herra on iäkäs."
+  },
+  {
+    "italian": "giovane",
+    "finnish": "nuori",
+    "example": "Lei è giovane.",
+    "example_translation": "Hän on nuori."
+  },
+  {
+    "italian": "caldo",
+    "finnish": "kuuma",
+    "example": "Oggi è caldo.",
+    "example_translation": "Tänään on kuuma."
+  },
+  {
+    "italian": "freddo",
+    "finnish": "kylmä",
+    "example": "L'acqua è fredda.",
+    "example_translation": "Vesi on kylmää."
+  },
+  {
+    "italian": "contento di",
+    "finnish": "tyytyväinen johonkin",
+    "example": "Sono contento di te.",
+    "example_translation": "Olen tyytyväinen sinuun."
+  },
+  {
+    "italian": "scontento di",
+    "finnish": "tyytymätön johonkin",
+    "example": "È scontento di noi.",
+    "example_translation": "Hän on tyytymätön meihin."
+  },
+  {
+    "italian": "dolce",
+    "finnish": "makea",
+    "example": "Il dolce è buono.",
+    "example_translation": "Jälkiruoka on makea."
+  },
+  {
+    "italian": "secco",
+    "finnish": "kuiva",
+    "example": "Il vino è secco.",
+    "example_translation": "Viini on kuiva."
+  },
+  {
+    "italian": "salato",
+    "finnish": "suolainen",
+    "example": "La zuppa è salata.",
+    "example_translation": "Keitto on suolaista."
+  },
+  {
+    "italian": "amaro",
+    "finnish": "kitkerä",
+    "example": "Il caffè è amaro.",
+    "example_translation": "Kahvi on kitkerää."
+  },
+  {
+    "italian": "divertente",
+    "finnish": "hauska",
+    "example": "Il film è divertente.",
+    "example_translation": "Elokuva on hauska."
+  },
+  {
+    "italian": "noioso",
+    "finnish": "tylsä",
+    "example": "Il libro è noioso.",
+    "example_translation": "Kirja on tylsä."
+  },
+  {
+    "italian": "facile per",
+    "finnish": "helppo jollekin",
+    "example": "È facile per me.",
+    "example_translation": "Se on minulle helppo."
+  },
+  {
+    "italian": "difficile per",
+    "finnish": "vaikea jollekin",
+    "example": "È difficile per loro.",
+    "example_translation": "Se on heille vaikea."
+  },
+  {
+    "italian": "felice per",
+    "finnish": "onnellinen jonkun puolesta",
+    "example": "Sono felice per te.",
+    "example_translation": "Olen onnellinen puolestasi."
+  },
+  {
+    "italian": "triste per",
+    "finnish": "surullinen jonkun puolesta",
+    "example": "È triste per la vostra situazione.",
+    "example_translation": "Hän on surullinen teidän tilanteestanne."
+  },
+  {
+    "italian": "gentile con",
+    "finnish": "ystävällinen jollekulle",
+    "example": "Sei gentile con me.",
+    "example_translation": "Olet ystävällinen minulle."
+  },
+  {
+    "italian": "maleducato con",
+    "finnish": "epäkohtelias jollekulle",
+    "example": "È maleducato con lei.",
+    "example_translation": "Hän on epäkohtelias häntä kohtaan."
+  },
+  {
+    "italian": "simpatico",
+    "finnish": "mukava",
+    "example": "Lui è simpatico.",
+    "example_translation": "Hän on mukava."
+  },
+  {
+    "italian": "antipatico",
+    "finnish": "epämiellyttävä",
+    "example": "Quel tipo è antipatico.",
+    "example_translation": "Tuo tyyppi on epämiellyttävä."
+  },
+  {
+    "italian": "tranquillo",
+    "finnish": "rauhallinen",
+    "example": "Il posto è tranquillo.",
+    "example_translation": "Paikka on rauhallinen."
+  },
+  {
+    "italian": "vivace",
+    "finnish": "eloisa",
+    "example": "La città è vivace.",
+    "example_translation": "Kaupunki on eloisa."
+  },
+  {
+    "italian": "moderno",
+    "finnish": "nykyaikainen",
+    "example": "L'edificio è moderno.",
+    "example_translation": "Rakennus on nykyaikainen."
+  },
+  {
+    "italian": "tradizionale",
+    "finnish": "perinteinen",
+    "example": "È un piatto tradizionale.",
+    "example_translation": "Se on perinteinen ruoka."
+  },
+  {
+    "italian": "bello",
+    "finnish": "kaunis",
+    "example": "È una bella città, una città bella e interessante.",
+    "example_translation": "Se on kaunis kaupunki, kaunis ja kiinnostava kaupunki."
+  },
+  {
+    "italian": "brutto",
+    "finnish": "ruma",
+    "example": "È una brutta giornata, una giornata brutta e piovosa.",
+    "example_translation": "Se on huono päivä, ruma ja sateinen päivä."
+  },
+  {
+    "italian": "buono",
+    "finnish": "hyvä",
+    "example": "È un buon ristorante, un ristorante buono ed economico.",
+    "example_translation": "Se on hyvä ravintola, hyvä ja edullinen ravintola."
+  },
+  {
+    "italian": "cattivo con",
+    "finnish": "ilkeä jollekulle",
+    "example": "È un cattivo ragazzo con me, un ragazzo cattivo e arrogante.",
+    "example_translation": "Hän on minulle ilkeä poika, ilkeä ja ylimielinen poika."
+  },
+  {
+    "italian": "piccolo",
+    "finnish": "pieni",
+    "example": "È un piccolo paese, un paese piccolo e tranquillo.",
+    "example_translation": "Se on pieni maa, pieni ja rauhallinen maa."
+  },
+  {
+    "italian": "grande",
+    "finnish": "iso",
+    "example": "È una grande casa, una casa grande e luminosa.",
+    "example_translation": "Se on suuri talo, suuri ja valoisa talo."
+  },
+  {
+    "italian": "nuovo",
+    "finnish": "uusi",
+    "example": "Ho un nuovo telefono, un telefono nuovo e costoso.",
+    "example_translation": "Minulla on uusi puhelin, uusi ja kallis puhelin."
+  },
+  {
+    "italian": "vecchio",
+    "finnish": "vanha",
+    "example": "È un vecchio edificio, un edificio vecchio e storico.",
+    "example_translation": "Se on vanha rakennus, vanha ja historiallinen rakennus."
+  }
+
+]
+}
