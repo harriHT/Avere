@@ -42,7 +42,7 @@
       "italian": "arancione (invariabile)",
       "finnish": "oranssi",
       "example": "Le pareti sono arancione.",
-      "example_translation": "Seinät ovat oranssit."
+      "example_translation": "Seinät ovat oranssia."
     },
     {
       "italian": "rosa (invariabile)",
@@ -180,7 +180,7 @@
       "italian": "ocra (invariabile)",
       "finnish": "okra",
       "example": "I muri sono ocra.",
-      "example_translation": "Seinät ovat okranväriset."
+      "example_translation": "Ulkoseinät ovat okranväriset."
     },
     {
       "italian": "senape (invariabile)",
@@ -234,19 +234,19 @@
       "italian": "vivace (variabile)",
       "finnish": "kirkas",
       "example": "I colori sono vivaci.",
-      "example_translation": "Värit ovat kirkkaita."
+      "example_translation": "Värit ovat eläväisiä (kirkkaita)."
     },
     {
       "italian": "spento (variabile)",
       "finnish": "himmeä",
       "example": "Il verde è spento.",
-      "example_translation": "Vihreä on himmeä."
+      "example_translation": "Vihreä väri on himmeää."
     },
     {
-      "italian": "pastello (variabile)",
-      "finnish": "pastellisävyinen",
+      "italian": "pastello (invariabile)",
+      "finnish": "pastellinsävyinen",
       "example": "I colori sono pastello.",
-      "example_translation": "Värit ovat pastellisävyisiä."
+      "example_translation": "Värit ovat pastellinsävyisiä."
     }
   ]
 }
