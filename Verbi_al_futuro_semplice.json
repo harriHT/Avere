@@ -1,0 +1,186 @@
+{
+  "title": "Verbi al futuro semplice",
+  "source": "HT e l'intelligenza artificiale",
+  "items": [
+    {
+      "italian": "andare",
+      "finnish": "mennä",
+      "example": "Andrò in città domani.",
+      "example_translation": "Menen kaupunkiin huomenna."
+    },
+    {
+      "italian": "venire",
+      "finnish": "tulla",
+      "example": "Verrò a trovarti presto.",
+      "example_translation": "Tulen tapaamaan sinut pian."
+    },
+    {
+      "italian": "fare",
+      "finnish": "tehdä",
+      "example": "Tra una settimana farò un brindisi in onore del Primo Maggio.",
+      "example_translation": "Viikon päästä nostan maljan Vapun kunniaksi."
+    },
+    {
+      "italian": "dire",
+      "finnish": "sanoa",
+      "example": "Dirò la verità domani.",
+      "example_translation": "Sanon totuuden huomenna."
+    },
+    {
+      "italian": "vedere",
+      "finnish": "nähdä",
+      "example": "Vedrò amici questo fine settimana.",
+      "example_translation": "Näen ystäviä viikonloppuna."
+    },
+    {
+      "italian": "trovare",
+      "finnish": "löytää",
+      "example": "Troverò una soluzione presto.",
+      "example_translation": "Löydän ratkaisun pian."
+    },
+    {
+      "italian": "pensare",
+      "finnish": "ajatella",
+      "example": "Penserò a te domani.",
+      "example_translation": "Ajattelen sinua huomenna."
+    },
+    {
+      "italian": "credere",
+      "finnish": "uskoa",
+      "example": "Crederò alle tue parole.",
+      "example_translation": "Uskon sinun sanoihisi."
+    },
+    {
+      "italian": "lavorare",
+      "finnish": "työskennellä",
+      "example": "Lavorerò in ufficio domani.",
+      "example_translation": "Työskentelen toimistossa huomenna."
+    },
+    {
+      "italian": "studiare",
+      "finnish": "opiskella",
+      "example": "Studierò italiano stasera.",
+      "example_translation": "Opiskelen italiaa tänä iltana."
+    },
+    {
+      "italian": "mangiare",
+      "finnish": "syödä",
+      "example": "Mangerò al ristorante domani.",
+      "example_translation": "Syön ravintolassa huomenna."
+    },
+    {
+      "italian": "bere",
+      "finnish": "juoda",
+      "example": "Berremo vino insieme stasera.",
+      "example_translation": "Juomme viiniä yhdessä tänä iltana."
+    },
+    {
+      "italian": "partire",
+      "finnish": "lähteä",
+      "example": "Partirò presto domani mattina.",
+      "example_translation": "Lähden aikaisin huomenna aamulla."
+    },
+    {
+      "italian": "arrivare",
+      "finnish": "saapua",
+      "example": "Arriverò nel pomeriggio domani.",
+      "example_translation": "Saavun iltapäivällä huomenna."
+    },
+    {
+      "italian": "entrare",
+      "finnish": "mennä sisään",
+      "example": "Entrerò nella stanza tra poco.",
+      "example_translation": "Menen huoneeseen pian."
+    },
+    {
+      "italian": "uscire",
+      "finnish": "mennä ulos",
+      "example": "Uscirò con amici stasera.",
+      "example_translation": "Menen ulos ystävien kanssa tänä iltana."
+    },
+    {
+      "italian": "restare",
+      "finnish": "jäädä",
+      "example": "Resterò a casa domani sera.",
+      "example_translation": "Jään kotiin huomenna illalla."
+    },
+    {
+      "italian": "tornare",
+      "finnish": "palata",
+      "example": "Tornerò a casa tardi.",
+      "example_translation": "Palaan kotiin myöhään."
+    },
+    {
+      "italian": "salire",
+      "finnish": "nousta",
+      "example": "Salirò in macchina subito.",
+      "example_translation": "Nousen autoon heti."
+    },
+    {
+      "italian": "scendere",
+      "finnish": "laskeutua",
+      "example": "Scenderò dal treno presto.",
+      "example_translation": "Nousen pois junasta pian."
+    },
+    {
+      "italian": "comprare",
+      "finnish": "ostaa",
+      "example": "Comprerò pane fresco domani.",
+      "example_translation": "Ostan tuoretta leipää huomenna."
+    },
+    {
+      "italian": "vendere",
+      "finnish": "myydä",
+      "example": "Venderò la macchina presto.",
+      "example_translation": "Myyn auton pian."
+    },
+    {
+      "italian": "aprire",
+      "finnish": "avata",
+      "example": "Aprirò la porta subito.",
+      "example_translation": "Avaan oven heti."
+    },
+    {
+      "italian": "chiudere",
+      "finnish": "sulkea",
+      "example": "Chiuderò il negozio alle otto.",
+      "example_translation": "Suljen kaupan kahdeksalta."
+    },
+    {
+      "italian": "scrivere",
+      "finnish": "kirjoittaa",
+      "example": "Scriverò una email domani.",
+      "example_translation": "Kirjoitan sähköpostin huomenna."
+    },
+    {
+      "italian": "leggere",
+      "finnish": "lukea",
+      "example": "Leggerò questo libro presto.",
+      "example_translation": "Luen tämän kirjan pian."
+    },
+    {
+      "italian": "ascoltare",
+      "finnish": "kuunnella",
+      "example": "Ascolterò musica questa sera.",
+      "example_translation": "Kuuntelen musiikkia tänä iltana."
+    },
+    {
+      "italian": "guardare",
+      "finnish": "katsoa",
+      "example": "Guarderò un film stasera.",
+      "example_translation": "Katson elokuvan tänä iltana."
+    },
+    {
+      "italian": "viaggiare",
+      "finnish": "matkustaa",
+      "example": "Viaggerò in Italia presto.",
+      "example_translation": "Matkustan Italiaan pian."
+    },
+    {
+      "italian": "imbarcarsi",
+      "finnish": "nousta laivaan/lentokoneeseen",
+      "example": "Mi imbarcherò sulla nave domani.",
+      "example_translation": "Nousen laivaan huomenna."
+    }
+  ]
+}
