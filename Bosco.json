@@ -1,0 +1,180 @@
+{
+  "title": "Il bosco e la sua vendita",
+  "source": "T e IA",
+  "items": [
+    {
+      "italian": "bosco",
+      "finnish": "metsä",
+      "example": "Il bosco cresce bene.",
+      "example_translation": "Metsä kasvaa hyvin."
+    },
+    {
+      "italian": "vendere",
+      "finnish": "myydä",
+      "example": "Vendo il terreno oggi.",
+      "example_translation": "Myyn tontin tänään."
+    },
+    {
+      "italian": "comprare",
+      "finnish": "ostaa",
+      "example": "Compro il bosco domani.",
+      "example_translation": "Ostan metsän huomenna."
+    },
+    {
+      "italian": "prezzo",
+      "finnish": "hinta",
+      "example": "Il prezzo è alto.",
+      "example_translation": "Hinta on korkea."
+    },
+    {
+      "italian": "ettaro",
+      "finnish": "hehtaari",
+      "example": "Ho quattro ettari.",
+      "example_translation": "Minulla on neljä hehtaaria."
+    },
+    {
+      "italian": "terreno",
+      "finnish": "maa-alue",
+      "example": "Il terreno è buono.",
+      "example_translation": "Maa-alue on hyvä."
+    },
+    {
+      "italian": "permesso",
+      "finnish": "lupa",
+      "example": "Ho chiesto il permesso.",
+      "example_translation": "Pyysin lupaa."
+    },
+    {
+      "italian": "strada",
+      "finnish": "tie",
+      "example": "La strada porta lì.",
+      "example_translation": "Tie tulee sinne."
+    },
+    {
+      "italian": "fiume",
+      "finnish": "joki",
+      "example": "Il fiume passa vicino.",
+      "example_translation": "Joki kulkee lähellä."
+    },
+    {
+      "italian": "riva",
+      "finnish": "ranta",
+      "example": "La riva è bella.",
+      "example_translation": "Ranta on kaunis."
+    },
+    {
+      "italian": "tagliare",
+      "finnish": "hakata",
+      "example": "Ho tagliato il bosco.",
+      "example_translation": "Olen hakannut metsää."
+    },
+    {
+      "italian": "crescere",
+      "finnish": "kasvaa",
+      "example": "Gli alberi cresceranno presto.",
+      "example_translation": "Puut kasvavat pian."
+    },
+    {
+      "italian": "betulla",
+      "finnish": "koivu",
+      "example": "La betulla cresce veloce.",
+      "example_translation": "Koivu kasvaa nopeasti."
+    },
+    {
+      "italian": "abete",
+      "finnish": "kuusi",
+      "example": "L’abete è alto.",
+      "example_translation": "Kuusi on korkea."
+    },
+    {
+      "italian": "comprare",
+      "finnish": "ostaa",
+      "example": "Hai comprato il terreno?",
+      "example_translation": "Ostitko tontin?"
+    },
+    {
+      "italian": "vendere",
+      "finnish": "myydä",
+      "example": "Ho venduto il bosco.",
+      "example_translation": "Myin metsän."
+    },
+    {
+      "italian": "costruire",
+      "finnish": "rakentaa",
+      "example": "Costruirò una casa lì.",
+      "example_translation": "Rakennan talon sinne."
+    },
+    {
+      "italian": "permesso",
+      "finnish": "lupa",
+      "example": "Otterrò il permesso presto.",
+      "example_translation": "Saan luvan pian."
+    },
+    {
+      "italian": "andare",
+      "finnish": "mennä",
+      "example": "Andrò al terreno domani.",
+      "example_translation": "Menen tontille huomenna."
+    },
+    {
+      "italian": "venire",
+      "finnish": "tulla",
+      "example": "Verrà il compratore oggi.",
+      "example_translation": "Ostaja tulee tänään."
+    },
+    {
+      "italian": "volere",
+      "finnish": "haluta",
+      "example": "Vorrei vendere il terreno.",
+      "example_translation": "Haluaisin myydä tontin."
+    },
+    {
+      "italian": "potere",
+      "finnish": "voida",
+      "example": "Potrei comprare il bosco.",
+      "example_translation": "Voisin ostaa metsän."
+    },
+    {
+      "italian": "dovere",
+      "finnish": "täytyä",
+      "example": "Devo chiedere il permesso.",
+      "example_translation": "Minun täytyy pyytää lupa."
+    },
+    {
+      "italian": "avere",
+      "finnish": "omistaa",
+      "example": "Ho un buon terreno.",
+      "example_translation": "Minulla on hyvä maa-alue."
+    },
+    {
+      "italian": "essere",
+      "finnish": "olla",
+      "example": "Il bosco è grande.",
+      "example_translation": "Metsä on suuri."
+    },
+    {
+      "italian": "vedere",
+      "finnish": "nähdä",
+      "example": "Ho visto il terreno.",
+      "example_translation": "Näin tontin."
+    },
+    {
+      "italian": "trovare",
+      "finnish": "löytää",
+      "example": "Troverò un compratore.",
+      "example_translation": "Löydän ostajan."
+    },
+    {
+      "italian": "parlare",
+      "finnish": "puhua",
+      "example": "Parlo con il vicino.",
+      "example_translation": "Puhun naapurin kanssa."
+    },
+    {
+      "italian": "aprire",
+      "finnish": "avata",
+      "example": "Aprirò una strada lì.",
+      "example_translation": "Avaan tien sinne."
+    }
+  ]
+}
