@@ -5,8 +5,8 @@
     {
       "italian": "andare",
       "finnish": "mennä",
-      "example": "Andrò in città domani.",
-      "example_translation": "Menen kaupunkiin huomenna."
+      "example": "Andrai in città domani?.",
+      "example_translation": "Menetkö kaupunkiin huomenna?"
     },
     {
       "italian": "venire",
@@ -59,8 +59,8 @@
     {
       "italian": "studiare",
       "finnish": "opiskella",
-      "example": "Studierò italiano stasera.",
-      "example_translation": "Opiskelen italiaa tänä iltana."
+      "example": "Studiate italiano stasera?",
+      "example_translation": "Opiskeletteko italiaa tänään illalla?"
     },
     {
       "italian": "mangiare",
@@ -113,8 +113,8 @@
     {
       "italian": "salire",
       "finnish": "nousta",
-      "example": "Salirò in macchina subito.",
-      "example_translation": "Nousen autoon heti."
+      "example": "Saliranno in macchina tra poco.",
+      "example_translation": "He nousevat autoon ihan kohta."
     },
     {
       "italian": "scendere",
@@ -125,14 +125,20 @@
     {
       "italian": "comprare",
       "finnish": "ostaa",
+      "example": "Compreremo i regali più tardi.",
+      "example_translation": "Ostamme lahjat myöhemmin."
+    },
+    {
+      "italian": "comprare",
+      "finnish": "ostaa",
       "example": "Comprerò pane fresco domani.",
       "example_translation": "Ostan tuoretta leipää huomenna."
     },
     {
       "italian": "vendere",
       "finnish": "myydä",
-      "example": "Venderò la macchina presto.",
-      "example_translation": "Myyn auton pian."
+      "example": "Lui venderà la macchina dopodomani.",
+      "example_translation": "Hän myy auton ylihuomenna."
     },
     {
       "italian": "aprire",
