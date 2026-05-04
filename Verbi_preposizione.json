@@ -190,7 +190,7 @@
     },
     {
       "italian": "stanco di",
-      "finnish": "kyllästynyt",
+      "finnish": "väsynyt/kyllästynyt",
       "example": "Sei stanco di lavorare.",
       "example_translation": "Olet kyllästynyt työskentelemään."
     },
@@ -216,7 +216,7 @@
       "italian": "insieme a",
       "finnish": "yhdessä jonkun kanssa",
       "example": "Vieni insieme a me!",
-      "example_translation": "Tule minun kanssani!"
+      "example_translation": "Tule yhdessä minun kanssani!"
     },
     {
       "italian": "senza",
