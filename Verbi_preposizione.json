@@ -1,0 +1,246 @@
+{
+  "title": "Preposizioni difficili",
+  "source": "IA/HT - esercizi",
+  "items": [
+    {
+      "italian": "dipendere da",
+      "finnish": "riippua jostakin",
+      "example": "Dipende da te.",
+      "example_translation": "Riippuu sinusta."
+    },
+    {
+      "italian": "pensare a",
+      "finnish": "ajatella jotakuta",
+      "example": "Pensi a me.",
+      "example_translation": "Ajattelet minua."
+    },
+    {
+      "italian": "credere a",
+      "finnish": "uskoa jotakuta (jonkun sanomaa asiaa)",
+      "example": "Credo a Luca, ma non credo in lui.",
+      "example_translation": "Uskon Lucaa, mutta en usko häneen (hänen kykyynsä)."
+    },
+    {
+      "italian": "credere in",
+      "finnish": "uskoa johonkuhun / johonkin (uskoa kykyyn)",
+      "example": "Crediamo in te, ma non sempre ti crediamo.",
+      "example_translation": "Uskomme sinuun, mutta emme aina usko sinua."
+    },
+    {
+      "italian": "riuscire a",
+      "finnish": "onnistua tekemään",
+      "example": "Riescono a farlo.",
+      "example_translation": "He onnistuvat siinä (tekemään sen)."
+    },
+    {
+      "italian": "provare a",
+      "finnish": "yrittää tehdä",
+      "example": "Provi a studiare.",
+      "example_translation": "Yrität opiskella."
+    },
+    {
+      "italian": "imparare a",
+      "finnish": "oppia tekemään",
+      "example": "Imparo a parlare.",
+      "example_translation": "Opin puhumaan."
+    },
+    {
+      "italian": "smettere di",
+      "finnish": "lopettaa tekeminen",
+      "example": "Smetti di fumare.",
+      "example_translation": "Lopetat tupakoinnin."
+    },
+    {
+      "italian": "finire di",
+      "finnish": "lopettaa tekeminen",
+      "example": "Finiamo di lavorare.",
+      "example_translation": "Lopetamme työn."
+    },
+    {
+      "italian": "avere bisogno di",
+      "finnish": "tarvita jotakin",
+      "example": "Hanno bisogno di aiuto.",
+      "example_translation": "He tarvitsevat apua."
+    },
+    {
+      "italian": "andare a",
+      "finnish": "mennä (kaupunkiin)",
+      "example": "Vai a Roma.",
+      "example_translation": "Menet Roomaan."
+    },
+    {
+      "italian": "andare in",
+      "finnish": "mennä (maahan)",
+      "example": "Andiamo in Italia.",
+      "example_translation": "Menemme Italiaan."
+    },
+    {
+      "italian": "andare da",
+      "finnish": "mennä jonkun luo",
+      "example": "Vanno da Maria.",
+      "example_translation": "He menevät Marian luo."
+    },
+    {
+      "italian": "tornare a casa",
+      "finnish": "palata kotiin",
+      "example": "Torno a casa.",
+      "example_translation": "Palaan kotiin."
+    },
+    {
+      "italian": "da (tempo)",
+      "finnish": "jo jonkin aikaa",
+      "example": "Studiamo da due anni.",
+      "example_translation": "Olemme opiskelleet kaksi vuotta."
+    },
+    {
+      "italian": "per (tempo)",
+      "finnish": "jonkin aikaa",
+      "example": "Hanno studiato per due anni.",
+      "example_translation": "He opiskelivat kaksi vuotta."
+    },
+    {
+      "italian": "tra/fra",
+      "finnish": "jonkin ajan kuluttua",
+      "example": "Partite tra un’ora.",
+      "example_translation": "Lähdette tunnin kuluttua."
+    },
+    {
+      "italian": "a Natale",
+      "finnish": "jouluna",
+      "example": "Partiamo a Natale.",
+      "example_translation": "Lähdemme jouluna."
+    },
+    {
+      "italian": "in estate",
+      "finnish": "kesällä",
+      "example": "Viaggiano in estate.",
+      "example_translation": "He matkustavat kesällä."
+    },
+    {
+      "italian": "con",
+      "finnish": "kanssa",
+      "example": "Vengo con te.",
+      "example_translation": "Tulen kanssasi."
+    },
+    {
+      "italian": "parlare di",
+      "finnish": "puhua jostakin",
+      "example": "Parla di te.",
+      "example_translation": "Hän puhuu sinusta."
+    },
+    {
+      "italian": "parlare con",
+      "finnish": "puhua jonkun kanssa",
+      "example": "Parliamo con Maria.",
+      "example_translation": "Puhumme Marian kanssa."
+    },
+    {
+      "italian": "chiedere a",
+      "finnish": "kysyä joltakin",
+      "example": "Chiedono a lui un consiglio.",
+      "example_translation": "He kysyvät häneltä neuvoa."
+    },
+    {
+      "italian": "chiedere di",
+      "finnish": "pyytää tekemään",
+      "example": "Chiedo di entrare.",
+      "example_translation": "Pyydän saada tulla sisään."
+    },
+    {
+      "italian": "dire a",
+      "finnish": "sanoa jollekin",
+      "example": "Dici a Luca.",
+      "example_translation": "Sanot Lucalle."
+    },
+    {
+      "italian": "dire di",
+      "finnish": "sanoa tehdä",
+      "example": "Dice di venire.",
+      "example_translation": "Hän sanoo tulevansa."
+    },
+    {
+      "italian": "pensare di",
+      "finnish": "aikoa tehdä",
+      "example": "Pensiamo di partire.",
+      "example_translation": "Aiomme lähteä."
+    },
+    {
+      "italian": "decidere di",
+      "finnish": "päättää tehdä",
+      "example": "Decidono di studiare.",
+      "example_translation": "He päättävät opiskella."
+    },
+    {
+      "italian": "riempire di",
+      "finnish": "täyttää jollakin",
+      "example": "Riempio il bicchiere di acqua.",
+      "example_translation": "Täytän lasin vedellä."
+    },
+    {
+      "italian": "pieno di",
+      "finnish": "täynnä",
+      "example": "Il sacco è pieno di mele.",
+      "example_translation": "Säkki on täynnä omenoita."
+    },
+    {
+      "italian": "contento di",
+      "finnish": "tyytyväinen",
+      "example": "Siamo contenti di te.",
+      "example_translation": "Olemme tyytyväisiä sinuun."
+    },
+    {
+      "italian": "stanco di",
+      "finnish": "kyllästynyt",
+      "example": "Sei stanco di lavorare.",
+      "example_translation": "Olet kyllästynyt työskentelemään."
+    },
+    {
+      "italian": "innamorato di",
+      "finnish": "rakastunut",
+      "example": "È innamorato di lei.",
+      "example_translation": "Hän on rakastunut häneen."
+    },
+    {
+      "italian": "vicino a",
+      "finnish": "lähellä",
+      "example": "Viviamo vicino a Roma.",
+      "example_translation": "Asumme lähellä Roomaa."
+    },
+    {
+      "italian": "lontano da",
+      "finnish": "kaukana",
+      "example": "Sono lontani da casa.",
+      "example_translation": "He ovat kaukana kotoa."
+    },
+    {
+      "italian": "insieme a",
+      "finnish": "yhdessä jonkun kanssa",
+      "example": "Vieni insieme a me!",
+      "example_translation": "Tule minun kanssani!"
+    },
+    {
+      "italian": "senza",
+      "finnish": "ilman",
+      "example": "Partono senza noi.",
+      "example_translation": "He lähtevät ilman meitä."
+    },
+    {
+      "italian": "prima di",
+      "finnish": "ennen",
+      "example": "Mangiamo prima di partire.",
+      "example_translation": "Syömme ennen lähtöä."
+    },
+    {
+      "italian": "dopo",
+      "finnish": "jälkeen",
+      "example": "Partono dopo cena.",
+      "example_translation": "He lähtevät illallisen jälkeen."
+    },
+    {
+      "italian": "partire per",
+      "finnish": "lähteä johonkin",
+      "example": "Partiranno dopo cena per Roma.",
+      "example_translation": "He lähtevät illallisen jälkeen Roomaan."
+    }
+  ]
+}
