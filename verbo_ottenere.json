@@ -1,0 +1,372 @@
+{
+  "title": "Verbo ottenere",
+  "source": "HT e ChatGPT",
+  "items": [
+    {
+      "italian": "ottenere",
+      "finnish": "saada, saavuttaa, hankkia",
+      "example": "Voglio ottenere buoni risultati.",
+      "example_translation": "Haluan saavuttaa hyviä tuloksia."
+    },
+    {
+      "italian": "ottenere qualcosa",
+      "finnish": "saada jotakin",
+      "example": "Ho ottenuto il permesso.",
+      "example_translation": "Sain luvan."
+    },
+    {
+      "italian": "ottenere un permesso",
+      "finnish": "saada lupa",
+      "example": "Ho ottenuto il permesso.",
+      "example_translation": "Sain luvan."
+    },
+    {
+      "italian": "ottenere un visto",
+      "finnish": "saada viisumi",
+      "example": "Hai ottenuto il visto?",
+      "example_translation": "Saitko viisumin?"
+    },
+    {
+      "italian": "ottenere un certificato",
+      "finnish": "saada todistus",
+      "example": "Per ottenere il certificato, devi compilare questo modulo.",
+      "example_translation": "Saadaksesi todistuksen sinun täytyy täyttää tämä lomake."
+    },
+    {
+      "italian": "ottenere un'autorizzazione",
+      "finnish": "saada lupa, saada valtuutus",
+      "example": "Non sono riuscito a ottenere l'autorizzazione.",
+      "example_translation": "En onnistunut saamaan lupaa."
+    },
+    {
+      "italian": "ottenere un risultato",
+      "finnish": "saada tulos, saavuttaa tulos",
+      "example": "Abbiamo ottenuto un buon risultato.",
+      "example_translation": "Saavutimme hyvän tuloksen."
+    },
+    {
+      "italian": "ottenere risultati migliori",
+      "finnish": "saada parempia tuloksia",
+      "example": "Con questo metodo si ottengono risultati migliori.",
+      "example_translation": "Tällä menetelmällä saadaan parempia tuloksia."
+    },
+    {
+      "italian": "ottenere risultati interessanti",
+      "finnish": "saada kiinnostavia tuloksia",
+      "example": "L'esperimento ha ottenuto risultati interessanti.",
+      "example_translation": "Koe tuotti kiinnostavia tuloksia."
+    },
+    {
+      "italian": "ottenere qualcosa alla fine",
+      "finnish": "saada lopulta jotakin aikaan",
+      "example": "Che cosa hai ottenuto alla fine?",
+      "example_translation": "Mitä sait lopulta aikaan?"
+    },
+    {
+      "italian": "ottenere uno sconto",
+      "finnish": "saada alennus",
+      "example": "Ho ottenuto uno sconto.",
+      "example_translation": "Sain alennuksen."
+    },
+    {
+      "italian": "ottenere un prezzo migliore",
+      "finnish": "saada parempi hinta",
+      "example": "Possiamo ottenere un prezzo migliore.",
+      "example_translation": "Voimme saada paremman hinnan."
+    },
+    {
+      "italian": "ottenere un vantaggio",
+      "finnish": "saada hyöty, saada etu",
+      "example": "Da questo accordo entrambe le parti ottengono un vantaggio.",
+      "example_translation": "Tästä sopimuksesta molemmat osapuolet saavat hyödyn."
+    },
+    {
+      "italian": "ottenere un lavoro",
+      "finnish": "saada työpaikka",
+      "example": "Ha ottenuto un lavoro a Roma.",
+      "example_translation": "Hän sai työpaikan Roomasta."
+    },
+    {
+      "italian": "ottenere un posto",
+      "finnish": "saada paikka",
+      "example": "Mia figlia ha ottenuto un posto all'università.",
+      "example_translation": "Tyttäreni sai paikan yliopistosta."
+    },
+    {
+      "italian": "ottenere una posizione",
+      "finnish": "saavuttaa asema",
+      "example": "Dopo molti anni ha ottenuto una posizione importante.",
+      "example_translation": "Monen vuoden jälkeen hän saavutti tärkeän aseman."
+    },
+    {
+      "italian": "ottenere un voto",
+      "finnish": "saada arvosana",
+      "example": "Ho ottenuto un buon voto all'esame.",
+      "example_translation": "Sain hyvän arvosanan kokeesta."
+    },
+    {
+      "italian": "ottenere la vittoria",
+      "finnish": "saavuttaa voitto",
+      "example": "La squadra ha ottenuto la vittoria.",
+      "example_translation": "Joukkue saavutti voiton."
+    },
+    {
+      "italian": "ottenere voti",
+      "finnish": "saada ääniä",
+      "example": "Il candidato ha ottenuto molti voti.",
+      "example_translation": "Ehdokas sai paljon ääniä."
+    },
+    {
+      "italian": "ottenere il primo posto",
+      "finnish": "saada ensimmäinen sija",
+      "example": "Ha ottenuto il primo posto.",
+      "example_translation": "Hän sai ensimmäisen sijan."
+    },
+    {
+      "italian": "ottenere un valore",
+      "finnish": "saada arvo",
+      "example": "Abbiamo ottenuto questo valore con una simulazione.",
+      "example_translation": "Saimme tämän arvon simulaatiolla."
+    },
+    {
+      "italian": "dati ottenuti",
+      "finnish": "saadut tiedot",
+      "example": "I dati ottenuti sono coerenti con il modello.",
+      "example_translation": "Saadut tiedot ovat mallin kanssa yhdenmukaisia."
+    },
+    {
+      "italian": "soluzione ottenuta",
+      "finnish": "saatu ratkaisu",
+      "example": "La soluzione ottenuta è stabile.",
+      "example_translation": "Saatu ratkaisu on stabiili."
+    },
+    {
+      "italian": "ottenere un prodotto",
+      "finnish": "saada tuote",
+      "example": "Il prodotto si ottiene riscaldando la miscela.",
+      "example_translation": "Tuote saadaan kuumentamalla seosta."
+    },
+    {
+      "italian": "come ottenere",
+      "finnish": "miten saada",
+      "example": "Come hai ottenuto questi dati?",
+      "example_translation": "Miten sait nämä tiedot?"
+    },
+    {
+      "italian": "ottenere informazioni",
+      "finnish": "saada tietoja",
+      "example": "Dove posso ottenere maggiori informazioni?",
+      "example_translation": "Mistä voin saada lisätietoja?"
+    },
+    {
+      "italian": "ottenere il passaporto",
+      "finnish": "saada passi",
+      "example": "Quanto tempo ci vuole per ottenere il passaporto?",
+      "example_translation": "Kuinka kauan kestää saada passi?"
+    },
+    {
+      "italian": "ottenere un risultato",
+      "finnish": "saavuttaa tulos",
+      "example": "Che risultato vuoi ottenere?",
+      "example_translation": "Minkä tuloksen haluat saavuttaa?"
+    },
+    {
+      "italian": "non ottenere nulla",
+      "finnish": "ei saada mitään",
+      "example": "Non ho ottenuto nulla.",
+      "example_translation": "En saanut mitään."
+    },
+    {
+      "italian": "non ottenere il risultato sperato",
+      "finnish": "ei saada toivottua tulosta",
+      "example": "Non abbiamo ottenuto il risultato sperato.",
+      "example_translation": "Emme saaneet toivottua tulosta."
+    },
+    {
+      "italian": "non ottenere niente",
+      "finnish": "ei saada mitään aikaan",
+      "example": "Non otterrai niente con questo atteggiamento.",
+      "example_translation": "Et saa mitään aikaan tuolla asenteella."
+    },
+    {
+      "italian": "si ottiene",
+      "finnish": "saadaan",
+      "example": "Senza documenti non si ottiene il permesso.",
+      "example_translation": "Ilman asiakirjoja lupaa ei saa."
+    },
+    {
+      "italian": "otterrò",
+      "finnish": "minä saan, minä saavutan",
+      "example": "Otterrò una risposta domani.",
+      "example_translation": "Saan vastauksen huomenna."
+    },
+    {
+      "italian": "otterrai",
+      "finnish": "sinä saat, sinä saavutat",
+      "example": "Otterrai risultati migliori se studi ogni giorno.",
+      "example_translation": "Saat parempia tuloksia, jos opiskelet joka päivä."
+    },
+    {
+      "italian": "otterrà",
+      "finnish": "hän saa, hän saavuttaa",
+      "example": "Lui otterrà il permesso.",
+      "example_translation": "Hän saa luvan."
+    },
+    {
+      "italian": "otterremo",
+      "finnish": "me saamme, me saavutamme",
+      "example": "Noi otterremo più informazioni.",
+      "example_translation": "Saamme lisää tietoja."
+    },
+    {
+      "italian": "otterrete",
+      "finnish": "te saatte, te saavutatte",
+      "example": "Voi otterrete un buon prezzo.",
+      "example_translation": "Te saatte hyvän hinnan."
+    },
+    {
+      "italian": "otterranno",
+      "finnish": "he saavat, he saavuttavat",
+      "example": "Loro otterranno quello che vogliono.",
+      "example_translation": "He saavat sen, mitä haluavat."
+    },
+    {
+      "italian": "spero di ottenere",
+      "finnish": "toivon saavani",
+      "example": "Spero di ottenere una risposta presto.",
+      "example_translation": "Toivon saavani vastauksen pian."
+    },
+    {
+      "italian": "che lui ottenga",
+      "finnish": "että hän saa",
+      "example": "Spero che lui ottenga il permesso.",
+      "example_translation": "Toivon, että hän saa luvan."
+    },
+    {
+      "italian": "che otteniamo",
+      "finnish": "että saamme",
+      "example": "È importante che otteniamo dati affidabili.",
+      "example_translation": "On tärkeää, että saamme luotettavia tietoja."
+    },
+    {
+      "italian": "che tu ottenga",
+      "finnish": "että sinä saat",
+      "example": "Voglio che tu ottenga buoni risultati.",
+      "example_translation": "Haluan, että saat hyviä tuloksia."
+    },
+    {
+      "italian": "vorrei ottenere",
+      "finnish": "haluaisin saada",
+      "example": "Vorrei ottenere più informazioni.",
+      "example_translation": "Haluaisin saada lisätietoja."
+    },
+    {
+      "italian": "otterremmo",
+      "finnish": "me saisimme, me saavuttaisimme",
+      "example": "Con più tempo otterremmo risultati migliori.",
+      "example_translation": "Lisäajalla saisimme parempia tuloksia."
+    },
+    {
+      "italian": "otterresti",
+      "finnish": "sinä saisit, sinä saavuttaisit",
+      "example": "Se studiassi di più, otterresti un voto migliore.",
+      "example_translation": "Jos opiskelisit enemmän, saisit paremman arvosanan."
+    },
+    {
+      "italian": "si otterrebbe",
+      "finnish": "saataisiin",
+      "example": "Con questo metodo si otterrebbe una soluzione più precisa.",
+      "example_translation": "Tällä menetelmällä saataisiin tarkempi ratkaisu."
+    },
+    {
+      "italian": "si ottiene un risultato",
+      "finnish": "saadaan tulos",
+      "example": "Si ottiene un buon risultato.",
+      "example_translation": "Saadaan hyvä tulos."
+    },
+    {
+      "italian": "come si ottiene",
+      "finnish": "miten saadaan",
+      "example": "Come si ottiene questo valore?",
+      "example_translation": "Miten tämä arvo saadaan?"
+    },
+    {
+      "italian": "da qualcosa si ottiene qualcosa",
+      "finnish": "jostakin saadaan jotakin",
+      "example": "Da questa reazione si ottiene un nuovo prodotto.",
+      "example_translation": "Tästä reaktiosta saadaan uusi tuote."
+    },
+    {
+      "italian": "mescolando si ottiene",
+      "finnish": "sekoittamalla saadaan",
+      "example": "Mescolando questi ingredienti si ottiene una crema morbida.",
+      "example_translation": "Sekoittamalla nämä ainekset saadaan pehmeä kreemi."
+    },
+    {
+      "italian": "ottengo",
+      "finnish": "minä saan, minä saavutan",
+      "example": "Ottengo buoni risultati.",
+      "example_translation": "Saan hyviä tuloksia."
+    },
+    {
+      "italian": "ottieni",
+      "finnish": "sinä saat, sinä saavutat",
+      "example": "Tu ottieni sempre quello che vuoi.",
+      "example_translation": "Sinä saat aina sen, mitä haluat."
+    },
+    {
+      "italian": "ottiene",
+      "finnish": "hän saa, hän saavuttaa",
+      "example": "Con questo metodo si ottiene un risultato migliore.",
+      "example_translation": "Tällä menetelmällä saadaan parempi tulos."
+    },
+    {
+      "italian": "otteniamo",
+      "finnish": "me saamme, me saavutamme",
+      "example": "Noi otteniamo più informazioni.",
+      "example_translation": "Me saamme lisää tietoja."
+    },
+    {
+      "italian": "ottenete",
+      "finnish": "te saatte, te saavutatte",
+      "example": "Voi ottenete buoni risultati.",
+      "example_translation": "Te saatte hyviä tuloksia."
+    },
+    {
+      "italian": "ottengono",
+      "finnish": "he saavat, he saavuttavat",
+      "example": "Loro ottengono il permesso.",
+      "example_translation": "He saavat luvan."
+    },
+    {
+      "italian": "otterrà buoni risultati",
+      "finnish": "hän saa hyviä tuloksia",
+      "example": "Otterrà buoni risultati.",
+      "example_translation": "Hän saa hyviä tuloksia."
+    },
+    {
+      "italian": "otterrà il permesso",
+      "finnish": "hän saa luvan",
+      "example": "Otterrà il permesso.",
+      "example_translation": "Hän saa luvan."
+    },
+    {
+      "italian": "con pazienza otterrà",
+      "finnish": "kärsivällisyydellä hän saa",
+      "example": "Con pazienza otterrà quello che vuole.",
+      "example_translation": "Kärsivällisyydellä hän saa sen, mitä haluaa."
+    },
+    {
+      "italian": "ottenere un effetto",
+      "finnish": "saada aikaan vaikutus",
+      "example": "Con questa modifica otteniamo un effetto chiaro.",
+      "example_translation": "Tällä muutoksella saamme aikaan selvän vaikutuksen."
+    },
+    {
+      "italian": "ottenere una risposta",
+      "finnish": "saada vastaus",
+      "example": "Spero di ottenere una risposta domani.",
+      "example_translation": "Toivon saavani vastauksen huomenna."
+    }
+  ]
+}
