@@ -238,19 +238,19 @@
     },
     {
       "italian": "che lui ottenga",
-      "finnish": "että hän saa",
+      "finnish": "että hän saa (huom. konjuktiivi)",
       "example": "Spero che lui ottenga il permesso.",
       "example_translation": "Toivon, että hän saa luvan."
     },
     {
       "italian": "che otteniamo",
-      "finnish": "että saamme",
+      "finnish": "että saamme (congiuntivo presente)",
       "example": "È importante che otteniamo dati affidabili.",
       "example_translation": "On tärkeää, että saamme luotettavia tietoja."
     },
     {
       "italian": "che tu ottenga",
-      "finnish": "että sinä saat",
+      "finnish": "että sinä saat (huom konjuktiivi)",
       "example": "Voglio che tu ottenga buoni risultati.",
       "example_translation": "Haluan, että saat hyviä tuloksia."
     },
