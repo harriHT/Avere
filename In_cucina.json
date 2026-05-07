@@ -1,0 +1,186 @@
+{
+  "title": "Cucina e preparazione del cibo",
+  "source": "Bella Vista II, p. 16",
+  "items": [
+    {
+      "italian": "affettare",
+      "finnish": "viipaloida, siivuttaa",
+      "example": "Affetto i pomodori per l'insalata.",
+      "example_translation": "Viipaloin tomaatit salaattia varten."
+    },
+    {
+      "italian": "aggiungere",
+      "finnish": "lisätä",
+      "example": "Aggiungi un po' di sale.",
+      "example_translation": "Lisää vähän suolaa."
+    },
+    {
+      "italian": "bollire",
+      "finnish": "keittää, kiehua",
+      "example": "L'acqua bolle già.",
+      "example_translation": "Vesi kiehuu jo."
+    },
+    {
+      "italian": "condire",
+      "finnish": "maustaa",
+      "example": "Condisco l'insalata con olio d'oliva.",
+      "example_translation": "Maustan salaatin oliiviöljyllä."
+    },
+    {
+      "italian": "cuocere",
+      "finnish": "kypsentää",
+      "example": "Cuocio il pesce nel forno.",
+      "example_translation": "Kypsennän kalan uunissa."
+    },
+    {
+      "italian": "friggere",
+      "finnish": "paistaa, friteerata",
+      "example": "Friggiamo le patate.",
+      "example_translation": "Paistamme perunat."
+    },
+    {
+      "italian": "grattugiare",
+      "finnish": "raastaa",
+      "example": "Grattugia il formaggio sulla pasta.",
+      "example_translation": "Raasta juustoa pastan päälle."
+    },
+    {
+      "italian": "mescolare",
+      "finnish": "sekoittaa",
+      "example": "Mescola bene la zuppa.",
+      "example_translation": "Sekoita keitto hyvin."
+    },
+    {
+      "italian": "pelare",
+      "finnish": "kuoria",
+      "example": "Pelo le patate.",
+      "example_translation": "Kuorin perunat."
+    },
+    {
+      "italian": "sciacquare",
+      "finnish": "huuhdota",
+      "example": "Sciacqua bene le verdure.",
+      "example_translation": "Huuhtele vihannekset hyvin."
+    },
+    {
+      "italian": "scolare la pasta",
+      "finnish": "valuttaa pasta",
+      "example": "Scolo la pasta nel lavello.",
+      "example_translation": "Valutan pastan tiskialtaassa."
+    },
+    {
+      "italian": "apparecchiare (la tavola)",
+      "finnish": "kattaa (pöytä)",
+      "example": "Apparecchio la tavola per gli ospiti.",
+      "example_translation": "Katoin pöydän vieraille."
+    },
+    {
+      "italian": "assaggiare",
+      "finnish": "maistaa",
+      "example": "Vuoi assaggiare questa salsa?",
+      "example_translation": "Haluatko maistaa tätä kastiketta?"
+    },
+    {
+      "italian": "essere una buona forchetta",
+      "finnish": "olla herkkusuu",
+      "example": "Mio nonno è una buona forchetta.",
+      "example_translation": "Isoisäni on herkkusuu."
+    },
+    {
+      "italian": "fare il bis",
+      "finnish": "santsata",
+      "example": "Ho fatto il bis della lasagna.",
+      "example_translation": "Otin lisää lasagnea."
+    },
+    {
+      "italian": "passare (a)",
+      "finnish": "ojentaa (jollekulle)",
+      "example": "Mi passi il pane, per favore?",
+      "example_translation": "Ojennatko minulle leivän, kiitos?"
+    },
+    {
+      "italian": "sparecchiare",
+      "finnish": "siivota ruokapöytä",
+      "example": "I bambini sparecchiano dopo cena.",
+      "example_translation": "Lapset korjaavat pöydän illallisen jälkeen."
+    },
+    {
+      "italian": "la tovaglia",
+      "finnish": "pöytäliina",
+      "example": "La tovaglia è bianca.",
+      "example_translation": "Pöytäliina on valkoinen."
+    },
+    {
+      "italian": "versare (a)",
+      "finnish": "kaataa (jollekulle)",
+      "example": "Ti verso un bicchiere di vino.",
+      "example_translation": "Kaadan sinulle lasillisen viiniä."
+    },
+    {
+      "italian": "Delizioso",
+      "finnish": "herkullista",
+      "example": "Questo dolce è delizioso!",
+      "example_translation": "Tämä jälkiruoka on herkullinen!"
+    },
+    {
+      "italian": "Squisito",
+      "finnish": "erinomaista, herkullista",
+      "example": "Il risotto era squisito.",
+      "example_translation": "Risotto oli erinomaista."
+    },
+    {
+      "italian": "Saporito",
+      "finnish": "maukasta",
+      "example": "Il brodo è molto saporito.",
+      "example_translation": "Liemi on hyvin maukasta."
+    },
+    {
+      "italian": "la credenza",
+      "finnish": "astiakaappi, keittiökaappi",
+      "example": "I piatti sono nella credenza.",
+      "example_translation": "Lautaset ovat astiakaapissa."
+    },
+    {
+      "italian": "il colapasta",
+      "finnish": "pastasiivilä",
+      "example": "Metti la pasta nel colapasta.",
+      "example_translation": "Laita pasta siivilään."
+    },
+    {
+      "italian": "la padella",
+      "finnish": "paistinpannu",
+      "example": "La carne è nella padella.",
+      "example_translation": "Liha on paistinpannulla."
+    },
+    {
+      "italian": "la pentola",
+      "finnish": "kattila",
+      "example": "La zuppa cuoce nella pentola.",
+      "example_translation": "Keitto kypsyy kattilassa."
+    },
+    {
+      "italian": "il frigorifero",
+      "finnish": "jääkaappi",
+      "example": "Il latte è nel frigorifero.",
+      "example_translation": "Maito on jääkaapissa."
+    },
+    {
+      "italian": "il forno",
+      "finnish": "uuni",
+      "example": "Il pane è nel forno.",
+      "example_translation": "Leipä on uunissa."
+    },
+    {
+      "italian": "il lavello",
+      "finnish": "tiskiallas",
+      "example": "I piatti sporchi sono nel lavello.",
+      "example_translation": "Likaiset astiat ovat tiskialtaassa."
+    },
+    {
+      "italian": "la lavastoviglie",
+      "finnish": "astianpesukone",
+      "example": "La lavastoviglie è piena.",
+      "example_translation": "Astianpesukone on täynnä."
+    }
+  ]
+}
