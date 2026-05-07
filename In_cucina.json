@@ -88,7 +88,7 @@
     },
     {
       "italian": "fare il bis",
-      "finnish": "santsata",
+      "finnish": "santsata, ottaa toinen annos",
       "example": "Ho fatto il bis della lasagna.",
       "example_translation": "Otin lisää lasagnea."
     },
@@ -100,7 +100,7 @@
     },
     {
       "italian": "sparecchiare",
-      "finnish": "siivota ruokapöytä",
+      "finnish": "korjata pöytä, siivota ruokapöytä",
       "example": "I bambini sparecchiano dopo cena.",
       "example_translation": "Lapset korjaavat pöydän illallisen jälkeen."
     },
@@ -115,6 +115,30 @@
       "finnish": "kaataa (jollekulle)",
       "example": "Ti verso un bicchiere di vino.",
       "example_translation": "Kaadan sinulle lasillisen viiniä."
+    },
+    {
+      "italian": "Ne vuoi ancora un po'?",
+      "finnish": "Haluatko vielä vähän lisää?",
+      "example": "Ne vuoi ancora un po' di torta?",
+      "example_translation": "Haluatko vielä vähän lisää kakkua?"
+    },
+    {
+      "italian": "No, grazie, sono pieno.",
+      "finnish": "Ei kiitos, olen täynnä.",
+      "example": "No, grazie, sono pieno dopo la pasta.",
+      "example_translation": "Ei kiitos, olen täynnä pastan jälkeen."
+    },
+    {
+      "italian": "Sto scoppiando.",
+      "finnish": "Olen halkeamaisillani.",
+      "example": "Ho mangiato troppo, sto scoppiando.",
+      "example_translation": "Söin liikaa, olen halkeamaisillani."
+    },
+    {
+      "italian": "Complimenti al cuoco!",
+      "finnish": "Kehut kokille!",
+      "example": "Complimenti al cuoco, era ottimo!",
+      "example_translation": "Kehut kokille, se oli erinomaista!"
     },
     {
       "italian": "Delizioso",
@@ -159,10 +183,40 @@
       "example_translation": "Keitto kypsyy kattilassa."
     },
     {
+      "italian": "il congelatore",
+      "finnish": "pakastin",
+      "example": "La carne è nel congelatore.",
+      "example_translation": "Liha on pakastimessa."
+    },
+    {
+      "italian": "il freezer",
+      "finnish": "pakastin",
+      "example": "Il gelato è nel freezer.",
+      "example_translation": "Jäätelö on pakastimessa."
+    },
+    {
       "italian": "il frigorifero",
       "finnish": "jääkaappi",
       "example": "Il latte è nel frigorifero.",
       "example_translation": "Maito on jääkaapissa."
+    },
+    {
+      "italian": "il frigo",
+      "finnish": "jääkaappi",
+      "example": "La bottiglia è nel frigo.",
+      "example_translation": "Pullo on jääkaapissa."
+    },
+    {
+      "italian": "il tostapane",
+      "finnish": "leivänpaahdin",
+      "example": "Il tostapane è nuovo.",
+      "example_translation": "Leivänpaahdin on uusi."
+    },
+    {
+      "italian": "il fornello",
+      "finnish": "liesilevy, liesi",
+      "example": "Il fornello è ancora caldo.",
+      "example_translation": "Liesi on vielä kuuma."
     },
     {
       "italian": "il forno",
@@ -171,16 +225,64 @@
       "example_translation": "Leipä on uunissa."
     },
     {
+      "italian": "l'apribottiglie",
+      "finnish": "pullonavaaja",
+      "example": "Dov'è l'apribottiglie?",
+      "example_translation": "Missä pullonavaaja on?"
+    },
+    {
+      "italian": "il mestolo",
+      "finnish": "kauha",
+      "example": "Mescola la zuppa con il mestolo.",
+      "example_translation": "Sekoita keittoa kauhalla."
+    },
+    {
+      "italian": "il cavatappi",
+      "finnish": "korkkiruuvi",
+      "example": "Cerco il cavatappi.",
+      "example_translation": "Etsin korkkiruuvia."
+    },
+    {
+      "italian": "la grattugia",
+      "finnish": "raastin",
+      "example": "La grattugia è sul tavolo.",
+      "example_translation": "Raastin on pöydällä."
+    },
+    {
+      "italian": "il rubinetto",
+      "finnish": "hana",
+      "example": "Chiudi il rubinetto.",
+      "example_translation": "Sulje hana."
+    },
+    {
       "italian": "il lavello",
       "finnish": "tiskiallas",
       "example": "I piatti sporchi sono nel lavello.",
       "example_translation": "Likaiset astiat ovat tiskialtaassa."
     },
     {
+      "italian": "la ciotola",
+      "finnish": "kulho",
+      "example": "L'insalata è nella ciotola.",
+      "example_translation": "Salaatti on kulhossa."
+    },
+    {
+      "italian": "il pelapatate",
+      "finnish": "perunankuorija",
+      "example": "Uso il pelapatate per le carote.",
+      "example_translation": "Käytän kuorijaa porkkanoille."
+    },
+    {
       "italian": "la lavastoviglie",
       "finnish": "astianpesukone",
       "example": "La lavastoviglie è piena.",
       "example_translation": "Astianpesukone on täynnä."
+    },
+    {
+      "italian": "la lavapiatti",
+      "finnish": "astianpesukone",
+      "example": "La lavapiatti fa troppo rumore.",
+      "example_translation": "Astianpesukone pitää liikaa ääntä."
     }
   ]
 }
