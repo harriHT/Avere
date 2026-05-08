@@ -72,7 +72,7 @@
       "italian": "apparecchiare (la tavola)",
       "finnish": "kattaa (pöytä)",
       "example": "Apparecchio la tavola per gli ospiti.",
-      "example_translation": "Katoin pöydän vieraille."
+      "example_translation": "Katan pöydän vieraille."
     },
     {
       "italian": "assaggiare",
@@ -117,10 +117,10 @@
       "example_translation": "Kaadan sinulle lasillisen viiniä."
     },
     {
-      "italian": "Ne vuoi ancora un po'?",
-      "finnish": "Haluatko vielä vähän lisää?",
-      "example": "Ne vuoi ancora un po' di torta?",
-      "example_translation": "Haluatko vielä vähän lisää kakkua?"
+      "italian": "fare il bis",
+      "finnish": "ottaa lisää",
+      "example": "Vorrei fare il bis della torta.",
+      "example_translation": "Haluaisin ottaa lisää kakkua."
     },
     {
       "italian": "No, grazie, sono pieno.",
