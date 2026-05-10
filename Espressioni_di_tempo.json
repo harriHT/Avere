@@ -1,0 +1,234 @@
+{
+  "title": "Espressioni di tempo",
+  "source": "HT e IA",
+  "items": [
+    {
+      "italian": "dal 1800 in poi",
+      "finnish": "1800-luvulta lähtien",
+      "example": "Dal 1800 in poi la città è cresciuta rapidamente.",
+      "example_translation": "1800-luvulta lähtien kaupunki on kasvanut nopeasti."
+    },
+    {
+      "italian": "dalla metà dell’Ottocento",
+      "finnish": "1800-luvun puolivälistä",
+      "example": "Dalla metà dell’Ottocento si coltivano patate in questa zona.",
+      "example_translation": "1800-luvun puolivälistä lähtien tällä alueella on viljelty perunaa."
+    },
+    {
+      "italian": "all’inizio del Novecento",
+      "finnish": "1900-luvun alussa",
+      "example": "All’inizio del Novecento Torino era una città industriale.",
+      "example_translation": "1900-luvun alussa Torino oli teollisuuskaupunki."
+    },
+    {
+      "italian": "alla fine del secolo",
+      "finnish": "vuosisadan lopussa",
+      "example": "Alla fine del secolo molte cose cambiarono.",
+      "example_translation": "Vuosisadan lopussa monet asiat muuttuivat."
+    },
+    {
+      "italian": "durante la guerra",
+      "finnish": "sodan aikana",
+      "example": "Durante la guerra molte città furono distrutte.",
+      "example_translation": "Sodan aikana monet kaupungit tuhoutuivat."
+    },
+    {
+      "italian": "prima della lezione",
+      "finnish": "ennen oppituntia",
+      "example": "Bevo un caffè prima della lezione.",
+      "example_translation": "Juon kahvin ennen oppituntia."
+    },
+    {
+      "italian": "dopo il lavoro",
+      "finnish": "työn jälkeen",
+      "example": "Dopo il lavoro torno subito a casa.",
+      "example_translation": "Työn jälkeen palaan heti kotiin."
+    },
+    {
+      "italian": "tra due giorni",
+      "finnish": "kahden päivän kuluttua",
+      "example": "Partiremo tra due giorni.",
+      "example_translation": "Lähdemme kahden päivän kuluttua."
+    },
+    {
+      "italian": "fra poco",
+      "finnish": "hetken kuluttua",
+      "example": "Il treno arriverà fra poco.",
+      "example_translation": "Juna saapuu hetken kuluttua."
+    },
+    {
+      "italian": "da allora",
+      "finnish": "siitä lähtien",
+      "example": "Da allora studio italiano ogni giorno.",
+      "example_translation": "Siitä lähtien olen opiskellut italiaa joka päivä."
+    },
+    {
+      "italian": "fino ad oggi",
+      "finnish": "tähän päivään asti",
+      "example": "Fino ad oggi nessuno ha trovato la risposta.",
+      "example_translation": "Tähän päivään mennessä kukaan ei ole löytänyt vastausta."
+    },
+    {
+      "italian": "nel corso degli anni",
+      "finnish": "vuosien aikana",
+      "example": "Nel corso degli anni la lingua è cambiata.",
+      "example_translation": "Vuosien aikana kieli on muuttunut."
+    },
+    {
+      "italian": "da secoli",
+      "finnish": "vuosisatojen ajan",
+      "example": "Questo castello esiste da secoli.",
+      "example_translation": "Tämä linna on ollut olemassa vuosisatojen ajan."
+    },
+    {
+      "italian": "in passato",
+      "finnish": "menneisyydessä",
+      "example": "In passato la vita era più semplice.",
+      "example_translation": "Menneisyydessä elämä oli yksinkertaisempaa."
+    },
+    {
+      "italian": "al giorno d’oggi",
+      "finnish": "nykyään",
+      "example": "Al giorno d’oggi tutti usano internet.",
+      "example_translation": "Nykyään kaikki käyttävät internetiä."
+    },
+    {
+      "italian": "ogni tanto",
+      "finnish": "silloin tällöin",
+      "example": "Ogni tanto ascolto musica classica.",
+      "example_translation": "Silloin tällöin kuuntelen klassista musiikkia."
+    },
+    {
+      "italian": "di tanto in tanto",
+      "finnish": "aika ajoin",
+      "example": "Di tanto in tanto vado a Roma.",
+      "example_translation": "Aika ajoin käyn Roomassa."
+    },
+    {
+      "italian": "subito dopo",
+      "finnish": "heti jälkeen",
+      "example": "Subito dopo la cena siamo usciti.",
+      "example_translation": "Heti illallisen jälkeen lähdimme ulos."
+    },
+    {
+      "italian": "poco prima",
+      "finnish": "vähän ennen",
+      "example": "Poco prima della pioggia il cielo era rosso.",
+      "example_translation": "Vähän ennen sadetta taivas oli punainen."
+    },
+    {
+      "italian": "in seguito",
+      "finnish": "myöhemmin",
+      "example": "Ne parleremo in seguito.",
+      "example_translation": "Puhumme siitä myöhemmin."
+    },
+    {
+      "italian": "nel Medioevo",
+      "finnish": "keskiajalla",
+      "example": "Nel Medioevo molte città avevano mura.",
+      "example_translation": "Keskiajalla monilla kaupungeilla oli muurit."
+    },
+    {
+      "italian": "nell’antichità",
+      "finnish": "antiikin aikana",
+      "example": "Nell’antichità Roma era molto potente.",
+      "example_translation": "Antiikin aikana Rooma oli hyvin mahtava."
+    },
+    {
+      "italian": "entro domani",
+      "finnish": "huomiseen mennessä",
+      "example": "Finirò il lavoro entro domani.",
+      "example_translation": "Saan työn valmiiksi huomiseen mennessä."
+    },
+    {
+      "italian": "fino a ieri",
+      "finnish": "eiliseen asti",
+      "example": "Fino a ieri non lo sapevo.",
+      "example_translation": "Eiliseen asti en tiennyt sitä."
+    },
+    {
+      "italian": "a quel tempo",
+      "finnish": "siihen aikaan",
+      "example": "A quel tempo non esistevano computer.",
+      "example_translation": "Siihen aikaan tietokoneita ei ollut olemassa."
+    },
+    {
+      "italian": "sin dall’infanzia",
+      "finnish": "lapsuudesta lähtien",
+      "example": "Ama la musica sin dall’infanzia.",
+      "example_translation": "Hän on rakastanut musiikkia lapsuudesta lähtien."
+    },
+    {
+      "italian": "col passare del tempo",
+      "finnish": "ajan kuluessa",
+      "example": "Col passare del tempo tutto cambia.",
+      "example_translation": "Ajan kuluessa kaikki muuttuu."
+    },
+    {
+      "italian": "nel periodo estivo",
+      "finnish": "kesäkaudella",
+      "example": "Nel periodo estivo ci sono molti turisti.",
+      "example_translation": "Kesäkaudella turisteja on paljon."
+    },
+    {
+      "italian": "da un momento all’altro",
+      "finnish": "minä hetkenä hyvänsä",
+      "example": "Può arrivare da un momento all’altro.",
+      "example_translation": "Hän voi saapua minä hetkenä hyvänsä."
+    },
+    {
+      "italian": "prima o poi",
+      "finnish": "ennen tai myöhemmin",
+      "example": "Prima o poi visiterò la Sicilia.",
+      "example_translation": "Ennen tai myöhemmin vierailen Sisiliassa."
+    },
+    {
+      "italian": "a partire dal 1990",
+      "finnish": "vuodesta 1990 lähtien",
+      "example": "A partire dal 1990 l’uso di internet è aumentato rapidamente.",
+      "example_translation": "Vuodesta 1990 lähtien internetin käyttö on kasvanut nopeasti."
+    },
+    {
+      "italian": "a partire dalla metà del secolo",
+      "finnish": "vuosisadan puolivälistä lähtien",
+      "example": "A partire dalla metà del secolo la città è diventata più moderna.",
+      "example_translation": "Vuosisadan puolivälistä lähtien kaupungista on tullut modernimpi."
+    },
+    {
+      "italian": "verso la metà dell’Ottocento",
+      "finnish": "1800-luvun puolivaiheilla",
+      "example": "Verso la metà dell’Ottocento molte famiglie si trasferirono in città.",
+      "example_translation": "1800-luvun puolivaiheilla monet perheet muuttivat kaupunkiin."
+    },
+    {
+      "italian": "alla metà del Novecento",
+      "finnish": "1900-luvun puolivälissä",
+      "example": "Alla metà del Novecento la tecnologia cambiò rapidamente.",
+      "example_translation": "1900-luvun puolivälissä teknologia muuttui nopeasti."
+    },
+    {
+      "italian": "alla fine degli anni Sessanta",
+      "finnish": "1960-luvun lopussa",
+      "example": "Alla fine degli anni Sessanta nacquero molti movimenti culturali.",
+      "example_translation": "1960-luvun lopussa syntyi monia kulttuuriliikkeitä."
+    },
+    {
+      "italian": "fino alla fine del secolo",
+      "finnish": "vuosisadan loppuun asti",
+      "example": "Questa tradizione continuò fino alla fine del secolo.",
+      "example_translation": "Tämä perinne jatkui vuosisadan loppuun asti."
+    },
+    {
+      "italian": "sul finire dell’inverno",
+      "finnish": "talven loppupuolella",
+      "example": "Sul finire dell’inverno le giornate diventano più lunghe.",
+      "example_translation": "Talven loppupuolella päivät pitenevät."
+    },
+    {
+      "italian": "all’inizio della primavera",
+      "finnish": "kevään alussa",
+      "example": "All’inizio della primavera gli alberi fioriscono.",
+      "example_translation": "Kevään alussa puut kukkivat."
+    }
+  ]
+}
