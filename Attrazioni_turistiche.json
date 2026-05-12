@@ -1,0 +1,132 @@
+{
+  "title": "Attrazioni turistiche",
+  "source": "Frasi utili, Bella Vista II, p. 38",
+  "items": [
+    {
+      "italian": "le attrazioni turistiche",
+      "finnish": "turistinähtävyydet",
+      "example": "Roma è famosa per le sue attrazioni turistiche.",
+      "example_translation": "Rooma on kuuluisa turistinähtävyyksistään."
+    },
+    {
+      "italian": "l’abbazia",
+      "finnish": "luostari",
+      "example": "Abbiamo visitato un’antica abbazia in Toscana.",
+      "example_translation": "Vierailimme vanhassa luostarissa Toscanassa."
+    },
+    {
+      "italian": "il convento",
+      "finnish": "luostari",
+      "example": "Il convento si trova sulla collina.",
+      "example_translation": "Luostari sijaitsee kukkulalla."
+    },
+    {
+      "italian": "il monastero",
+      "finnish": "luostari",
+      "example": "I monaci vivono nel monastero.",
+      "example_translation": "Munkit asuvat luostarissa."
+    },
+    {
+      "italian": "l’affresco",
+      "finnish": "freskomaalaus",
+      "example": "L’affresco del soffitto è molto famoso.",
+      "example_translation": "Katon freskomaalaus on hyvin kuuluisa."
+    },
+    {
+      "italian": "il borgo medievale",
+      "finnish": "keskiaikainen kylä / kaupunginosa",
+      "example": "Quel borgo medievale attira molti turisti.",
+      "example_translation": "Tuo keskiaikainen kylä houkuttelee paljon turisteja."
+    },
+    {
+      "italian": "il campanile",
+      "finnish": "kellotorni",
+      "example": "Il campanile domina tutta la piazza.",
+      "example_translation": "Kellotorni hallitsee koko aukiota."
+    },
+    {
+      "italian": "la cappella",
+      "finnish": "kappeli",
+      "example": "Nella cappella ci sono antichi dipinti.",
+      "example_translation": "Kappelissa on vanhoja maalauksia."
+    },
+    {
+      "italian": "la colonna",
+      "finnish": "pylväs",
+      "example": "Le colonne del tempio sono molto alte.",
+      "example_translation": "Temppelin pylväät ovat hyvin korkeita."
+    },
+    {
+      "italian": "la fontana",
+      "finnish": "suihkulähde",
+      "example": "I bambini giocano vicino alla fontana.",
+      "example_translation": "Lapset leikkivät suihkulähteen lähellä."
+    },
+    {
+      "italian": "il municipio",
+      "finnish": "kaupungintalo",
+      "example": "Il municipio è nel centro della città.",
+      "example_translation": "Kaupungintalo on kaupungin keskustassa."
+    },
+    {
+      "italian": "l’opera d’arte",
+      "finnish": "taideteos",
+      "example": "Questo quadro è una famosa opera d’arte.",
+      "example_translation": "Tämä maalaus on kuuluisa taideteos."
+    },
+    {
+      "italian": "il palazzo",
+      "finnish": "palatsi / rakennus",
+      "example": "Quel palazzo risale al Seicento.",
+      "example_translation": "Tuo rakennus on peräisin 1600-luvulta."
+    },
+    {
+      "italian": "il quartiere",
+      "finnish": "kaupunginosa / kortteli",
+      "example": "Vivono in un quartiere tranquillo.",
+      "example_translation": "He asuvat rauhallisessa kaupunginosassa."
+    },
+    {
+      "italian": "le rovine",
+      "finnish": "rauniot",
+      "example": "Le rovine romane sono molto impressionanti.",
+      "example_translation": "Roomalaiset rauniot ovat hyvin vaikuttavia."
+    },
+    {
+      "italian": "i resti",
+      "finnish": "jäännökset",
+      "example": "Gli archeologi hanno trovato i resti di un tempio.",
+      "example_translation": "Arkeologit löysivät temppelin jäännökset."
+    },
+    {
+      "italian": "gli scavi archeologici",
+      "finnish": "arkeologiset kaivaukset",
+      "example": "Gli scavi archeologici attirano studiosi da tutto il mondo.",
+      "example_translation": "Arkeologiset kaivaukset houkuttelevat tutkijoita kaikkialta maailmasta."
+    },
+    {
+      "italian": "il tempio",
+      "finnish": "temppeli",
+      "example": "Il tempio è stato costruito migliaia di anni fa.",
+      "example_translation": "Temppeli rakennettiin tuhansia vuosia sitten."
+    },
+    {
+      "italian": "i templi",
+      "finnish": "temppelit",
+      "example": "In Sicilia ci sono antichi templi greci.",
+      "example_translation": "Sisiliassa on vanhoja kreikkalaisia temppeleitä."
+    },
+    {
+      "italian": "la tomba",
+      "finnish": "hauta",
+      "example": "La tomba del re si trova sotto la chiesa.",
+      "example_translation": "Kuninkaan hauta sijaitsee kirkon alla."
+    },
+    {
+      "italian": "la torre",
+      "finnish": "torni",
+      "example": "Dalla torre si vede tutta la città.",
+      "example_translation": "Tornista näkee koko kaupungin."
+    }
+  ]
+}
