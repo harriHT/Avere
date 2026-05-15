@@ -1,5 +1,5 @@
 {
-  "title": "Espressioni con a qualcuno / qualcosa",
+  "title": "Verbi dativi italiani",
   "source": "Bella Vista I, p. 204, Bella Vista II p. 68",
   "items": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "italian": "badare a qualcosa / qualcuno",
-      "finnish": "kiinnittää huomiota johonkin; huolehtia jostakusta",
+      "finnish": "kiinnittää huomiota johonkin; välittää jostakin",
       "example": "Devi badare al cane mentre sono via.",
       "example_translation": "Sinun täytyy huolehtia koirasta sillä aikaa kun olen poissa."
     },
@@ -35,7 +35,7 @@
     {
       "italian": "fare un favore a qualcuno",
       "finnish": "tehdä palvelus jollekulle",
-      "example": "Mi fai un favore?",
+      "example": "Mi faresti un favore?",
       "example_translation": "Tekisitkö minulle palveluksen?"
     },
     {
@@ -45,7 +45,7 @@
       "example_translation": "Voinko esittää johtajalle kysymyksen?"
     },
     {
-      "italian": "fare una foto a qualcuno",
+      "italian": "fare una foto(grafia) a qualcuno",
       "finnish": "ottaa valokuva jostakusta",
       "example": "Ho fatto una foto ai miei amici.",
       "example_translation": "Otin valokuvan ystävistäni."
@@ -58,7 +58,7 @@
     },
     {
       "italian": "pensare a qualcuno / qualcosa",
-      "finnish": "ajatella jotakuta/jotakin; huolehtia jostakin",
+      "finnish": "ajatella jotakuta/jotakin; hoitaa jotakin asiaa",
       "example": "Sto pensando alle vacanze estive.",
       "example_translation": "Ajattelen kesälomaa."
     },
@@ -69,8 +69,8 @@
       "example_translation": "Tietoja varten täytyy kääntyä toimiston puoleen."
     },
     {
-      "italian": "venire fame a qualcuno",
-      "finnish": "tulla nälkä jollekulle",
+      "italian": "venire fame / sete a qualcuno",
+      "finnish": "tulla nälkä/jano jollekulle",
       "example": "Mi viene fame dopo il lavoro.",
       "example_translation": "Minulle tulee nälkä työn jälkeen."
     },
@@ -79,6 +79,102 @@
       "finnish": "alkaa nukuttaa jotakuta",
       "example": "Mi viene sonno quando leggo la sera.",
       "example_translation": "Minua alkaa nukuttaa kun luen illalla."
+    },
+    {
+      "italian": "chiedere qualcosa a qualcuno",
+      "finnish": "kysyä/pyytää jotakin joltakulta",
+      "example": "Ho chiesto un consiglio al medico.",
+      "example_translation": "Pyysin lääkäriltä neuvoa."
+    },
+    {
+      "italian": "consigliare qualcosa a qualcuno",
+      "finnish": "suositella jotakin jollekulle",
+      "example": "Ti consiglio questo libro.",
+      "example_translation": "Suosittelen sinulle tätä kirjaa."
+    },
+    {
+      "italian": "convenire a qualcuno",
+      "finnish": "olla kannattavaa/hyödyllistä jollekulle",
+      "example": "Ti conviene partire presto.",
+      "example_translation": "Sinun kannattaa lähteä aikaisin."
+    },
+    {
+      "italian": "dare qualcosa a qualcuno",
+      "finnish": "antaa jotakin jollekulle",
+      "example": "Ho dato il libro a Luca.",
+      "example_translation": "Annoin kirjan Lucalle."
+    },
+    {
+      "italian": "dire qualcosa a qualcuno",
+      "finnish": "sanoa jotakin jollekulle",
+      "example": "Devo dire una cosa a Maria.",
+      "example_translation": "Minun täytyy sanoa yksi asia Marialle."
+    },
+    {
+      "italian": "fare sapere qualcosa a qualcuno",
+      "finnish": "ilmoittaa jotakin jollekulle",
+      "example": "Ti farò sapere la risposta domani.",
+      "example_translation": "Ilmoitan sinulle vastauksen huomenna."
+    },
+    {
+      "italian": "fare vedere qualcosa a qualcuno",
+      "finnish": "näyttää jotakin jollekulle",
+      "example": "Mi fai vedere le foto?",
+      "example_translation": "Näytätkö minulle valokuvat?"
+    },
+    {
+      "italian": "mandare qualcosa a qualcuno",
+      "finnish": "lähettää jotakin jollekulle",
+      "example": "Ti mando una mail stasera.",
+      "example_translation": "Lähetän sinulle sähköpostin tänä iltana."
+    },
+    {
+      "italian": "parlare a qualcuno di qualcosa",
+      "finnish": "puhua jollekulle jostakin",
+      "example": "Abbiamo parlato al professore del progetto.",
+      "example_translation": "Puhuimme professorille projektista."
+    },
+    {
+      "italian": "piacere a qualcuno",
+      "finnish": "olla mieluisaa jollekulle",
+      "example": "Ti piace la musica italiana?",
+      "example_translation": "Pidätkö italialaisesta musiikista?"
+    },
+    {
+      "italian": "portare qualcosa a qualcuno",
+      "finnish": "tuoda/viedä jotakin jollekulle",
+      "example": "Ti porto un caffè.",
+      "example_translation": "Tuon sinulle kahvin."
+    },
+    {
+      "italian": "presentare qualcuno a qualcuno",
+      "finnish": "esitellä joku jollekulle",
+      "example": "Ti presento un mio amico.",
+      "example_translation": "Esittelen sinulle erään ystäväni."
+    },
+    {
+      "italian": "prestare qualcosa a qualcuno",
+      "finnish": "lainata jotakin jollekulle",
+      "example": "Mi presti la tua penna?",
+      "example_translation": "Lainaatko minulle kynäsi?"
+    },
+    {
+      "italian": "regalare qualcosa a qualcuno",
+      "finnish": "antaa lahjaksi jotakin jollekulle",
+      "example": "Ho regalato dei fiori a mia madre.",
+      "example_translation": "Annoin äidilleni kukkia lahjaksi."
+    },
+    {
+      "italian": "spiegare qualcosa a qualcuno",
+      "finnish": "selittää jotakin jollekulle",
+      "example": "Puoi spiegarmi questo esercizio?",
+      "example_translation": "Voitko selittää minulle tämän harjoituksen?"
+    },
+    {
+      "italian": "telefonare a qualcuno",
+      "finnish": "soittaa jollekulle",
+      "example": "Ti telefono domani mattina.",
+      "example_translation": "Soitan sinulle huomenaamulla."
     }
   ]
 }
