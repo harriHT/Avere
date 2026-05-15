@@ -1,0 +1,84 @@
+{
+  "title": "Espressioni con a qualcuno / qualcosa",
+  "source": "Bella Vista I, p. 204, Bella Vista II p. 68",
+  "items": [
+    {
+      "italian": "assomigliare a qualcuno",
+      "finnish": "muistuttaa jotakuta",
+      "example": "Marco assomiglia molto a suo padre.",
+      "example_translation": "Marco muistuttaa paljon isäänsä."
+    },
+    {
+      "italian": "badare a qualcosa / qualcuno",
+      "finnish": "kiinnittää huomiota johonkin; huolehtia jostakusta",
+      "example": "Devi badare al cane mentre sono via.",
+      "example_translation": "Sinun täytyy huolehtia koirasta sillä aikaa kun olen poissa."
+    },
+    {
+      "italian": "chiedere scusa a qualcuno",
+      "finnish": "pyytää anteeksi joltakulta",
+      "example": "Ho chiesto scusa al professore.",
+      "example_translation": "Pyysin professorilta anteeksi."
+    },
+    {
+      "italian": "fare bene a qualcuno",
+      "finnish": "tehdä hyvää jollekulle",
+      "example": "Camminare fa bene alla salute.",
+      "example_translation": "Käveleminen tekee hyvää terveydelle."
+    },
+    {
+      "italian": "fare male a qualcuno",
+      "finnish": "tehdä pahaa jollekulle",
+      "example": "Il fumo fa male ai polmoni.",
+      "example_translation": "Tupakointi vahingoittaa keuhkoja."
+    },
+    {
+      "italian": "fare un favore a qualcuno",
+      "finnish": "tehdä palvelus jollekulle",
+      "example": "Mi fai un favore?",
+      "example_translation": "Tekisitkö minulle palveluksen?"
+    },
+    {
+      "italian": "fare una domanda a qualcuno",
+      "finnish": "esittää kysymys jollekulle",
+      "example": "Posso fare una domanda al direttore?",
+      "example_translation": "Voinko esittää johtajalle kysymyksen?"
+    },
+    {
+      "italian": "fare una foto a qualcuno",
+      "finnish": "ottaa valokuva jostakusta",
+      "example": "Ho fatto una foto ai miei amici.",
+      "example_translation": "Otin valokuvan ystävistäni."
+    },
+    {
+      "italian": "passare qualcosa a qualcuno",
+      "finnish": "ojentaa jotain jollekulle",
+      "example": "Mi passi il sale, per favore?",
+      "example_translation": "Ojennatko minulle suolan?"
+    },
+    {
+      "italian": "pensare a qualcuno / qualcosa",
+      "finnish": "ajatella jotakuta/jotakin; huolehtia jostakin",
+      "example": "Sto pensando alle vacanze estive.",
+      "example_translation": "Ajattelen kesälomaa."
+    },
+    {
+      "italian": "rivolgersi a qualcuno / qualcosa",
+      "finnish": "kääntyä jonkun/jonkin puoleen",
+      "example": "Per informazioni bisogna rivolgersi all’ufficio.",
+      "example_translation": "Tietoja varten täytyy kääntyä toimiston puoleen."
+    },
+    {
+      "italian": "venire fame a qualcuno",
+      "finnish": "tulla nälkä jollekulle",
+      "example": "Mi viene fame dopo il lavoro.",
+      "example_translation": "Minulle tulee nälkä työn jälkeen."
+    },
+    {
+      "italian": "venire sonno a qualcuno",
+      "finnish": "alkaa nukuttaa jotakuta",
+      "example": "Mi viene sonno quando leggo la sera.",
+      "example_translation": "Minua alkaa nukuttaa kun luen illalla."
+    }
+  ]
+}
