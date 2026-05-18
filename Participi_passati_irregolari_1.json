@@ -1,0 +1,252 @@
+{
+  "title": "Participi passati irregolari",
+  "source": "Bella Vista II, p. 290",
+  "items": [
+    {
+      "italian": "accedere → accesso",
+      "finnish": "päästä sisään / päästä johonkin → päässyt",
+      "example": "Sono riuscito ad accedere al sistema.",
+      "example_translation": "Onnistuin pääsemään järjestelmään."
+    },
+    {
+      "italian": "accorgersi → accorto",
+      "finnish": "huomata → huomannut",
+      "example": "Mi sono accorto dell’errore.",
+      "example_translation": "Huomasin virheen."
+    },
+    {
+      "italian": "aggiungere → aggiunto",
+      "finnish": "lisätä → lisännyt",
+      "example": "Ho aggiunto un commento.",
+      "example_translation": "Lisäsin kommentin."
+    },
+    {
+      "italian": "aprire → aperto",
+      "finnish": "avata → avannut",
+      "example": "Hai aperto la finestra?",
+      "example_translation": "Avasitko ikkunan?"
+    },
+    {
+      "italian": "avvenire → avvenuto",
+      "finnish": "tapahtua → tapahtunut",
+      "example": "L’incidente è avvenuto ieri.",
+      "example_translation": "Onnettomuus tapahtui eilen."
+    },
+    {
+      "italian": "assumere → assunto",
+      "finnish": "palkata / ottaa → palkannut / ottanut",
+      "example": "L’azienda ha assunto nuovi dipendenti.",
+      "example_translation": "Yritys palkkasi uusia työntekijöitä."
+    },
+    {
+      "italian": "bere → bevuto",
+      "finnish": "juoda → juonut",
+      "example": "Hai bevuto il caffè?",
+      "example_translation": "Joitko kahvin?"
+    },
+    {
+      "italian": "chiedere → chiesto",
+      "finnish": "kysyä → kysynyt",
+      "example": "Ti ho chiesto un favore.",
+      "example_translation": "Pyysin sinulta palvelusta."
+    },
+    {
+      "italian": "chiudere → chiuso",
+      "finnish": "sulkea → sulkenut",
+      "example": "Ho chiuso la porta.",
+      "example_translation": "Suljin oven."
+    },
+    {
+      "italian": "comprendere → compreso",
+      "finnish": "ymmärtää / käsittää → ymmärtänyt",
+      "example": "Hai compreso la situazione?",
+      "example_translation": "Ymmärsitkö tilanteen?"
+    },
+    {
+      "italian": "condurre → condotto",
+      "finnish": "johtaa → johtanut",
+      "example": "Ha condotto una ricerca importante.",
+      "example_translation": "Hän johti tärkeää tutkimusta."
+    },
+    {
+      "italian": "conoscere → conosciuto",
+      "finnish": "tuntea / tavata → tuntenut / tavannut",
+      "example": "Ho conosciuto Maria a Roma.",
+      "example_translation": "Tapasin Marian Roomassa."
+    },
+    {
+      "italian": "convincere → convinto",
+      "finnish": "vakuuttaa → vakuuttanut",
+      "example": "Mi hai convinto.",
+      "example_translation": "Sait minut vakuuttuneeksi."
+    },
+    {
+      "italian": "coprire → coperto",
+      "finnish": "peittää → peittänyt",
+      "example": "La neve ha coperto la strada.",
+      "example_translation": "Lumi peitti tien."
+    },
+    {
+      "italian": "correre → corso",
+      "finnish": "juosta → juossut",
+      "example": "Ho corso cinque chilometri.",
+      "example_translation": "Juoksin viisi kilometriä."
+    },
+    {
+      "italian": "corrispondere → corrisposto",
+      "finnish": "vastata / vastata toisiaan → vastannut",
+      "example": "I dati non hanno corrisposto alle aspettative.",
+      "example_translation": "Tiedot eivät vastanneet odotuksia."
+    },
+    {
+      "italian": "crescere → cresciuto",
+      "finnish": "kasvaa → kasvanut",
+      "example": "I bambini sono cresciuti velocemente.",
+      "example_translation": "Lapset kasvoivat nopeasti."
+    },
+    {
+      "italian": "cuocere → cotto",
+      "finnish": "kypsentää → kypsentänyt",
+      "example": "Hai cotto la pasta troppo a lungo.",
+      "example_translation": "Kypsensit pastaa liian kauan."
+    },
+    {
+      "italian": "decidere → deciso",
+      "finnish": "päättää → päättänyt",
+      "example": "Abbiamo deciso di partire.",
+      "example_translation": "Päätimme lähteä."
+    },
+    {
+      "italian": "descrivere → descritto",
+      "finnish": "kuvailla → kuvaillut",
+      "example": "Ha descritto il problema bene.",
+      "example_translation": "Hän kuvaili ongelman hyvin."
+    },
+    {
+      "italian": "diffondere → diffuso",
+      "finnish": "levittää → levittänyt",
+      "example": "La notizia si è diffusa rapidamente.",
+      "example_translation": "Uutinen levisi nopeasti."
+    },
+    {
+      "italian": "dipendere → dipeso",
+      "finnish": "riippua → riippunut",
+      "example": "È dipeso dal tempo.",
+      "example_translation": "Se riippui säästä."
+    },
+    {
+      "italian": "dipingere → dipinto",
+      "finnish": "maalata → maalannut",
+      "example": "Ha dipinto un bellissimo quadro.",
+      "example_translation": "Hän maalasi kauniin taulun."
+    },
+    {
+      "italian": "dire → detto",
+      "finnish": "sanoa → sanonut",
+      "example": "Che cosa hai detto?",
+      "example_translation": "Mitä sanoit?"
+    },
+    {
+      "italian": "dirigere → diretto",
+      "finnish": "johtaa / ohjata → johtanut",
+      "example": "Ha diretto il progetto.",
+      "example_translation": "Hän johti projektia."
+    },
+    {
+      "italian": "discutere → discusso",
+      "finnish": "keskustella → keskustellut",
+      "example": "Abbiamo discusso il problema.",
+      "example_translation": "Keskustelimme ongelmasta."
+    },
+    {
+      "italian": "distruggere → distrutto",
+      "finnish": "tuhota → tuhonnut",
+      "example": "Il fuoco ha distrutto la casa.",
+      "example_translation": "Tuli tuhosi talon."
+    },
+    {
+      "italian": "dividere → diviso",
+      "finnish": "jakaa → jakanut",
+      "example": "Abbiamo diviso i soldi.",
+      "example_translation": "Jaoimme rahat."
+    },
+    {
+      "italian": "escludere → escluso",
+      "finnish": "sulkea pois → sulkenut pois",
+      "example": "Hanno escluso questa possibilità.",
+      "example_translation": "He sulkivat tämän mahdollisuuden pois."
+    },
+    {
+      "italian": "esprimere → espresso",
+      "finnish": "ilmaista → ilmaissut",
+      "example": "Ha espresso la sua opinione.",
+      "example_translation": "Hän ilmaisi mielipiteensä."
+    },
+    {
+      "italian": "essere → stato",
+      "finnish": "olla → ollut",
+      "example": "Sono stato a Roma.",
+      "example_translation": "Olin Roomassa."
+    },
+    {
+      "italian": "fare → fatto",
+      "finnish": "tehdä → tehnyt",
+      "example": "Hai fatto i compiti?",
+      "example_translation": "Teitkö läksyt?"
+    },
+    {
+      "italian": "friggere → fritto",
+      "finnish": "paistaa öljyssä → paistanut",
+      "example": "Ho fritto le patate.",
+      "example_translation": "Paistoin perunat."
+    },
+    {
+      "italian": "includere → incluso",
+      "finnish": "sisällyttää → sisällyttänyt",
+      "example": "Il prezzo include tutto.",
+      "example_translation": "Hinta sisältää kaiken."
+    },
+    {
+      "italian": "iscriversi → iscritto",
+      "finnish": "ilmoittautua → ilmoittautunut",
+      "example": "Mi sono iscritto al corso.",
+      "example_translation": "Ilmoittauduin kurssille."
+    },
+    {
+      "italian": "leggere → letto",
+      "finnish": "lukea → lukenut",
+      "example": "Hai letto il libro?",
+      "example_translation": "Luitko kirjan?"
+    },
+    {
+      "italian": "mettere → messo",
+      "finnish": "laittaa → laittanut",
+      "example": "Ho messo le chiavi sul tavolo.",
+      "example_translation": "Laitoin avaimet pöydälle."
+    },
+    {
+      "italian": "morire → morto",
+      "finnish": "kuolla → kuollut",
+      "example": "Il pesce è morto.",
+      "example_translation": "Kala kuoli."
+    },
+    {
+      "italian": "muovere → mosso",
+      "finnish": "liikuttaa → liikuttanut",
+      "example": "Hai mosso il tavolo?",
+      "example_translation": "Liikutitko pöytää?"
+    },
+    {
+      "italian": "nascere → nato",
+      "finnish": "syntyä → syntynyt",
+      "example": "Sono nato in Finlandia.",
+      "example_translation": "Synnyin Suomessa."
+    },
+    {
+      "italian": "offrire → offerto",
+      "finnish": "tarjota → tarjonnut",
+      "example": "Mi ha offerto un caffè.",
+      "example_translation": "Hän tarjosi minulle kahvin."
+    }
+  ]
+}
