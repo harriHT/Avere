@@ -1,6 +1,6 @@
 {
   "title": "Participi passati irregolari 2",
-  "source": "Bella Vista, p 291",
+  "source": "Bella Vista II, p 291",
   "items": [
     {
       "italian": "percorrere → percorso",
@@ -168,7 +168,7 @@
       "italian": "sorgere → sorto",
       "finnish": "nousta / syntyä → noussut",
       "example": "È sorto un problema.",
-      "example_translation": "Syntyi ongelma."
+      "example_translation": "On syntynyt ongelma."
     },
     {
       "italian": "spendere → speso",
@@ -178,15 +178,15 @@
     },
     {
       "italian": "stare → stato",
-      "finnish": "olla / voida → ollut",
+      "finnish": "olla / voida → ollut, voinut",
       "example": "Come sei stato?",
-      "example_translation": "Miten voit?"
+      "example_translation": "Miten olet voinut?"
     },
     {
       "italian": "succedere → successo",
       "finnish": "tapahtua → tapahtunut",
       "example": "Che cosa è successo?",
-      "example_translation": "Mitä tapahtui?"
+      "example_translation": "Mitä on tapahtunut?"
     },
     {
       "italian": "supporre → supposto",
