@@ -1,0 +1,315 @@
+{
+  "title": "Il pronome CI",
+  "source": "ChatGPT",
+  "items": [
+    {
+      "italian": "Ci conosci?",
+      "finnish": "Tunnetko meidät?",
+      "example": "Ci conosci abbastanza bene da riconoscere le nostre voci?",
+      "example_translation": "Tunnetko meidät tarpeeksi hyvin tunnistaaksesi äänemme?"
+    },
+    {
+      "italian": "Ci ha aiutato.",
+      "finnish": "Hän auttoi meitä.",
+      "example": "Quando abbiamo avuto un problema, ci ha aiutato subito.",
+      "example_translation": "Kun meillä oli ongelma, hän auttoi meitä heti."
+    },
+    {
+      "italian": "Ci aspettano.",
+      "finnish": "He odottavat meitä.",
+      "example": "Ci aspettano davanti alla stazione da quasi un'ora.",
+      "example_translation": "He ovat odottaneet meitä aseman edessä jo lähes tunnin."
+    },
+    {
+      "italian": "Ci hanno invitato.",
+      "finnish": "He kutsuivat meidät.",
+      "example": "Ci hanno invitato alla loro festa di compleanno.",
+      "example_translation": "He kutsuivat meidät syntymäpäiväjuhliinsa."
+    },
+    {
+      "italian": "Ci vedono.",
+      "finnish": "He näkevät meidät.",
+      "example": "Da quella finestra ci vedono perfettamente.",
+      "example_translation": "Tuosta ikkunasta he näkevät meidät täydellisesti."
+    },
+
+    {
+      "italian": "Ci svegliamo presto.",
+      "finnish": "Heräämme aikaisin.",
+      "example": "In vacanza ci svegliamo presto per vedere l'alba.",
+      "example_translation": "Lomalla heräämme aikaisin nähdäksemme auringonnousun."
+    },
+    {
+      "italian": "Ci siamo divertiti.",
+      "finnish": "Meillä oli hauskaa.",
+      "example": "Alla fine della serata ci siamo divertiti più del previsto.",
+      "example_translation": "Illan lopuksi meillä oli hauskempaa kuin odotimme."
+    },
+    {
+      "italian": "Ci riposiamo.",
+      "finnish": "Lepäämme.",
+      "example": "Dopo una lunga passeggiata ci riposiamo in giardino.",
+      "example_translation": "Pitkän kävelyn jälkeen lepäämme puutarhassa."
+    },
+    {
+      "italian": "Ci vestiamo.",
+      "finnish": "Pukeudumme.",
+      "example": "Ci vestiamo in fretta perché l'autobus sta arrivando.",
+      "example_translation": "Pukeudumme nopeasti, koska bussi on tulossa."
+    },
+    {
+      "italian": "Ci siamo incontrati.",
+      "finnish": "Tapasimme toisemme.",
+      "example": "Ci siamo incontrati per caso davanti al museo.",
+      "example_translation": "Tapasimme sattumalta museon edessä."
+    },
+
+    {
+      "italian": "Ci vado.",
+      "finnish": "Menen sinne.",
+      "example": "Se aprono una nuova mostra, ci vado sicuramente.",
+      "example_translation": "Jos avataan uusi näyttely, menen sinne varmasti."
+    },
+    {
+      "italian": "Ci torno.",
+      "finnish": "Palaan sinne.",
+      "example": "Mi è piaciuta tanto Firenze che ci torno ogni anno.",
+      "example_translation": "Pidin Firenzestä niin paljon, että palaan sinne joka vuosi."
+    },
+    {
+      "italian": "Ci sono stato.",
+      "finnish": "Olen käynyt siellä.",
+      "example": "Ci sono stato una volta durante un viaggio di lavoro.",
+      "example_translation": "Olen käynyt siellä kerran työmatkan aikana."
+    },
+    {
+      "italian": "Ci andremo.",
+      "finnish": "Menemme sinne.",
+      "example": "Quando avremo più tempo, ci andremo insieme.",
+      "example_translation": "Kun meillä on enemmän aikaa, menemme sinne yhdessä."
+    },
+    {
+      "italian": "Non ci torno.",
+      "finnish": "En palaa sinne.",
+      "example": "Il servizio era pessimo e non ci torno più.",
+      "example_translation": "Palvelu oli surkeaa enkä palaa sinne enää."
+    },
+
+    {
+      "italian": "C'è un problema.",
+      "finnish": "On ongelma.",
+      "example": "C'è un problema che dobbiamo risolvere subito.",
+      "example_translation": "On ongelma, joka meidän täytyy ratkaista heti."
+    },
+    {
+      "italian": "Ci sono molte persone.",
+      "finnish": "Siellä on paljon ihmisiä.",
+      "example": "In piazza ci sono molte persone che aspettano il concerto.",
+      "example_translation": "Torilla on paljon ihmisiä odottamassa konserttia."
+    },
+    {
+      "italian": "Non c'è nessuno.",
+      "finnish": "Siellä ei ole ketään.",
+      "example": "Ho bussato più volte ma non c'è nessuno in casa.",
+      "example_translation": "Koputin monta kertaa, mutta kotona ei ole ketään."
+    },
+    {
+      "italian": "Ci sono due possibilità.",
+      "finnish": "On kaksi mahdollisuutta.",
+      "example": "Per risolvere la situazione ci sono due possibilità realistiche.",
+      "example_translation": "Tilanteen ratkaisemiseksi on kaksi realistista mahdollisuutta."
+    },
+    {
+      "italian": "C'è ancora tempo.",
+      "finnish": "Aikaa on vielä.",
+      "example": "Non preoccuparti, c'è ancora tempo per decidere.",
+      "example_translation": "Älä huoli, päätöksen tekemiseen on vielä aikaa."
+    },
+
+    {
+      "italian": "Ci penso.",
+      "finnish": "Ajattelen sitä.",
+      "example": "Prima di dare una risposta definitiva, ci penso con calma.",
+      "example_translation": "Ennen lopullista vastausta mietin sitä rauhassa."
+    },
+    {
+      "italian": "Ci credo.",
+      "finnish": "Uskon siihen.",
+      "example": "Anche se sembra difficile, ci credo ancora.",
+      "example_translation": "Vaikka se näyttää vaikealta, uskon siihen yhä."
+    },
+    {
+      "italian": "Non ci credo.",
+      "finnish": "En usko sitä.",
+      "example": "Mi stai dicendo la verità? Non ci credo!",
+      "example_translation": "Sanotko minulle totuuden? En usko sitä!"
+    },
+    {
+      "italian": "Ci sono riuscito.",
+      "finnish": "Onnistuin siinä.",
+      "example": "Dopo settimane di studio, finalmente ci sono riuscito.",
+      "example_translation": "Viikkojen opiskelun jälkeen onnistuin siinä vihdoin."
+    },
+    {
+      "italian": "Ci siamo abituati.",
+      "finnish": "Olemme tottuneet siihen.",
+      "example": "All'inizio era strano, ma ci siamo abituati presto.",
+      "example_translation": "Aluksi se oli outoa, mutta totuimme siihen nopeasti."
+    },
+
+    {
+      "italian": "Ci tengo.",
+      "finnish": "Pidän siitä tärkeänä.",
+      "example": "Ci tengo molto alla tua opinione.",
+      "example_translation": "Pidän mielipidettäsi hyvin tärkeänä."
+    },
+    {
+      "italian": "Ci conto.",
+      "finnish": "Luotan siihen.",
+      "example": "Mi hai promesso di venire e ci conto davvero.",
+      "example_translation": "Lupasit tulla ja luotan siihen todella."
+    },
+    {
+      "italian": "Ci provo.",
+      "finnish": "Yritän sitä.",
+      "example": "Non so se sarà facile, ma ci provo lo stesso.",
+      "example_translation": "En tiedä, onko se helppoa, mutta yritän silti."
+    },
+    {
+      "italian": "Ci rinuncio.",
+      "finnish": "Luovun siitä.",
+      "example": "Dopo tanti tentativi inutili, ci rinuncio.",
+      "example_translation": "Monien turhien yritysten jälkeen luovun siitä."
+    },
+    {
+      "italian": "Ci riesci?",
+      "finnish": "Onnistutko siinä?",
+      "example": "Pensi di finire il lavoro oggi o non ci riesci?",
+      "example_translation": "Luuletko saavasi työn valmiiksi tänään vai etkö onnistu siinä?"
+    },
+
+    {
+      "italian": "Ci metto un'ora.",
+      "finnish": "Minulta menee tunti.",
+      "example": "Per arrivare all'università ci metto circa un'ora.",
+      "example_translation": "Yliopistolle pääsemiseen minulta menee noin tunti."
+    },
+    {
+      "italian": "Quanto ci metti?",
+      "finnish": "Kuinka kauan sinulta menee?",
+      "example": "Quanto ci metti a prepararti per il viaggio?",
+      "example_translation": "Kuinka kauan sinulta menee matkaan valmistautumiseen?"
+    },
+    {
+      "italian": "Ci metteremo poco.",
+      "finnish": "Meiltä menee vähän aikaa.",
+      "example": "Con l'autostrada nuova ci metteremo molto meno.",
+      "example_translation": "Uuden moottoritien ansiosta meiltä menee paljon vähemmän aikaa."
+    },
+    {
+      "italian": "Ci ha messo tre ore.",
+      "finnish": "Häneltä meni kolme tuntia.",
+      "example": "Per riparare il computer ci ha messo tre ore.",
+      "example_translation": "Tietokoneen korjaamiseen häneltä meni kolme tuntia."
+    },
+    {
+      "italian": "Ci avete messo troppo.",
+      "finnish": "Teiltä meni liian kauan.",
+      "example": "Ci avete messo troppo e il film era già iniziato.",
+      "example_translation": "Teiltä meni liian kauan ja elokuva oli jo alkanut."
+    },
+
+    {
+      "italian": "Ci vuole pazienza.",
+      "finnish": "Tarvitaan kärsivällisyyttä.",
+      "example": "Per imparare una lingua straniera ci vuole pazienza.",
+      "example_translation": "Vieraan kielen oppimiseen tarvitaan kärsivällisyyttä."
+    },
+    {
+      "italian": "Ci vogliono soldi.",
+      "finnish": "Tarvitaan rahaa.",
+      "example": "Per restaurare quella casa ci vogliono molti soldi.",
+      "example_translation": "Tuon talon kunnostamiseen tarvitaan paljon rahaa."
+    },
+    {
+      "italian": "Ci vuole coraggio.",
+      "finnish": "Tarvitaan rohkeutta.",
+      "example": "Per prendere una decisione simile ci vuole coraggio.",
+      "example_translation": "Sellaisen päätöksen tekemiseen tarvitaan rohkeutta."
+    },
+    {
+      "italian": "Ci vogliono due giorni.",
+      "finnish": "Tarvitaan kaksi päivää.",
+      "example": "Per completare il progetto ci vogliono almeno due giorni.",
+      "example_translation": "Projektin loppuun saattamiseen tarvitaan vähintään kaksi päivää."
+    },
+    {
+      "italian": "Ci vuole esperienza.",
+      "finnish": "Tarvitaan kokemusta.",
+      "example": "Per svolgere quel lavoro ci vuole molta esperienza.",
+      "example_translation": "Tuon työn tekemiseen tarvitaan paljon kokemusta."
+    },
+
+    {
+      "italian": "Ce l'ho.",
+      "finnish": "Minulla on se.",
+      "example": "Se cerchi il biglietto, ce l'ho io.",
+      "example_translation": "Jos etsit lippua, se on minulla."
+    },
+    {
+      "italian": "Non ce l'ho.",
+      "finnish": "Minulla ei ole sitä.",
+      "example": "Mi dispiace, ma non ce l'ho più.",
+      "example_translation": "Valitettavasti minulla ei ole sitä enää."
+    },
+    {
+      "italian": "Ce l'hai?",
+      "finnish": "Onko sinulla se?",
+      "example": "Ce l'hai ancora il numero di telefono di Marco?",
+      "example_translation": "Onko sinulla vielä Marcon puhelinnumero?"
+    },
+    {
+      "italian": "Ce l'abbiamo.",
+      "finnish": "Meillä on se.",
+      "example": "La soluzione esiste e ce l'abbiamo già trovata.",
+      "example_translation": "Ratkaisu on olemassa ja olemme jo löytäneet sen."
+    },
+    {
+      "italian": "Ce l'hanno.",
+      "finnish": "Heillä on se.",
+      "example": "Se vuoi il documento, ce l'hanno loro.",
+      "example_translation": "Jos haluat asiakirjan, se on heillä."
+    },
+
+    {
+      "italian": "Ce l'ho fatta!",
+      "finnish": "Onnistuin!",
+      "example": "Dopo tanti ostacoli, finalmente ce l'ho fatta!",
+      "example_translation": "Monien esteiden jälkeen onnistuin vihdoin!"
+    },
+    {
+      "italian": "Non ce la faccio.",
+      "finnish": "En jaksa.",
+      "example": "Sono troppo stanco e non ce la faccio più.",
+      "example_translation": "Olen liian väsynyt enkä jaksa enää."
+    },
+    {
+      "italian": "Ce la fai?",
+      "finnish": "Onnistutko siinä?",
+      "example": "Ce la fai a finire tutto entro domani?",
+      "example_translation": "Onnistutko saamaan kaiken valmiiksi huomiseen mennessä?"
+    },
+    {
+      "italian": "Ce la faremo.",
+      "finnish": "Me onnistumme.",
+      "example": "Anche se il compito è difficile, ce la faremo.",
+      "example_translation": "Vaikka tehtävä on vaikea, onnistumme siinä."
+    },
+    {
+      "italian": "Ce l'hanno fatta.",
+      "finnish": "He onnistuivat.",
+      "example": "Nonostante tutte le difficoltà, ce l'hanno fatta.",
+      "example_translation": "Kaikista vaikeuksista huolimatta he onnistuivat."
+    }
+  ]
+}
