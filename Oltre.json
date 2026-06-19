@@ -1,0 +1,186 @@
+{
+  "title": "Oltre",
+  "source": "Italiano",
+  "items": [
+    {
+      "italian": "oltre",
+      "finnish": "tuolla puolen, toisella puolella",
+      "example": "Oltre il fiume c'è un bosco.",
+      "example_translation": "Joen toisella puolella on metsä."
+    },
+    {
+      "italian": "oltre",
+      "finnish": "yli",
+      "example": "Ha oltre sessant'anni.",
+      "example_translation": "Hän on yli kuusikymmentävuotias."
+    },
+    {
+      "italian": "oltre cento",
+      "finnish": "yli sata",
+      "example": "Ci sono oltre cento studenti.",
+      "example_translation": "Opiskelijoita on yli sata."
+    },
+    {
+      "italian": "oltre mille",
+      "finnish": "yli tuhat",
+      "example": "Il libro ha oltre mille pagine.",
+      "example_translation": "Kirjassa on yli tuhat sivua."
+    },
+    {
+      "italian": "oltre a",
+      "finnish": "lisäksi",
+      "example": "Oltre all'italiano studio il latino.",
+      "example_translation": "Italian lisäksi opiskelen latinaa."
+    },
+    {
+      "italian": "oltre a",
+      "finnish": "sen lisäksi että",
+      "example": "Oltre a leggere, scrive molto.",
+      "example_translation": "Lukemisen lisäksi hän kirjoittaa paljon."
+    },
+    {
+      "italian": "oltre al caffè",
+      "finnish": "kahvin lisäksi",
+      "example": "Bevo oltre al caffè anche il tè.",
+      "example_translation": "Juon kahvin lisäksi myös teetä."
+    },
+    {
+      "italian": "oltre a Simone",
+      "finnish": "Simonen lisäksi",
+      "example": "Oltre a Simone verrà anche Marco.",
+      "example_translation": "Simonen lisäksi myös Marco tulee."
+    },
+    {
+      "italian": "oltre ai libri",
+      "finnish": "kirjojen lisäksi",
+      "example": "Ha comprato oltre ai libri dei quaderni.",
+      "example_translation": "Hän osti kirjojen lisäksi vihkoja."
+    },
+    {
+      "italian": "oltre alle aspettative",
+      "finnish": "odotusten yli",
+      "example": "Il film è andato oltre le aspettative.",
+      "example_translation": "Elokuva ylitti odotukset."
+    },
+    {
+      "italian": "oltre i limiti",
+      "finnish": "rajojen yli",
+      "example": "È andato oltre i limiti.",
+      "example_translation": "Hän meni yli rajojen."
+    },
+    {
+      "italian": "oltre le apparenze",
+      "finnish": "ulkonäön taakse",
+      "example": "Bisogna guardare oltre le apparenze.",
+      "example_translation": "Täytyy katsoa muutakin kuin ulkonäköä (ulkonäön taakse)."
+    },
+    {
+      "italian": "oltre ogni dubbio",
+      "finnish": "epäilyksettä",
+      "example": "È oltre ogni dubbio.",
+      "example_translation": "Siinä ei ole epäilyäkään (on epäilyksetöntä)."
+    },
+    {
+      "italian": "oltre ogni limite",
+      "finnish": "kaikkien rajojen yli",
+      "example": "La situazione è oltre ogni limite.",
+      "example_translation": "Tilanne on kohtuuton (mennyt yli kaikkien rajojen)."
+    },
+    {
+      "italian": "oltre ogni aspettativa",
+      "finnish": "kaikkien odotusten yli",
+      "example": "Il risultato è stato oltre ogni aspettativa.",
+      "example_translation": "Tulos ylitti kaikki odotukset."
+    },
+    {
+      "italian": "oltre ogni immaginazione",
+      "finnish": "kaiken kuvittelukyvyn yli",
+      "example": "La sua ricchezza è oltre ogni immaginazione.",
+      "example_translation": "Hänen rikkautensa ylittää kaiken kuvittelukyvyn."
+    },
+    {
+      "italian": "oltre misura",
+      "finnish": "liikaa, kohtuuttomasti",
+      "example": "Era oltre misura preoccupato.",
+      "example_translation": "Hän oli kohtuuttoman huolissaan (yli mitan/määrän)."
+    },
+    {
+      "italian": "oltre modo",
+      "finnish": "erittäin",
+      "example": "Sono oltre modo felice.",
+      "example_translation": "Olen erittäin onnellinen."
+    },
+    {
+      "italian": "oltre tutto",
+      "finnish": "kaiken lisäksi",
+      "example": "Oltre tutto aveva ragione.",
+      "example_translation": "Kaiken lisäksi hän oli oikeassa."
+    },
+    {
+      "italian": "e oltre",
+      "finnish": "ja enemmänkin",
+      "example": "Ha lavorato dieci ore e oltre.",
+      "example_translation": "Hän työskenteli kymmenen tuntia ja enemmänkin."
+    },
+    {
+      "italian": "non andare oltre",
+      "finnish": "ei mennä pidemmälle",
+      "example": "Meglio non andare oltre.",
+      "example_translation": "Parempi olla menemättä pidemmälle."
+    },
+    {
+      "italian": "andare oltre",
+      "finnish": "mennä pidemmälle",
+      "example": "Dobbiamo andare oltre.",
+      "example_translation": "Meidän täytyy mennä pidemmälle."
+    },
+    {
+      "italian": "guardare oltre",
+      "finnish": "katsoa pidemmälle",
+      "example": "Sa guardare oltre il presente.",
+      "example_translation": "Hän osaa katsoa nykyhetkeä pidemmälle."
+    },
+    {
+      "italian": "vedere oltre",
+      "finnish": "nähdä pintaa syvemmälle",
+      "example": "Lei vede oltre le parole.",
+      "example_translation": "Hän näkee sanojen taakse."
+    },
+    {
+      "italian": "pensare oltre",
+      "finnish": "ajatella laajemmin",
+      "example": "Bisogna pensare oltre.",
+      "example_translation": "Täytyy ajatella laajemmin."
+    },
+    {
+      "italian": "spingersi oltre",
+      "finnish": "mennä liian pitkälle",
+      "example": "Si è spinto oltre.",
+      "example_translation": "Hän meni liian pitkälle."
+    },
+    {
+      "italian": "oltre confine",
+      "finnish": "rajan takana",
+      "example": "Molti lavorano oltre confine.",
+      "example_translation": "Monet työskentelevät rajan takana."
+    },
+    {
+      "italian": "oltre mare",
+      "finnish": "meren takana",
+      "example": "Ha parenti oltre mare.",
+      "example_translation": "Hänellä on sukulaisia meren takana."
+    },
+    {
+      "italian": "oltre le Alpi",
+      "finnish": "Alppien takana",
+      "example": "Viaggiava spesso oltre le Alpi.",
+      "example_translation": "Hän matkusti usein Alppien taakse."
+    },
+    {
+      "italian": "oltre la metà",
+      "finnish": "yli puolet",
+      "example": "Oltre la metà degli studenti era presente.",
+      "example_translation": "Yli puolet opiskelijoista oli paikalla."
+    }
+  ]
+}
