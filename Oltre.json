@@ -57,7 +57,7 @@
       "example_translation": "Hän osti kirjojen lisäksi vihkoja."
     },
     {
-      "italian": "oltre alle aspettative",
+      "italian": "oltre le aspettative",
       "finnish": "odotusten yli",
       "example": "Il film è andato oltre le aspettative.",
       "example_translation": "Elokuva ylitti odotukset."
@@ -72,13 +72,13 @@
       "italian": "oltre le apparenze",
       "finnish": "ulkonäön taakse",
       "example": "Bisogna guardare oltre le apparenze.",
-      "example_translation": "Täytyy katsoa muutakin kuin ulkonäköä (ulkonäön taakse)."
+      "example_translation": "Täytyy katsoa muutakin kuin ulkonäköä (ulkoisten seikkojen taakse)."
     },
     {
       "italian": "oltre ogni dubbio",
-      "finnish": "epäilyksettä",
+      "finnish": "ilman epäilyä (kaiken epäilyksen yli)",
       "example": "È oltre ogni dubbio.",
-      "example_translation": "Siinä ei ole epäilyäkään (on epäilyksetöntä)."
+      "example_translation": "Siinä ei ole epäilystäkään."
     },
     {
       "italian": "oltre ogni limite",
@@ -105,9 +105,9 @@
       "example_translation": "Hän oli kohtuuttoman huolissaan (yli mitan/määrän)."
     },
     {
-      "italian": "oltre modo",
+      "italian": "oltremodo",
       "finnish": "erittäin",
-      "example": "Sono oltre modo felice.",
+      "example": "Sono oltremodo felice.",
       "example_translation": "Olen erittäin onnellinen."
     },
     {
