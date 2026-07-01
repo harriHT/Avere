@@ -1,0 +1,186 @@
+{
+  "title": "Superlativi italiani",
+  "source": "ChatGPT",
+  "items": [
+    {
+      "italian": "buonissimo",
+      "finnish": "erittäin hyvä",
+      "example": "Questa pizza è buonissima davvero oggi.",
+      "example_translation": "Tämä pizza on tänään todella hyvää."
+    },
+    {
+      "italian": "fortissimo",
+      "finnish": "erittäin vahva",
+      "example": "Il caffè di Marco è fortissimo stamattina.",
+      "example_translation": "Marcon kahvi on tänä aamuna todella vahvaa."
+    },
+    {
+      "italian": "bellissimo",
+      "finnish": "erittäin kaunis",
+      "example": "Il mare è bellissimo questa mattina.",
+      "example_translation": "Meri on tänä aamuna todella kaunis."
+    },
+    {
+      "italian": "altissimo",
+      "finnish": "erittäin korkea",
+      "example": "Quella montagna è altissima e sempre innevata.",
+      "example_translation": "Tuo vuori on erittäin korkea ja aina luminen."
+    },
+    {
+      "italian": "grandissimo",
+      "finnish": "erittäin suuri",
+      "example": "La nostra stanza è grandissima e molto luminosa.",
+      "example_translation": "Huoneemme on valtavan suuri ja hyvin valoisa."
+    },
+    {
+      "italian": "piccolissimo",
+      "finnish": "erittäin pieni",
+      "example": "Il loro cane è piccolissimo ma vivace.",
+      "example_translation": "Heidän koiransa on todella pieni mutta vilkas."
+    },
+    {
+      "italian": "interessantissimo",
+      "finnish": "erittäin mielenkiintoinen",
+      "example": "Questo film è interessantissimo per tutti noi.",
+      "example_translation": "Tämä elokuva on meille kaikille erittäin mielenkiintoinen."
+    },
+    {
+      "italian": "facilissimo",
+      "finnish": "erittäin helppo",
+      "example": "La lezione di oggi è facilissima per tutti.",
+      "example_translation": "Tämän päivän oppitunti on kaikille erittäin helppo."
+    },
+    {
+      "italian": "lunghissimo",
+      "finnish": "erittäin pitkä",
+      "example": "La strada verso casa è lunghissima oggi.",
+      "example_translation": "Tie kotiin on tänään todella pitkä."
+    },
+    {
+      "italian": "dolcissimo",
+      "finnish": "erittäin makea",
+      "example": "Questa torta è dolcissima e piace a tutti.",
+      "example_translation": "Tämä kakku on erittäin makea ja kaikki pitävät siitä."
+    },
+    {
+      "italian": "gentilissimo",
+      "finnish": "erittäin ystävällinen",
+      "example": "Il bambino è gentilissimo con tutti i vicini.",
+      "example_translation": "Poika on erittäin ystävällinen kaikille naapureille."
+    },
+    {
+      "italian": "silenziosissimo",
+      "finnish": "erittäin hiljainen",
+      "example": "La biblioteca è silenziosissima durante gli esami.",
+      "example_translation": "Kirjasto on kokeiden aikana erittäin hiljainen."
+    },
+    {
+      "italian": "caldissimo",
+      "finnish": "erittäin kuuma",
+      "example": "Oggi fa caldissimo anche qui in Finlandia.",
+      "example_translation": "Tänään on todella kuuma myös täällä Suomessa."
+    },
+    {
+      "italian": "freddissimo",
+      "finnish": "erittäin kylmä",
+      "example": "In inverno il vento è freddissimo.",
+      "example_translation": "Talvella tuuli on todella kylmä."
+    },
+    {
+      "italian": "carissimo",
+      "finnish": "erittäin kallis",
+      "example": "Questo orologio è carissimo per me.",
+      "example_translation": "Tämä kello on minulle erittäin kallis."
+    },
+    {
+      "italian": "il più alto",
+      "finnish": "kaikkein korkein",
+      "example": "Marco è il più alto della nostra classe.",
+      "example_translation": "Marco on meidän luokkamme pisin."
+    },
+    {
+      "italian": "la più simpatica",
+      "finnish": "kaikkein mukavin",
+      "example": "Anna è la più simpatica della famiglia.",
+      "example_translation": "Anna on perheen mukavin."
+    },
+    {
+      "italian": "il più interessante",
+      "finnish": "kaikkein mielenkiintoisin",
+      "example": "Questo libro è il più interessante della biblioteca.",
+      "example_translation": "Tämä kirja on kirjaston mielenkiintoisin."
+    },
+    {
+      "italian": "la più bella",
+      "finnish": "kaikkein kaunein",
+      "example": "Roma è la città più bella d'Italia.",
+      "example_translation": "Rooma on Italian kaunein kaupunki."
+    },
+    {
+      "italian": "il più difficile",
+      "finnish": "kaikkein vaikein",
+      "example": "Questo esercizio è il più difficile del libro.",
+      "example_translation": "Tämä harjoitus on kirjan vaikein."
+    },
+    {
+      "italian": "il meno caro",
+      "finnish": "kaikkein halvin",
+      "example": "Questo vino è il meno caro del negozio.",
+      "example_translation": "Tämä viini on kaupan halvin."
+    },
+    {
+      "italian": "la meno rumorosa",
+      "finnish": "kaikkein vähiten meluisa",
+      "example": "Questa stanza è la meno rumorosa dell'albergo.",
+      "example_translation": "Tämä huone on hotellin hiljaisin."
+    },
+    {
+      "italian": "ottimo",
+      "finnish": "erinomainen",
+      "example": "È un ottimo ristorante vicino alla stazione.",
+      "example_translation": "Se on erinomainen ravintola aseman lähellä."
+    },
+    {
+      "italian": "ottima",
+      "finnish": "erinomainen",
+      "example": "Abbiamo avuto un'ottima idea per domani.",
+      "example_translation": "Meillä oli erinomainen idea huomista varten."
+    },
+    {
+      "italian": "pessimo",
+      "finnish": "erittäin huono",
+      "example": "Il servizio è pessimo in questo albergo.",
+      "example_translation": "Palvelu on tässä hotellissa erittäin huonoa."
+    },
+    {
+      "italian": "pessima",
+      "finnish": "erittäin huono",
+      "example": "Ho avuto una pessima giornata al lavoro.",
+      "example_translation": "Minulla oli töissä todella huono päivä."
+    },
+    {
+      "italian": "massimo",
+      "finnish": "suurin mahdollinen",
+      "example": "Faremo il massimo per aiutarti oggi.",
+      "example_translation": "Teemme parhaamme auttaaksemme sinua tänään."
+    },
+    {
+      "italian": "massima",
+      "finnish": "suurin mahdollinen",
+      "example": "La velocità massima è ottanta chilometri orari.",
+      "example_translation": "Suurin sallittu nopeus on kahdeksankymmentä kilometriä tunnissa."
+    },
+    {
+      "italian": "minimo",
+      "finnish": "pienin mahdollinen",
+      "example": "Con il minimo sforzo puoi ottenere molto.",
+      "example_translation": "Pienimmällä vaivalla voit saada paljon aikaan."
+    },
+    {
+      "italian": "supremo",
+      "finnish": "ylin, korkein",
+      "example": "Il comandante supremo parla alla radio.",
+      "example_translation": "Ylipäällikkö puhuu radiossa."
+    }
+  ]
+}
