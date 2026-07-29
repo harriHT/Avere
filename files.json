@@ -1,9 +1,10 @@
 [
-  "il_pronome_ci.json",
-  "Oltre.json",
+  "In_cucina.json",
+  "Attrazioni_turistiche.json",
+  "Le_vacanze.json",
   "Superlativi.json",
+  "il_pronome_ci.json",
   "Peli_sulla_lingua.json",
-  "Con_te_futuro.json",
   "Participi_passati_irregolari_1.json",
   "Participi_passati_irregolari_2.json",
   "Verbi_al_futuro_semplice.json",
@@ -13,11 +14,7 @@
   "Verbi_preposizione.json",
   "verbo_ottenere.json",
   "Espressioni_di_tempo.json",
-  "Attrazioni_turistiche.json",
-  "Le_vacanze.json",
   "Come_si_chiede.json",
-  "In_cucina.json",
-  "Bosco.json",
-  "Aggettivi.json",
-  "Colori_variabile_invariabile.json"
+  "Oltre.json",
+  "Con_te_futuro.json"
 ]
