@@ -1,0 +1,246 @@
+{
+  "title": "Geometria – Geometria",
+  "source": "Me.",
+  "items": [
+    {
+      "italian": "il punto",
+      "finnish": "piste",
+      "example": "Segna un punto sul foglio.",
+      "example_translation": "Merkitse paperille piste."
+    },
+    {
+      "italian": "la linea",
+      "finnish": "viiva",
+      "example": "Disegna una linea!",
+      "example_translation": "Piirrä viiva!"
+    },
+    {
+      "italian": "la retta",
+      "finnish": "suora",
+      "example": "Una retta è infinita.",
+      "example_translation": "Suora on ääretön."
+    },
+    {
+      "italian": "la semiretta",
+      "finnish": "puolisuora",
+      "example": "Una semiretta ha un punto di origine.",
+      "example_translation": "Puolisuoralla on alkupiste."
+    },
+    {
+      "italian": "il segmento",
+      "finnish": "jana",
+      "example": "Questo segmento è lungo cinque centimetri.",
+      "example_translation": "Tämä jana on viisi senttimetriä pitkä."
+    },
+    {
+      "italian": "la curva",
+      "finnish": "käyrä",
+      "example": "Disegna una curva sul foglio!",
+      "example_translation": "Piirrä paperille käyrä!"
+    },
+    {
+      "italian": "il piano",
+      "finnish": "taso",
+      "example": "La retta si trova nel piano.",
+      "example_translation": "Suora sijaitsee tasossa."
+    },
+    {
+      "italian": "lo spazio",
+      "finnish": "avaruus",
+      "example": "Lo spazio ha tre dimensioni.",
+      "example_translation": "Avaruudella on kolme ulottuvuutta."
+    },
+    {
+      "italian": "l’angolo",
+      "finnish": "kulma",
+      "example": "Questo angolo misura trenta gradi.",
+      "example_translation": "Tämä kulma on kolmekymmentä astetta."
+    },
+    {
+      "italian": "l’angolo retto",
+      "finnish": "suora kulma (90°)",
+      "example": "Un angolo retto misura novanta gradi.",
+      "example_translation": "Suora kulma on yhdeksänkymmentä astetta."
+    },
+    {
+      "italian": "il cerchio",
+      "finnish": "ympyrä",
+      "example": "Colora il cerchio di blu!",
+      "example_translation": "Väritä ympyrä siniseksi!"
+    },
+    {
+      "italian": "la circonferenza",
+      "finnish": "ympyrän kehä",
+      "example": "Il punto si trova sulla circonferenza.",
+      "example_translation": "Piste sijaitsee ympyrän kehällä."
+    },
+    {
+      "italian": "il centro",
+      "finnish": "keskipiste",
+      "example": "Segna il centro del cerchio!",
+      "example_translation": "Merkitse ympyrän keskipiste!"
+    },
+    {
+      "italian": "il raggio",
+      "finnish": "säde",
+      "example": "Il raggio del cerchio è di due centimetri.",
+      "example_translation": "Ympyrän säde on kaksi senttimetriä."
+    },
+    {
+      "italian": "il diametro",
+      "finnish": "halkaisija",
+      "example": "Il diametro è il doppio del raggio.",
+      "example_translation": "Halkaisija on kaksi kertaa säde."
+    },
+    {
+      "italian": "l’arco",
+      "finnish": "kaari",
+      "example": "Un arco è una parte della circonferenza.",
+      "example_translation": "Kaari on osa ympyrän kehää."
+    },
+    {
+      "italian": "la corda",
+      "finnish": "jänne",
+      "example": "Una corda unisce due punti della circonferenza.",
+      "example_translation": "Jänne yhdistää kaksi ympyrän kehän pistettä."
+    },
+    {
+      "italian": "la tangente",
+      "finnish": "tangentti",
+      "example": "La tangente tocca la circonferenza in un solo punto.",
+      "example_translation": "Tangentti koskettaa ympyrän kehää vain yhdessä pisteessä."
+    },
+    {
+      "italian": "il triangolo",
+      "finnish": "kolmio",
+      "example": "Un triangolo ha tre lati.",
+      "example_translation": "Kolmiolla on kolme sivua."
+    },
+    {
+      "italian": "il quadrato",
+      "finnish": "neliö",
+      "example": "Un quadrato ha quattro lati uguali.",
+      "example_translation": "Neliöllä on neljä yhtä pitkää sivua."
+    },
+    {
+      "italian": "il rettangolo",
+      "finnish": "suorakulmio",
+      "example": "Un rettangolo ha quattro angoli retti.",
+      "example_translation": "Suorakulmiolla on neljä suoraa kulmaa."
+    },
+    {
+      "italian": "il poligono",
+      "finnish": "monikulmio",
+      "example": "Un pentagono è un poligono con cinque lati.",
+      "example_translation": "Viisikulmio on monikulmio, jolla on viisi sivua."
+    },
+    {
+      "italian": "la sfera",
+      "finnish": "pallo",
+      "example": "La Terra ha quasi la forma di una sfera.",
+      "example_translation": "Maa on lähes pallon muotoinen."
+    },
+    {
+      "italian": "il cubo",
+      "finnish": "kuutio",
+      "example": "Un cubo ha sei facce quadrate.",
+      "example_translation": "Kuutiolla on kuusi neliönmuotoista tahkoa."
+    },
+    {
+      "italian": "la lunghezza",
+      "finnish": "pituus",
+      "example": "Misura la lunghezza del segmento!",
+      "example_translation": "Mittaa janan pituus!"
+    },
+    {
+      "italian": "la distanza",
+      "finnish": "etäisyys",
+      "example": "Calcola la distanza tra i due punti!",
+      "example_translation": "Laske kahden pisteen välinen etäisyys!"
+    },
+    {
+      "italian": "il perimetro",
+      "finnish": "piiri",
+      "example": "Il perimetro di un quadrato è quattro volte la lunghezza del lato.",
+      "example_translation": "Neliön piiri on neljä kertaa sivun pituus."
+    },
+    {
+      "italian": "l’area",
+      "finnish": "pinta-ala",
+      "example": "Calcola l’area del triangolo!",
+      "example_translation": "Laske kolmion pinta-ala!"
+    },
+    {
+      "italian": "il volume",
+      "finnish": "tilavuus",
+      "example": "Calcola il volume del cubo!",
+      "example_translation": "Laske kuution tilavuus!"
+    },
+    {
+      "italian": "l’asse",
+      "finnish": "akseli",
+      "example": "L’asse x è orizzontale.",
+      "example_translation": "X-akseli on vaakasuora."
+    },
+    {
+      "italian": "l’origine",
+      "finnish": "origo",
+      "example": "L’origine ha coordinate zero e zero.",
+      "example_translation": "Origon koordinaatit ovat nolla ja nolla."
+    },
+    {
+      "italian": "le coordinate",
+      "finnish": "koordinaatit",
+      "example": "Quali sono le coordinate del punto?",
+      "example_translation": "Mitkä ovat pisteen koordinaatit?"
+    },
+    {
+      "italian": "il vettore",
+      "finnish": "vektori",
+      "example": "Disegna il vettore con una freccia!",
+      "example_translation": "Piirrä vektori nuolena!"
+    },
+    {
+      "italian": "il vettore posizione",
+      "finnish": "paikkavektori",
+      "example": "Il vettore posizione va dall’origine al punto.",
+      "example_translation": "Paikkavektori kulkee origosta pisteeseen."
+    },
+    {
+      "italian": "il piano complesso",
+      "finnish": "kompleksitaso",
+      "example": "Rappresentiamo il numero nel piano complesso.",
+      "example_translation": "Esitämme luvun kompleksitasossa."
+    },
+    {
+      "italian": "parallelo",
+      "finnish": "yhdensuuntainen",
+      "example": "Questa retta è parallela all’asse x.",
+      "example_translation": "Tämä suora on yhdensuuntainen x-akselin kanssa."
+    },
+    {
+      "italian": "perpendicolare",
+      "finnish": "kohtisuora",
+      "example": "La tangente è perpendicolare al raggio nel punto di contatto.",
+      "example_translation": "Tangentti on kohtisuorassa sädettä vastaan sivuamispisteessä."
+    },
+    {
+      "italian": "la rotazione",
+      "finnish": "kierto",
+      "example": "Una rotazione di centottanta gradi è mezzo giro.",
+      "example_translation": "Sadan kahdeksankymmenen asteen kierto on puoli kierrosta."
+    },
+    {
+      "italian": "in senso orario",
+      "finnish": "myötäpäivään",
+      "example": "Il punto si muove in senso orario.",
+      "example_translation": "Piste liikkuu myötäpäivään."
+    },
+    {
+      "italian": "in senso antiorario",
+      "finnish": "vastapäivään",
+      "example": "Il punto si muove in senso antiorario.",
+      "example_translation": "Piste liikkuu vastapäivään."
+    }
+  ]
+}
