@@ -6,1339 +6,1339 @@
       "italian": "dare",
       "finnish": "antaa",
       "example": "Te l'ho dato ieri.",
-      "example_translation": "Annoin sen sinulle eilen."
+      "example_translation": "Annoin sen sinulle eilen (kirja – il libro ; minä (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Me l'ha data.",
-      "example_translation": "Hän antoi sen minulle."
+      "example_translation": "Hän antoi sen minulle (avain – la chiave ; hän (nainen))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Gliele manderò domani.",
-      "example_translation": "Lähetän ne hänelle huomenna."
+      "example_translation": "Lähetän ne hänelle huomenna (valokuvat – le fotografie ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "mostrare",
       "finnish": "näyttää",
       "example": "Me l'hai già mostrata?",
-      "example_translation": "Oletko jo näyttänyt sen minulle?"
+      "example_translation": "Oletko jo näyttänyt sen minulle (valokuva – la fotografia ; sinä (mies tai nainen))?"
     },
     {
       "italian": "raccontare",
       "finnish": "kertoa",
       "example": "Non gliel'ho ancora raccontata.",
-      "example_translation": "En ole vielä kertonut sitä hänelle."
+      "example_translation": "En ole vielä kertonut sitä hänelle (uutinen – la notizia ; minä (mies); vastaanottaja (mies))."
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Te le ho comprate ieri.",
-      "example_translation": "Ostin ne sinulle eilen."
+      "example_translation": "Ostin ne sinulle eilen (kengät – le scarpe (feminiini, monikko); minä (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Non voglio darglielo.",
-      "example_translation": "En halua antaa sitä hänelle."
+      "example_translation": "En halua antaa sitä hänelle (kirja – il libro ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "portare",
       "finnish": "tuoda",
       "example": "Puoi portarmeli?",
-      "example_translation": "Voitko tuoda ne minulle?"
+      "example_translation": "Voitko tuoda ne minulle (kirjat – i libri ; sinä (mies tai nainen))?"
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Non ce l'ha restituita.",
-      "example_translation": "Hän ei palauttanut sitä meille."
+      "example_translation": "Hän ei palauttanut sitä meille (avain – la chiave ; hän (mies))."
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Gliel'ho detto ieri.",
-      "example_translation": "Kerroin sen heille eilen."
+      "example_translation": "Kerroin sen heille eilen (salaisuus – il segreto ; minä (mies))."
     },
     {
       "italian": "fare vedere",
       "finnish": "näyttää",
       "example": "Non farmela vedere!",
-      "example_translation": "Älä näytä sitä minulle!"
+      "example_translation": "Älä näytä sitä minulle (valokuva – la fotografia ; sinä (mies tai nainen))!"
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Mandaceli domani!",
-      "example_translation": "Lähetä ne meille huomenna!"
+      "example_translation": "Lähetä ne meille huomenna (kutsut – gli inviti ; sinä (mies tai nainen))!"
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non glielo dire!",
-      "example_translation": "Älä kerro sitä hänelle!"
+      "example_translation": "Älä kerro sitä hänelle (salaisuus – il segreto ; sinä (mies tai nainen); vastaanottaja (nainen))!"
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Ce le ha già mandate.",
-      "example_translation": "Hän on jo lähettänyt ne meille."
+      "example_translation": "Hän on jo lähettänyt ne meille (kirjeet – le lettere ; hän (nainen))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Non posso dartele.",
-      "example_translation": "En voi antaa niitä sinulle."
+      "example_translation": "En voi antaa niitä sinulle (avaimet – le chiavi ; minä (mies))."
     },
     {
       "italian": "mostrare",
       "finnish": "näyttää",
       "example": "Non ha voluto mostrarcele.",
-      "example_translation": "Hän ei halunnut näyttää niitä meille."
+      "example_translation": "Hän ei halunnut näyttää niitä meille (valokuvat – le fotografie ; hän (nainen))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Gliel'avrei dato.",
-      "example_translation": "Olisin antanut sen hänelle."
+      "example_translation": "Olisin antanut sen hänelle (kirja – il libro ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "mostrare",
       "finnish": "näyttää",
       "example": "Me le avresti mostrate?",
-      "example_translation": "Olisitko näyttänyt ne minulle?"
+      "example_translation": "Olisitko näyttänyt ne minulle (valokuvat – le fotografie ; sinä (mies tai nainen))?"
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non te l'avrei mai detta.",
-      "example_translation": "En olisi koskaan kertonut sitä sinulle."
+      "example_translation": "En olisi koskaan kertonut sitä sinulle (totuus – la verità ; minä (mies))."
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Glieli avremmo comprati.",
-      "example_translation": "Olisimme ostaneet ne hänelle."
+      "example_translation": "Olisimme ostaneet ne hänelle (silmälasit – gli occhiali (maskuliini, monikko); me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "prestare",
       "finnish": "lainata",
       "example": "Ce l'avresti prestata?",
-      "example_translation": "Olisitko lainannut sen meille?"
+      "example_translation": "Olisitko lainannut sen meille (auto – la macchina ; sinä (mies tai nainen))?"
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Non gliele avrei mandate.",
-      "example_translation": "En olisi lähettänyt niitä hänelle."
+      "example_translation": "En olisi lähettänyt niitä hänelle (kirjeet – le lettere ; minä (mies); vastaanottaja (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Avrebbe potuto darmele.",
-      "example_translation": "Hän olisi voinut antaa ne minulle."
+      "example_translation": "Hän olisi voinut antaa ne minulle (avaimet – le chiavi ; hän (mies))."
     },
     {
       "italian": "mostrare",
       "finnish": "näyttää",
       "example": "Avremmo potuto mostrartele.",
-      "example_translation": "Olisimme voineet näyttää ne sinulle."
+      "example_translation": "Olisimme voineet näyttää ne sinulle (valokuvat – le fotografie ; me (sekaryhmä))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Ce l'avrebbe restituito.",
-      "example_translation": "Hän olisi palauttanut sen meille."
+      "example_translation": "Hän olisi palauttanut sen meille (kirja – il libro ; hän (mies))."
     },
     {
       "italian": "ricevere",
       "finnish": "saada",
       "example": "Non l'avrei ricevuta da lei.",
-      "example_translation": "En olisi saanut sitä häneltä."
+      "example_translation": "En olisi saanut sitä häneltä (kirje – la lettera ; minä (mies))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Me l'avrebbe mandato.",
-      "example_translation": "Hän olisi lähettänyt sen minulle."
+      "example_translation": "Hän olisi lähettänyt sen minulle (viesti – il messaggio ; hän (mies))."
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Me ne ha comprato.",
-      "example_translation": "Hän osti sitä minulle."
+      "example_translation": "Hän osti sitä minulle (leipä – il pane ; hän (nainen))."
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Ce ne ha comprate tre.",
-      "example_translation": "Hän osti niitä meille kolme."
+      "example_translation": "Hän osti niitä meille kolme (kolme omenaa – le mele ; hän (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Te ne avrei date due.",
-      "example_translation": "Olisin antanut niitä sinulle kaksi."
+      "example_translation": "Olisin antanut niitä sinulle kaksi (kaksi omenaa – le mele ; minä (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Ce ne avrebbe data la metà.",
-      "example_translation": "Hän olisi antanut meille niistä puolet."
+      "example_translation": "Hän olisi antanut meille niistä puolet (omenat – le mele ; määrän pääsana: la metà ; hän (mies))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Non gliene avrei parlato.",
-      "example_translation": "En olisi puhunut hänelle siitä."
+      "example_translation": "En olisi puhunut hänelle siitä (ongelma – il problema ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "portare",
       "finnish": "tuoda",
       "example": "Ce ne avresti portate quattro?",
-      "example_translation": "Olisitko tuonut niitä meille neljä?"
+      "example_translation": "Olisitko tuonut niitä meille neljä (neljä tuolia – le sedie ; sinä (mies tai nainen))?"
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Ce ne avrebbe comprato un po'.",
-      "example_translation": "Hän olisi ostanut meille vähän viiniä."
+      "example_translation": "Hän olisi ostanut meille vähän viiniä (viini – il vino ; hän (nainen))."
     },
     {
       "italian": "promettere",
       "finnish": "luvata",
       "example": "Gliene avevo promesse tre.",
-      "example_translation": "Olin luvannut hänelle kolme ruusua."
+      "example_translation": "Olin luvannut hänelle niistä kolme (kolme ruusua – le rose ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non gliene avrei detto niente.",
-      "example_translation": "En olisi kertonut hänelle siitä mitään."
+      "example_translation": "En olisi kertonut hänelle siitä mitään (onnettomuus – l’incidente ; minä (mies); vastaanottaja (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Gliene hai dati cinque?",
-      "example_translation": "Annoitko niitä heille viisi?"
+      "example_translation": "Annoitko niitä heille viisi (viisi kirjaa – i libri ; sinä (mies tai nainen))?"
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Avrei voluto comprargliene due.",
-      "example_translation": "Olisin halunnut ostaa niitä hänelle kaksi."
+      "example_translation": "Olisin halunnut ostaa niitä hänelle kaksi (kaksi paitaa – le camicie ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "promettere",
       "finnish": "luvata",
       "example": "Ce ne aveva promessa la metà.",
-      "example_translation": "Hän oli luvannut meille niistä puolet."
+      "example_translation": "Hän oli luvannut meille niistä puolet (kirjat – i libri ; määrän pääsana: la metà ; hän (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Non ce ne aveva data neanche una.",
-      "example_translation": "Hän ei ollut antanut meille yhtäkään."
+      "example_translation": "Hän ei ollut antanut meille yhtäkään (yhtäkään omenaa – la mela ; hän (nainen))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Gliene avevi già parlato?",
-      "example_translation": "Olitko jo puhunut hänelle siitä?"
+      "example_translation": "Olitko jo puhunut hänelle siitä (suunnitelma – il progetto ; sinä (mies tai nainen); vastaanottaja (nainen))?"
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non gliene dire niente!",
-      "example_translation": "Älä kerro hänelle siitä mitään!"
+      "example_translation": "Älä kerro hänelle siitä mitään (virhe – l’errore ; sinä (mies tai nainen); vastaanottaja (nainen))!"
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Non gliene dare neanche una!",
-      "example_translation": "Älä anna hänelle niistä yhtäkään!"
+      "example_translation": "Älä anna hänelle niistä yhtäkään (yhtäkään karamellia – la caramella ; sinä (mies tai nainen); vastaanottaja (mies))!"
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Gliene avrei date di più.",
-      "example_translation": "Olisin antanut hänelle niitä enemmän."
+      "example_translation": "Olisin antanut hänelle niitä enemmän (omenat – le mele ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Gliene avrei dati di meno.",
-      "example_translation": "Olisin antanut hänelle niitä vähemmän."
+      "example_translation": "Olisin antanut hänelle niitä vähemmän (kirjat – i libri ; minä (mies); vastaanottaja (mies))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Avreste potuto restituircele?",
-      "example_translation": "Olisitteko voineet palauttaa ne meille?"
+      "example_translation": "Olisitteko voineet palauttaa ne meille (avaimet – le chiavi ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non avrebbe voluto dircela.",
-      "example_translation": "Hän ei olisi halunnut kertoa sitä meille."
+      "example_translation": "Hän ei olisi halunnut kertoa sitä meille (totuus – la verità ; hän (mies); vastaanottaja ((ei määritelty)))."
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Gliene avremmo comprate due.",
-      "example_translation": "Olisimme ostaneet heille niistä kaksi."
+      "example_translation": "Olisimme ostaneet heille niistä kaksi (kaksi paitaa – le camicie ; me (sekaryhmä); vastaanottaja (he))."
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Non se n'era accorto.",
-      "example_translation": "Hän ei ollut huomannut niitä."
+      "example_translation": "Hän ei ollut huomannut niitä (virheet – gli errori ; hän (mies))."
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Non ce ne saremmo accorti.",
-      "example_translation": "Emme olisi huomanneet sitä."
+      "example_translation": "Emme olisi huomanneet sitä (virhe – l’errore ; me (sekaryhmä))."
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Ve ne sareste accorti in tempo?",
-      "example_translation": "Olisitteko huomanneet sen ajoissa?"
+      "example_translation": "Olisitteko huomanneet sen ajoissa (virhe – l’errore ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "rendersi conto di",
       "finnish": "tajuta",
       "example": "Non se ne sarebbe resa conto da sola.",
-      "example_translation": "Hän ei olisi tajunnut sitä yksin."
+      "example_translation": "Hän ei olisi tajunnut sitä yksin (ongelma – il problema ; hän (nainen))."
     },
     {
       "italian": "riuscire a spiegare",
       "finnish": "pystyä selittämään",
       "example": "Saresti riuscito a spiegarglielo?",
-      "example_translation": "Olisitko pystynyt selittämään sen hänelle?"
+      "example_translation": "Olisitko pystynyt selittämään sen hänelle (ongelma – il problema ; sinä (mies); vastaanottaja (nainen))?"
     },
     {
       "italian": "riuscire a dare",
       "finnish": "pystyä antamaan",
       "example": "Saresti riuscito a darcene tre?",
-      "example_translation": "Olisitko pystynyt antamaan niitä meille kolme?"
+      "example_translation": "Olisitko pystynyt antamaan niitä meille kolme (kolme omenaa – le mele ; sinä (mies))?"
     },
     {
       "italian": "rimanere",
       "finnish": "jäädä jäljelle",
       "example": "Me ne sono rimaste solo due.",
-      "example_translation": "Minulle jäi niitä vain kaksi."
+      "example_translation": "Minulle jäi niitä vain kaksi (subjekti: kaksi appelsiinia – le arance )."
     },
     {
       "italian": "rimanere",
       "finnish": "jäädä jäljelle",
       "example": "Non te n'è rimasta neanche una.",
-      "example_translation": "Sinulle ei jäänyt yhtäkään."
+      "example_translation": "Sinulle ei jäänyt yhtäkään (subjekti: yhtäkään kolikkoa – la moneta )."
     },
     {
       "italian": "rimanere",
       "finnish": "jäädä jäljelle",
       "example": "Ce ne sarebbero rimaste tre.",
-      "example_translation": "Meille olisi jäänyt niitä kolme."
+      "example_translation": "Meille olisi jäänyt niitä kolme (subjekti: kolme omenaa – le mele )."
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Gliene sarebbero mancate due.",
-      "example_translation": "Häneltä olisi puuttunut niitä kaksi."
+      "example_translation": "Häneltä olisi puuttunut niitä kaksi (subjekti: kaksi sivua – le pagine ; kokija (nainen))."
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Non ce ne sarebbe mancata neanche una.",
-      "example_translation": "Meiltä ei olisi puuttunut yhtäkään."
+      "example_translation": "Meiltä ei olisi puuttunut yhtäkään (subjekti: yhtäkään sivua – la pagina )."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Te ne avrebbe parlato?",
-      "example_translation": "Olisiko hän puhunut siitä sinulle?"
+      "example_translation": "Olisiko hän puhunut siitä sinulle (ongelma – il problema ; hän (nainen))?"
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Te ne avrei dette tre.",
-      "example_translation": "Olisin kertonut sinulle niistä kolme."
+      "example_translation": "Olisin kertonut sinulle niistä kolme (kolme tarinaa – le storie ; minä (mies))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Te ne avrei parlato.",
-      "example_translation": "Olisin puhunut sinulle niistä."
+      "example_translation": "Olisin puhunut sinulle niistä (tarina – la storia ; minä (mies))."
     },
     {
       "italian": "raccontare",
       "finnish": "kertoa",
       "example": "Gliene avrei raccontate due.",
-      "example_translation": "Olisin kertonut hänelle niistä kaksi."
+      "example_translation": "Olisin kertonut hänelle niistä kaksi (kaksi tarinaa – le storie ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Non le avrei parlato di nessuno dei due.",
-      "example_translation": "En olisi puhunut hänelle niistä kummastakaan."
+      "example_translation": "En olisi puhunut hänelle niistä kummastakaan (yhtäkään ongelmaa – il problema ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "rimanere",
       "finnish": "jäädä jäljelle",
       "example": "Gliene è rimasto solo uno.",
-      "example_translation": "Hänelle jäi vain yksi."
+      "example_translation": "Hänelle jäi vain yksi (subjekti: vain yksi pääsylippu – il biglietto )."
     },
     {
       "italian": "rimanere",
       "finnish": "jäädä jäljelle",
       "example": "Gliene sarebbero rimasti cinque.",
-      "example_translation": "Heille olisi jäänyt niitä viisi."
+      "example_translation": "Heille olisi jäänyt niitä viisi (subjekti: viisi pääsylippua – i biglietti )."
     },
     {
       "italian": "servire",
       "finnish": "tarvita",
       "example": "Gliene sarebbero servite altre tre.",
-      "example_translation": "Hän olisi tarvinnut niitä kolme lisää."
+      "example_translation": "Hän olisi tarvinnut niitä kolme lisää (subjekti: kolme tuolia lisää – le sedie ; kokija (nainen))."
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Gliene sono sparite due.",
-      "example_translation": "Häneltä katosi niitä kaksi."
+      "example_translation": "Häneltä katosi niitä kaksi (subjekti: kaksi avainta – le chiavi ; kokija (nainen))."
     },
     {
       "italian": "perdere",
       "finnish": "hukata",
       "example": "Ne avrebbe persa una.",
-      "example_translation": "Hän olisi hukannut niistä yhden."
+      "example_translation": "Hän olisi hukannut niistä yhden (avain – la chiave ; hän (nainen))."
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Me ne sarebbero sparite tre.",
-      "example_translation": "Minulta olisi kadonnut niitä kolme."
+      "example_translation": "Minulta olisi kadonnut niitä kolme (subjekti: kolme kolikkoa – le monete )."
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Non gliene era sparita neanche una.",
-      "example_translation": "Häneltä ei ollut kadonnut yhtäkään."
+      "example_translation": "Häneltä ei ollut kadonnut yhtäkään (subjekti: yhtäkään avainta – la chiave ; kokija (nainen))."
     },
     {
       "italian": "bastare",
       "finnish": "riittää",
       "example": "Ce ne sarebbero bastate due.",
-      "example_translation": "Meille olisi riittänyt niitä kaksi."
+      "example_translation": "Meille olisi riittänyt niitä kaksi (subjekti: kaksi peittoa – le coperte )."
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Gliene sarebbero mancati tre.",
-      "example_translation": "Häneltä olisi puuttunut niitä kolme."
+      "example_translation": "Häneltä olisi puuttunut niitä kolme (subjekti: kolme asiakirjaa – i documenti ; kokija (nainen))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Ce ne avrebbe parlato.",
-      "example_translation": "Hän olisi puhunut siitä meille."
+      "example_translation": "Hän olisi puhunut siitä meille (ehdotus – la proposta ; hän (nainen))."
     },
     {
       "italian": "raccontare",
       "finnish": "kertoa",
       "example": "Avremmo potuto raccontargliene tre.",
-      "example_translation": "Olisimme voineet kertoa hänelle niistä kolme."
+      "example_translation": "Olisimme voineet kertoa hänelle niistä kolme (kolme tarinaa – le storie ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "lasciare",
       "finnish": "jättää",
       "example": "Avrebbe voluto lasciarcene uno.",
-      "example_translation": "Hän olisi halunnut jättää meille niistä yhden."
+      "example_translation": "Hän olisi halunnut jättää meille niistä yhden (kirja – il libro ; hän (nainen))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Avremmo voluto parlargliene.",
-      "example_translation": "Olisimme halunneet puhua siitä hänelle."
+      "example_translation": "Olisimme halunneet puhua siitä hänelle (ongelma – il problema ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Avremmo voluto dargliene tre.",
-      "example_translation": "Olisimme halunneet antaa hänelle niitä kolme."
+      "example_translation": "Olisimme halunneet antaa hänelle niitä kolme (kolme omenaa – le mele ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Avrebbe potuto mandarcene una.",
-      "example_translation": "Hän olisi voinut lähettää meille yhden."
+      "example_translation": "Hän olisi voinut lähettää meille yhden (kirje – la lettera ; hän (mies))."
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Te ne sarebbe sparita la metà.",
-      "example_translation": "Sinulta olisi kadonnut niistä puolet."
+      "example_translation": "Sinulta olisi kadonnut niistä puolet (subjekti: pääsyliput – i biglietti ; määrän pääsana: la metà )."
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Ce ne sarebbe mancata la metà.",
-      "example_translation": "Meiltä olisi puuttunut niistä puolet."
+      "example_translation": "Meiltä olisi puuttunut niistä puolet (subjekti: asiakirjat – i documenti ; määrän pääsana: la metà )."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Ce ne avrebbe restituita la metà.",
-      "example_translation": "Hän olisi palauttanut meille niistä puolet."
+      "example_translation": "Hän olisi palauttanut meille niistä puolet (kirjat – i libri ; määrän pääsana: la metà ; hän (nainen))."
     },
     {
       "italian": "prestare",
       "finnish": "lainata",
       "example": "Non gliene prestare neanche una!",
-      "example_translation": "Älä lainaa hänelle niistä yhtäkään!"
+      "example_translation": "Älä lainaa hänelle niistä yhtäkään (yhtäkään autoa – la macchina ; sinä (mies tai nainen); vastaanottaja (mies))!"
     },
     {
       "italian": "osare parlare",
       "finnish": "uskaltaa puhua",
       "example": "Non avrei osato parlargliene.",
-      "example_translation": "En olisi uskaltanut puhua siitä hänelle."
+      "example_translation": "En olisi uskaltanut puhua siitä hänelle (onnettomuus – l’incidente ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "osare mostrare",
       "finnish": "uskaltaa näyttää",
       "example": "Non avrebbe osato mostrargliela.",
-      "example_translation": "En olisi uskaltanut näyttää sitä hänelle."
+      "example_translation": "Hän ei olisi uskaltanut näyttää sitä hänelle (valokuva – la fotografia ; hän (mies); vastaanottaja (mies))."
     },
     {
       "italian": "osare prestare",
       "finnish": "uskaltaa lainata",
       "example": "Avresti osato prestarmela?",
-      "example_translation": "Olisitko uskaltanut lainata sen minulle?"
+      "example_translation": "Olisitko uskaltanut lainata sen minulle (auto – la macchina ; sinä (mies tai nainen))?"
     },
     {
       "italian": "osare dare",
       "finnish": "uskaltaa antaa",
       "example": "Avresti osato darmene tre?",
-      "example_translation": "Olisitko uskaltanut antaa niitä minulle kolme?"
+      "example_translation": "Olisitko uskaltanut antaa niitä minulle kolme (kolme avainta – le chiavi ; sinä (mies tai nainen))?"
     },
     {
       "italian": "osare prestare",
       "finnish": "uskaltaa lainata",
       "example": "Avresti osato prestargliela?",
-      "example_translation": "Olisitko uskaltanut lainata sen hänelle?"
+      "example_translation": "Olisitko uskaltanut lainata sen hänelle (auto – la macchina ; sinä (mies tai nainen); vastaanottaja (nainen))?"
     },
     {
       "italian": "riuscire a spiegare",
       "finnish": "pystyä selittämään",
       "example": "Non sarei riuscito a spiegarglielo.",
-      "example_translation": "En olisi pystynyt selittämään sitä heille."
+      "example_translation": "En olisi pystynyt selittämään sitä heille (ongelma – il problema ; minä (mies))."
     },
     {
       "italian": "riuscire a dare",
       "finnish": "pystyä antamaan",
       "example": "Non sarei riuscito a dartene due.",
-      "example_translation": "En olisi pystynyt antamaan niitä sinulle kahta."
+      "example_translation": "En olisi pystynyt antamaan niitä sinulle kahta (kaksi kirjettä – le lettere ; minä (mies))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Non ce ne avevano mandata neanche una.",
-      "example_translation": "He eivät olleet lähettäneet meille yhtäkään."
+      "example_translation": "He eivät olleet lähettäneet meille yhtäkään (yhtäkään valokuvaa – la fotografia ; he (sekaryhmä))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Non ce ne avevi restituita neanche una.",
-      "example_translation": "Et ollut palauttanut meille yhtäkään."
+      "example_translation": "Et ollut palauttanut meille yhtäkään (yhtäkään avainta – la chiave ; sinä (mies tai nainen))."
     },
     {
       "italian": "potere dare",
       "finnish": "voida antaa",
       "example": "Avresti potuto dargliene la metà?",
-      "example_translation": "Olisitko voinut antaa niitä hänelle puolet?"
+      "example_translation": "Olisitko voinut antaa niitä hänelle puolet (omenat – le mele ; määrän pääsana: la metà ; sinä (mies tai nainen); vastaanottaja (nainen))?"
     },
     {
       "italian": "promettere",
       "finnish": "luvata",
       "example": "Ce ne avrebbe promessi quattro.",
-      "example_translation": "Hän olisi luvannut meille niitä neljä."
+      "example_translation": "Hän olisi luvannut meille niitä neljä (neljä kirjaa – i libri ; hän (nainen))."
     },
     {
       "italian": "volere mandare",
       "finnish": "haluta lähettää",
       "example": "Avrebbe voluto mandarcene la metà.",
-      "example_translation": "Hän olisi halunnut lähettää meille niistä puolet."
+      "example_translation": "Hän olisi halunnut lähettää meille niistä puolet (valokuvat – le fotografie ; määrän pääsana: la metà ; hän (nainen))."
     },
     {
       "italian": "lasciare",
       "finnish": "jättää",
       "example": "Ce ne ha lasciati due.",
-      "example_translation": "Hän jätti meille niistä kaksi."
+      "example_translation": "Hän jätti meille niistä kaksi (kaksi pääsylippua – i biglietti ; hän (nainen))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Ce ne avrebbe mandato un terzo.",
-      "example_translation": "Hän olisi lähettänyt meille niistä kolmasosan."
+      "example_translation": "Hän olisi lähettänyt meille niistä kolmasosan (valokuvat – le fotografie ; määrän pääsana: un terzo ; hän (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Gliene avrei dato un quarto.",
-      "example_translation": "Olisin antanut hänelle niistä neljäsosan."
+      "example_translation": "Olisin antanut hänelle niistä neljäsosan (kirjat – i libri ; määrän pääsana: un quarto ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Te ne avrei mandati due terzi.",
-      "example_translation": "Olisin lähettänyt sinulle niistä kaksi kolmasosaa."
+      "example_translation": "Olisin lähettänyt sinulle niistä kaksi kolmasosaa (valokuvat – le fotografie ; määrän pääsana: due terzi ; minä (mies))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Ce ne avrebbe restituiti tre quarti.",
-      "example_translation": "Hän olisi palauttanut meille niistä kolme neljäsosaa."
+      "example_translation": "Hän olisi palauttanut meille niistä kolme neljäsosaa (kirjat – i libri ; määrän pääsana: tre quarti ; hän (nainen))."
     },
     {
       "italian": "potere dare",
       "finnish": "voida antaa",
       "example": "Avremmo potuto dargliene la metà.",
-      "example_translation": "Olisimme voineet antaa hänelle puolet."
+      "example_translation": "Olisimme voineet antaa hänelle puolet (omenat – le mele ; määrän pääsana: la metà ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "osare dare",
       "finnish": "uskaltaa antaa",
       "example": "Non avrebbe osato darcene neanche una.",
-      "example_translation": "Hän ei olisi uskaltanut antaa meille yhtäkään."
+      "example_translation": "Hän ei olisi uskaltanut antaa meille yhtäkään (yhtäkään avainta – la chiave ; hän (nainen))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Ce ne avrebbe mandate altre.",
-      "example_translation": "Hän olisi lähettänyt meille niitä lisää."
+      "example_translation": "Hän olisi lähettänyt meille niitä lisää (valokuvat – le fotografie ; hän (mies))."
     },
     {
       "italian": "promettere",
       "finnish": "luvata",
       "example": "Ce ne aveva promesse altre due.",
-      "example_translation": "Hän oli luvannut meille kaksi lisää."
+      "example_translation": "Hän oli luvannut meille kaksi lisää (kaksi valokuvaa lisää – le fotografie ; hän (nainen))."
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Gliene sarebbero sparite altre due.",
-      "example_translation": "Häneltä olisi kadonnut vielä kaksi."
+      "example_translation": "Häneltä olisi kadonnut vielä kaksi (subjekti: kaksi avainta lisää – le chiavi ; kokija (nainen))."
     },
     {
       "italian": "perdere",
       "finnish": "hukata",
       "example": "Ne avrebbe perse altre due.",
-      "example_translation": "Hän olisi hukannut niitä vielä kaksi."
+      "example_translation": "Hän olisi hukannut niitä vielä kaksi (kaksi avainta lisää – le chiavi ; hän (nainen))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Me ne avrebbe dati altri due.",
-      "example_translation": "Hän olisi antanut minulle kaksi lisää."
+      "example_translation": "Hän olisi antanut minulle kaksi lisää (kaksi kirjaa lisää – i libri ; hän (nainen))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Non ce ne avrebbe più parlato.",
-      "example_translation": "Hän ei olisi puhunut meille siitä enää."
+      "example_translation": "Hän ei olisi puhunut meille siitä enää (ongelma – il problema ; hän (nainen))."
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non ce ne aveva detto niente.",
-      "example_translation": "Hän ei ollut kertonut meille siitä mitään."
+      "example_translation": "Hän ei ollut kertonut meille siitä mitään (onnettomuus – l’incidente ; hän (mies))."
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Ce l'aveva già detta.",
-      "example_translation": "Hän oli jo kertonut sen meille."
+      "example_translation": "Hän oli jo kertonut sen meille (uutinen – la notizia ; hän (nainen))."
     },
     {
       "italian": "mostrare",
       "finnish": "näyttää",
       "example": "Non ce l'aveva ancora mostrata.",
-      "example_translation": "Hän ei ollut vielä näyttänyt sitä meille."
+      "example_translation": "Hän ei ollut vielä näyttänyt sitä meille (valokuva – la fotografia ; hän (mies))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Non gliele avevamo restituite.",
-      "example_translation": "Emme olleet palauttaneet niitä hänelle."
+      "example_translation": "Emme olleet palauttaneet niitä hänelle (avaimet – le chiavi ; me (sekaryhmä))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Non ce ne aveva ancora restituito neanche uno.",
-      "example_translation": "Hän ei ollut vielä palauttanut niistä yhtäkään meille."
+      "example_translation": "Hän ei ollut vielä palauttanut niistä yhtäkään meille (yhtäkään kirjaa – il libro ; hän (nainen))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Non ce ne aveva più parlato.",
-      "example_translation": "Hän ei ollut enää puhunut siitä meille."
+      "example_translation": "Hän ei ollut enää puhunut siitä meille (ongelma – il problema ; hän (nainen))."
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non ce l'aveva mai detta.",
-      "example_translation": "Hän ei ollut koskaan kertonut sitä meille."
+      "example_translation": "Hän ei ollut koskaan kertonut sitä meille (totuus – la verità ; hän (mies))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Ce le aveva restituite tutte.",
-      "example_translation": "Hän oli palauttanut meille kaikki."
+      "example_translation": "Hän oli palauttanut meille kaikki (avaimet – le chiavi ; hän (nainen))."
     },
     {
       "italian": "mostrare",
       "finnish": "näyttää",
       "example": "Ce le avrebbe mostrate entrambe.",
-      "example_translation": "Hän olisi näyttänyt meille molemmat."
+      "example_translation": "Hän olisi näyttänyt meille molemmat (valokuvat – le fotografie ; hän (mies))."
     },
     {
       "italian": "mostrare",
       "finnish": "näyttää",
       "example": "Non gliene avremmo mostrata nessuna.",
-      "example_translation": "Emme olisi näyttäneet hänelle kumpaakaan."
+      "example_translation": "Emme olisi näyttäneet hänelle kumpaakaan (yhtäkään valokuvaa – la fotografia ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "prestare",
       "finnish": "lainata",
       "example": "Gliene avevo prestata soltanto una.",
-      "example_translation": "Olin lainannut hänelle vain toisen."
+      "example_translation": "Olin lainannut hänelle vain toisen (polkupyörä – la bicicletta ; minä (mies); vastaanottaja (nainen))."
     },
     {
       "italian": "prestare",
       "finnish": "lainata",
       "example": "Me le aveva prestate entrambe.",
-      "example_translation": "Hän oli lainannut minulle molemmat."
+      "example_translation": "Hän oli lainannut minulle molemmat (polkupyörät – le biciclette ; hän (nainen))."
     },
     {
       "italian": "prestare",
       "finnish": "lainata",
       "example": "Non me ne aveva prestata nessuna.",
-      "example_translation": "Hän ei ollut lainannut minulle kumpaakaan."
+      "example_translation": "Hän ei ollut lainannut minulle kumpaakaan (yhtäkään polkupyörää – la bicicletta ; hän (mies))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Non me ne aveva ancora restituita nessuna.",
-      "example_translation": "Hän ei ollut vielä palauttanut minulle kumpaakaan."
+      "example_translation": "Hän ei ollut vielä palauttanut minulle kumpaakaan (yhtäkään polkupyörää – la bicicletta ; hän (nainen))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Me ne avrebbe restituita soltanto una.",
-      "example_translation": "Hän olisi palauttanut minulle vain toisen."
+      "example_translation": "Hän olisi palauttanut minulle vain toisen (polkupyörä – la bicicletta ; hän (mies))."
     },
     {
       "italian": "potere restituire",
       "finnish": "voida palauttaa",
       "example": "Avremmo potuto restituirgliele entrambe.",
-      "example_translation": "Olisimme voineet palauttaa hänelle molemmat."
+      "example_translation": "Olisimme voineet palauttaa hänelle molemmat (polkupyörät – le biciclette ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "volere prestare",
       "finnish": "haluta lainata",
       "example": "Non avremmo voluto prestargliene neanche una.",
-      "example_translation": "Emme olisi halunneet lainata hänelle yhtäkään."
+      "example_translation": "Emme olisi halunneet lainata hänelle yhtäkään (yhtäkään polkupyörää – la bicicletta ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "riuscire a restituire",
       "finnish": "pystyä palauttamaan",
       "example": "Non saremmo riusciti a restituirgliene nessuna.",
-      "example_translation": "Emme olisi pystyneet palauttamaan hänelle kumpaakaan."
+      "example_translation": "Emme olisi pystyneet palauttamaan hänelle kumpaakaan (yhtäkään avainta – la chiave ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "riuscire a mostrare",
       "finnish": "pystyä näyttämään",
       "example": "Saremmo riusciti a mostrargliene una sola.",
-      "example_translation": "Olisimme pystyneet näyttämään hänelle vain yhden."
+      "example_translation": "Olisimme pystyneet näyttämään hänelle vain yhden (vain yksi valokuva – la fotografia ; me (sekaryhmä); vastaanottaja (nainen))."
     },
     {
       "italian": "riuscire a restituire",
       "finnish": "pystyä palauttamaan",
       "example": "Non sarebbe riuscita a restituircene neanche uno.",
-      "example_translation": "Hän ei olisi pystynyt palauttamaan meille niistä yhtäkään."
+      "example_translation": "Hän ei olisi pystynyt palauttamaan meille niistä yhtäkään (yhtäkään kirjaa – il libro ; hän (nainen))."
     },
     {
       "italian": "bastare",
       "finnish": "riittää",
       "example": "Non gliene sarebbe bastata nessuna.",
-      "example_translation": "Hänelle ei olisi riittänyt yksikään."
+      "example_translation": "Hänelle ei olisi riittänyt yksikään (subjekti: yhtäkään mahdollisuutta – l’occasione ; kokija (mies))."
     },
     {
       "italian": "bastare",
       "finnish": "riittää",
       "example": "Ce ne sarebbe bastata la metà.",
-      "example_translation": "Meille olisi riittänyt niistä puolet."
+      "example_translation": "Meille olisi riittänyt niistä puolet (subjekti: peitot – le coperte ; määrän pääsana: la metà )."
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Gliene sarebbe sparito un terzo.",
-      "example_translation": "Häneltä olisi kadonnut kolmasosa niistä."
+      "example_translation": "Häneltä olisi kadonnut kolmasosa niistä (subjekti: asiakirjat – i documenti ; määrän pääsana: un terzo ; kokija (nainen))."
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Gliene sarebbe mancato un quarto.",
-      "example_translation": "Häneltä olisi puuttunut neljäsosa niistä."
+      "example_translation": "Häneltä olisi puuttunut neljäsosa niistä (subjekti: sivut – le pagine ; määrän pääsana: un quarto ; kokija (nainen))."
     },
     {
       "italian": "bastare",
       "finnish": "riittää",
       "example": "Ce ne sarebbero bastati due terzi.",
-      "example_translation": "Meille olisi riittänyt niistä kaksi kolmasosaa."
+      "example_translation": "Meille olisi riittänyt niistä kaksi kolmasosaa (subjekti: peitot – le coperte ; määrän pääsana: due terzi )."
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Ce ne sarebbe mancata la maggior parte.",
-      "example_translation": "Meiltä olisi puuttunut niistä suurin osa."
+      "example_translation": "Meiltä olisi puuttunut niistä suurin osa (subjekti: asiakirjat – i documenti ; määrän pääsana: la maggior parte )."
     },
     {
       "italian": "bastare",
       "finnish": "riittää",
       "example": "Gliene sarebbe bastato soltanto un quarto.",
-      "example_translation": "Hänelle olisi riittänyt vain neljäsosa."
+      "example_translation": "Hänelle olisi riittänyt vain neljäsosa (subjekti: kirjat – i libri ; määrän pääsana: un quarto ; kokija (nainen))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Ce ne avrebbe data la maggior parte.",
-      "example_translation": "Hän olisi antanut meille suurimman osan niistä."
+      "example_translation": "Hän olisi antanut meille suurimman osan niistä (valokuvat – le fotografie ; määrän pääsana: la maggior parte ; hän (nainen))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Ce ne avrebbe mandato il resto.",
-      "example_translation": "Hän olisi lähettänyt meille loput."
+      "example_translation": "Hän olisi lähettänyt meille loput (valokuvat – le fotografie ; määrän pääsana: il resto ; hän (mies))."
     },
     {
       "italian": "rimanere",
       "finnish": "jäädä jäljelle",
       "example": "Ce ne sarebbero rimaste solo poche.",
-      "example_translation": "Meille olisi jäänyt vain muutama."
+      "example_translation": "Meille olisi jäänyt vain muutama (subjekti: vain muutama (valokuvat) – le fotografie )."
     },
     {
       "italian": "bastare",
       "finnish": "riittää",
       "example": "Gliene sarebbero bastate solo poche.",
-      "example_translation": "Hänelle olisi riittänyt vain muutama."
+      "example_translation": "Hänelle olisi riittänyt vain muutama (subjekti: vain muutama (valokuvat) – le fotografie )."
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Gliene sarebbero mancati ancora alcuni.",
-      "example_translation": "Häneltä olisi puuttunut vielä muutama."
+      "example_translation": "Häneltä olisi puuttunut vielä muutama (subjekti: asiakirjat – i documenti )."
     },
     {
       "italian": "consigliare",
       "finnish": "suositella",
       "example": "Ce ne avrebbe consigliati tre.",
-      "example_translation": "Hän olisi suositellut meille niistä kolme."
+      "example_translation": "Hän olisi suositellut meille niistä kolme (kolme kirjaa – i libri ; hän (nainen))."
     },
     {
       "italian": "consigliare",
       "finnish": "suositella",
       "example": "Ce ne avrebbe consigliato solo uno.",
-      "example_translation": "Hän olisi suositellut meille niistä vain yhden."
+      "example_translation": "Hän olisi suositellut meille niistä vain yhden (vain yksi kirja – il libro ; hän (nainen))."
     },
     {
       "italian": "consigliare",
       "finnish": "suositella",
       "example": "Non ce ne avrebbe consigliato nessuno.",
-      "example_translation": "Hän ei olisi suositellut meille yhtäkään."
+      "example_translation": "Hän ei olisi suositellut meille yhtäkään (yhtäkään kirjaa – il libro ; hän (nainen))."
     },
     {
       "italian": "scegliere",
       "finnish": "valita",
       "example": "Ce ne aveva scelte due.",
-      "example_translation": "Hän oli valinnut meille niistä kaksi."
+      "example_translation": "Hän oli valinnut meille niistä kaksi (kaksi valokuvaa – le fotografie ; hän (nainen))."
     },
     {
       "italian": "scegliere",
       "finnish": "valita",
       "example": "Non ce ne avrebbe scelta nessuna.",
-      "example_translation": "Hän ei olisi valinnut meille kumpaakaan."
+      "example_translation": "Hän ei olisi valinnut meille kumpaakaan (yhtäkään valokuvaa – la fotografia ; hän (mies))."
     },
     {
       "italian": "scegliere",
       "finnish": "valita",
       "example": "Ce ne avrebbe scelta la metà.",
-      "example_translation": "Hän olisi valinnut meille niistä puolet."
+      "example_translation": "Hän olisi valinnut meille niistä puolet (valokuvat – le fotografie ; määrän pääsana: la metà ; hän (nainen))."
     },
     {
       "italian": "scegliere",
       "finnish": "valita",
       "example": "Ce ne avrebbe scelto il resto.",
-      "example_translation": "Hän olisi valinnut meille loput."
+      "example_translation": "Hän olisi valinnut meille loput (valokuvat – le fotografie ; määrän pääsana: il resto ; hän (nainen))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Ce ne aveva già mandate alcune in più.",
-      "example_translation": "Hän oli jo lähettänyt meille muutaman lisää."
+      "example_translation": "Hän oli jo lähettänyt meille muutaman lisää (muutama valokuvaa lisää – le fotografie ; hän (mies))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Ce ne avevate già restituite tre?",
-      "example_translation": "Olitteko jo palauttaneet meille niistä kolme?"
+      "example_translation": "Olitteko jo palauttaneet meille niistä kolme (kolme valokuvaa – le fotografie ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "potere dare",
       "finnish": "voida antaa",
       "example": "Non ce ne avreste potute dare ancora due?",
-      "example_translation": "Ettekö olisi voineet antaa meille vielä kahta?"
+      "example_translation": "Ettekö olisi voineet antaa meille vielä kahta (vielä kaksi avainta – le chiavi ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Gliele avreste mandate entrambe?",
-      "example_translation": "Olisitteko lähettäneet hänelle molemmat?"
+      "example_translation": "Olisitteko lähettäneet hänelle molemmat (kirjeet – le lettere ; te (miehet tai sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non ce ne avreste detto niente?",
-      "example_translation": "Ettekö olisi kertoneet meille siitä mitään?"
+      "example_translation": "Ettekö olisi kertoneet meille siitä mitään (onnettomuus – l’incidente ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "mostrare",
       "finnish": "näyttää",
       "example": "Non gliene avevate ancora mostrata neanche una?",
-      "example_translation": "Ettekö olleet vielä näyttäneet hänelle yhtäkään?"
+      "example_translation": "Ettekö olleet vielä näyttäneet hänelle yhtäkään (yhtäkään valokuvaa – la fotografia ; te (miehet tai sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "osare prestare",
       "finnish": "uskaltaa lainata",
       "example": "Avreste osato prestargliene altre due?",
-      "example_translation": "Olisitteko uskaltaneet lainata hänelle kaksi lisää?"
+      "example_translation": "Olisitteko uskaltaneet lainata hänelle kaksi lisää (kaksi polkupyörää lisää – le biciclette ; te (miehet tai sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Ve ne sarebbero sparite quattro.",
-      "example_translation": "Teiltä olisi kadonnut niitä neljä."
+      "example_translation": "Teiltä olisi kadonnut niitä neljä (subjekti: neljä avainta – le chiavi )."
     },
     {
       "italian": "bastare",
       "finnish": "riittää",
       "example": "Ve ne sarebbe bastata una sola.",
-      "example_translation": "Teille olisi riittänyt niistä vain yksi."
+      "example_translation": "Teille olisi riittänyt niistä vain yksi (subjekti: vain yksi peitto – la coperta )."
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Non vi sareste accorti di nessuno degli errori?",
-      "example_translation": "Ettekö olisi huomanneet niistä yhtäkään?"
+      "example_translation": "Ettekö olisi huomanneet niistä yhtäkään (yhtäkään virhettä – l’errore ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Ve ne eravate già accorti?",
-      "example_translation": "Olitteko jo huomanneet sen?"
+      "example_translation": "Olitteko jo huomanneet sen (virhe – l’errore ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Gliene avreste date tre?",
-      "example_translation": "Olisitteko antaneet hänelle kolme?"
+      "example_translation": "Olisitteko antaneet hänelle kolme (kolme avainta – le chiavi ; te (miehet tai sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "lasciare",
       "finnish": "jättää",
       "example": "Ce ne avreste lasciati altri due?",
-      "example_translation": "Olisitteko jättäneet meille vielä kaksi lisää?"
+      "example_translation": "Olisitteko jättäneet meille vielä kaksi lisää (kaksi kirjaa lisää – i libri ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Non gliene avreste mandata neanche una?",
-      "example_translation": "Ettekö olisi lähettäneet hänelle yhtäkään?"
+      "example_translation": "Ettekö olisi lähettäneet hänelle yhtäkään (yhtäkään kirjettä – la lettera ; te (miehet tai sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "riuscire a restituire",
       "finnish": "pystyä palauttamaan",
       "example": "Non sareste riusciti a restituircene neanche una?",
-      "example_translation": "Ettekö olisi pystyneet palauttamaan meille kumpaakaan?"
+      "example_translation": "Ettekö olisi pystyneet palauttamaan meille kumpaakaan (yhtäkään avainta – la chiave ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "volere dare",
       "finnish": "haluta antaa",
       "example": "Non avreste voluto dargliene neanche una?",
-      "example_translation": "Ettekö olisi halunneet antaa hänelle yhtäkään?"
+      "example_translation": "Ettekö olisi halunneet antaa hänelle yhtäkään (yhtäkään kynää – la penna ; te (miehet tai sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "osare mostrare",
       "finnish": "uskaltaa näyttää",
       "example": "Non avreste osato mostrarcene neanche una?",
-      "example_translation": "Ettekö olisi uskaltaneet näyttää meille kumpaakaan?"
+      "example_translation": "Ettekö olisi uskaltaneet näyttää meille kumpaakaan (yhtäkään valokuvaa – la fotografia ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Non ve ne sarebbe sparita neanche una.",
-      "example_translation": "Teiltä ei olisi kadonnut yhtäkään."
+      "example_translation": "Teiltä ei olisi kadonnut yhtäkään (subjekti: yhtäkään avainta – la chiave )."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Ce ne avreste data la metà?",
-      "example_translation": "Olisitteko antaneet meille niistä puolet?"
+      "example_translation": "Olisitteko antaneet meille niistä puolet (omenat – le mele ; määrän pääsana: la metà ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "potere prestare",
       "finnish": "voida lainata",
       "example": "Avreste potuto prestarcene il resto?",
-      "example_translation": "Olisitteko voineet lainata meille loput?"
+      "example_translation": "Olisitteko voineet lainata meille loput (polkupyörät – le biciclette ; määrän pääsana: il resto ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Ve ne sarebbero mancate due.",
-      "example_translation": "Teiltä olisi puuttunut niistä kaksi."
+      "example_translation": "Teiltä olisi puuttunut niistä kaksi (subjekti: kaksi sivua – le pagine )."
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Non ve ne sareste accorti in tempo?",
-      "example_translation": "Ettekö olisi huomanneet virhettä ajoissa?"
+      "example_translation": "Ettekö olisi huomanneet virhettä ajoissa (virhe – l’errore ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "rendersi conto di",
       "finnish": "tajuta",
       "example": "Ve ne sareste resi conto in tempo?",
-      "example_translation": "Olisitteko tajunneet sen ajoissa?"
+      "example_translation": "Olisitteko tajunneet sen ajoissa (ongelma – il problema ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "dimenticarsi di",
       "finnish": "unohtaa",
       "example": "Ve ne eravate completamente dimenticati?",
-      "example_translation": "Olitteko unohtaneet sen kokonaan?"
+      "example_translation": "Olitteko unohtaneet sen kokonaan (tapaaminen – l’appuntamento ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "prestare",
       "finnish": "lainata",
       "example": "Ve ne avrei prestati due.",
-      "example_translation": "Olisin lainannut teille kaksi."
+      "example_translation": "Olisin lainannut teille kaksi (kaksi kirjaa – i libri ; minä (mies))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Non me ne avevano parlato.",
-      "example_translation": "He eivät olleet puhuneet siitä minulle."
+      "example_translation": "He eivät olleet puhuneet siitä minulle (ongelma – il problema ; he (naiset))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Ce ne avresti mandate tre?",
-      "example_translation": "Olisitko lähettänyt meille niitä kolme?"
+      "example_translation": "Olisitko lähettänyt meille niitä kolme (kolme valokuvaa – le fotografie ; sinä (nainen))?"
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Non ce ne saremmo accorti in tempo.",
-      "example_translation": "Emme olisi huomanneet sitä ajoissa."
+      "example_translation": "Emme olisi huomanneet sitä ajoissa (virhe – l’errore ; me (sekaryhmä))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Ce ne avrebbe data la metà.",
-      "example_translation": "Hän olisi antanut meille niistä puolet."
+      "example_translation": "Hän olisi antanut meille niistä puolet (kirjat – i libri ; määrän pääsana: la metà ; hän (nainen))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Te ne avrebbero restituite tre.",
-      "example_translation": "He olisivat palauttaneet sinulle niistä kolme."
+      "example_translation": "He olisivat palauttaneet sinulle niistä kolme (kolme avainta – le chiavi ; he (naiset))."
     },
     {
       "italian": "osare parlare",
       "finnish": "uskaltaa puhua",
       "example": "Avresti osato parlargliene?",
-      "example_translation": "Olisitko uskaltanut kertoa hänelle siitä?"
+      "example_translation": "Olisitko uskaltanut kertoa hänelle siitä (salaisuus – il segreto ; sinä (nainen); vastaanottaja (mies))?"
     },
     {
       "italian": "riuscire a dare",
       "finnish": "pystyä antamaan",
       "example": "Non sarebbe riuscita a dartene neanche uno.",
-      "example_translation": "Hän ei olisi pystynyt antamaan sinulle niistä yhtäkään."
+      "example_translation": "Hän ei olisi pystynyt antamaan sinulle niistä yhtäkään (yhtäkään kirjaa – il libro ; hän (nainen))."
     },
     {
       "italian": "dimenticare",
       "finnish": "unohtaa",
       "example": "Ne avremmo dimenticati due.",
-      "example_translation": "Olisimme unohtaneet niistä kaksi."
+      "example_translation": "Olisimme unohtaneet niistä kaksi (kaksi tapaamista – gli appuntamenti ; me (sekaryhmä))."
     },
     {
       "italian": "dimenticare",
       "finnish": "unohtaa",
       "example": "Ne avrebbe dimenticate tre.",
-      "example_translation": "Hän olisi unohtanut niistä kolme."
+      "example_translation": "Hän olisi unohtanut niistä kolme (kolme valokuvaa – le fotografie ; hän (nainen))."
     },
     {
       "italian": "dimenticarsi di",
       "finnish": "unohtaa",
       "example": "Vi sareste dimenticati di tutti gli appuntamenti?",
-      "example_translation": "Olisitteko unohtaneet ne kaikki?"
+      "example_translation": "Olisitteko unohtaneet ne kaikki (tapaamiset – gli appuntamenti ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Te ne avrebbe comprate quattro.",
-      "example_translation": "Hän olisi ostanut sinulle niistä neljä."
+      "example_translation": "Hän olisi ostanut sinulle niistä neljä (neljä omenaa – le mele ; hän (mies))."
     },
     {
       "italian": "potere mandare",
       "finnish": "voida lähettää",
       "example": "Avremmo potuto mandargliene la metà?",
-      "example_translation": "Olisimmeko voineet lähettää hänelle niistä puolet?"
+      "example_translation": "Olisimmeko voineet lähettää hänelle niistä puolet (kirjeet – le lettere ; määrän pääsana: la metà ; me (sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Non te ne avevano restituita neanche una.",
-      "example_translation": "He eivät olleet palauttaneet sinulle niistä yhtäkään."
+      "example_translation": "He eivät olleet palauttaneet sinulle niistä yhtäkään (yhtäkään avainta – la chiave ; he (naiset))."
     },
     {
       "italian": "osare dire",
       "finnish": "uskaltaa kertoa",
       "example": "Non avrebbe osato dircene niente.",
-      "example_translation": "Hän ei olisi uskaltanut kertoa meille siitä mitään."
+      "example_translation": "Hän ei olisi uskaltanut kertoa meille siitä mitään (salaisuus – il segreto ; hän (nainen))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Gliene avresti già parlato?",
-      "example_translation": "Olisitko jo puhunut siitä heille?"
+      "example_translation": "Olisitko jo puhunut siitä heille (päätös – la decisione ; sinä (mies tai nainen); vastaanottaja (he))?"
     },
     {
       "italian": "rendersi conto di",
       "finnish": "tajuta",
       "example": "Non ce ne saremmo resi conto senza di te.",
-      "example_translation": "Emme olisi tajunneet sitä ilman sinua."
+      "example_translation": "Emme olisi tajunneet sitä ilman sinua (virhe – l’errore ; me (sekaryhmä))."
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Non te ne sarebbe sparito neanche uno.",
-      "example_translation": "Sinulta ei olisi kadonnut yhtäkään."
+      "example_translation": "Sinulta ei olisi kadonnut yhtäkään (subjekti: yhtäkään pääsylippua – il biglietto )."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Ve le avevo già mandate.",
-      "example_translation": "Olin jo lähettänyt ne teille."
+      "example_translation": "Olin jo lähettänyt ne teille (valokuvat – le fotografie ; minä (mies))."
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Me ne avresti dato un terzo?",
-      "example_translation": "Olisitko antanut minulle niistä kolmasosan?"
+      "example_translation": "Olisitko antanut minulle niistä kolmasosan (kirjat – i libri ; määrän pääsana: un terzo ; sinä (mies))?"
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Te ne avrebbe mandato il resto.",
-      "example_translation": "Hän olisi lähettänyt sinulle loput."
+      "example_translation": "Hän olisi lähettänyt sinulle loput (kirjeet – le lettere ; määrän pääsana: il resto ; hän (nainen))."
     },
     {
       "italian": "ricevere",
       "finnish": "saada",
       "example": "Non ne avevamo ancora ricevuta neanche una.",
-      "example_translation": "Emme olleet vielä saaneet niistä yhtäkään."
+      "example_translation": "Emme olleet vielä saaneet niistä yhtäkään (yhtäkään vastausta – la risposta ; me (sekaryhmä))."
     },
     {
       "italian": "arrivare",
       "finnish": "saapua",
       "example": "Non ve ne era arrivata neanche una.",
-      "example_translation": "Teille ei ollut saapunut yhtäkään."
+      "example_translation": "Teille ei ollut saapunut yhtäkään (subjekti: yhtäkään kirjettä – la lettera )."
     },
     {
       "italian": "arrivare",
       "finnish": "saapua",
       "example": "Me ne sarebbero arrivate ancora due.",
-      "example_translation": "Minulle olisi saapunut niitä vielä kaksi."
+      "example_translation": "Minulle olisi saapunut niitä vielä kaksi (subjekti: vielä kaksi kirjettä – le lettere )."
     },
     {
       "italian": "potere mandare",
       "finnish": "voida lähettää",
       "example": "Avrebbe potuto mandarvene tre.",
-      "example_translation": "Hän olisi voinut lähettää teille niistä kolme."
+      "example_translation": "Hän olisi voinut lähettää teille niistä kolme (kolme asiakirjaa – i documenti ; hän (nainen))."
     },
     {
       "italian": "potere restituire",
       "finnish": "voida palauttaa",
       "example": "Avremmo potuto restituirgliene una sola?",
-      "example_translation": "Olisimmeko voineet palauttaa hänelle vain yhden?"
+      "example_translation": "Olisimmeko voineet palauttaa hänelle vain yhden (vain yksi avain – la chiave ; me (sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "mancare",
       "finnish": "puuttua",
       "example": "Gliene sarebbero mancati ancora due.",
-      "example_translation": "Heiltä olisi puuttunut niitä vielä kaksi."
+      "example_translation": "Heiltä olisi puuttunut niitä vielä kaksi (subjekti: vielä kaksi asiakirjaa – i documenti ; kokijat (naisia))."
     },
     {
       "italian": "comprare",
       "finnish": "ostaa",
       "example": "Me ne avresti comprata la metà?",
-      "example_translation": "Olisitko ostanut minulle niistä puolet?"
+      "example_translation": "Olisitko ostanut minulle niistä puolet (omenat – le mele ; määrän pääsana: la metà ; sinä (mies))?"
     },
     {
       "italian": "dire",
       "finnish": "kertoa",
       "example": "Non te ne avrebbe detto niente.",
-      "example_translation": "Hän ei olisi kertonut sinulle siitä mitään."
+      "example_translation": "Hän ei olisi kertonut sinulle siitä mitään (salaisuus – il segreto ; hän (nainen))."
     },
     {
       "italian": "potere raccontare",
       "finnish": "voida kertoa",
       "example": "Avremmo potuto raccontarvene tre.",
-      "example_translation": "Olisimme voineet kertoa teille niistä kolme."
+      "example_translation": "Olisimme voineet kertoa teille niistä kolme (kolme tarinaa – le storie ; me (sekaryhmä))."
     },
     {
       "italian": "sparire",
       "finnish": "kadota",
       "example": "Non gliene sarebbe sparito neanche uno.",
-      "example_translation": "Häneltä ei olisi kadonnut kumpaakaan."
+      "example_translation": "Häneltä ei olisi kadonnut kumpaakaan (subjekti: yhtäkään sormusta – l’anello )."
     },
     {
       "italian": "riuscire a restituire",
       "finnish": "pystyä palauttamaan",
       "example": "Sareste riusciti a restituircele entrambe?",
-      "example_translation": "Olisitteko pystyneet palauttamaan meille molemmat?"
+      "example_translation": "Olisitteko pystyneet palauttamaan meille molemmat (polkupyörät – le biciclette ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Te ne avrebbe date altre due.",
-      "example_translation": "Hän olisi antanut sinulle niitä kaksi lisää."
+      "example_translation": "Hän olisi antanut sinulle niitä kaksi lisää (kaksi valokuvaa lisää – le fotografie ; hän (nainen))."
     },
     {
       "italian": "dimenticarsi di dire",
       "finnish": "unohtaa kertoa",
       "example": "Si erano dimenticate di dircela.",
-      "example_translation": "He olivat unohtaneet kertoa sen meille."
+      "example_translation": "He olivat unohtaneet kertoa sen meille (uutinen – la notizia ; he (naiset))."
     },
     {
       "italian": "potere mandare",
       "finnish": "voida lähettää",
       "example": "Avrei potuto mandargliele?",
-      "example_translation": "Olisinko voinut lähettää ne heille?"
+      "example_translation": "Olisinko voinut lähettää ne heille (valokuvat – le fotografie ; minä (mies))?"
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Non ve ne eravate ancora accorti?",
-      "example_translation": "Ettekö olleet vielä huomanneet sitä?"
+      "example_translation": "Ettekö olleet vielä huomanneet sitä (virhe – l’errore ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Ce ne avrebbero restituita la metà.",
-      "example_translation": "He olisivat palauttaneet meille niistä puolet."
+      "example_translation": "He olisivat palauttaneet meille niistä puolet (asiakirjat – i documenti ; määrän pääsana: la metà ; he (naiset))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Me ne avresti parlato?",
-      "example_translation": "Olisitko kertonut siitä minulle?"
+      "example_translation": "Olisitko kertonut siitä minulle (salaisuus – il segreto ; sinä (nainen))?"
     },
     {
       "italian": "raccontare",
       "finnish": "kertoa",
       "example": "Te ne avrebbe raccontate tre.",
-      "example_translation": "Hän olisi kertonut sinulle niistä kolme."
+      "example_translation": "Hän olisi kertonut sinulle niistä kolme (kolme tarinaa – le storie ; hän (mies))."
     },
     {
       "italian": "promettere",
       "finnish": "luvata",
       "example": "Me ne avevate promesse due?",
-      "example_translation": "Olitteko luvanneet minulle kaksi?"
+      "example_translation": "Olitteko luvanneet minulle kaksi (kaksi ruusua – le rose ; te (miehet tai sekaryhmä))?"
     },
     {
       "italian": "osare restituire",
       "finnish": "uskaltaa palauttaa",
       "example": "Non avrebbe osato restituirtele.",
-      "example_translation": "Hän ei olisi uskaltanut palauttaa niitä sinulle."
+      "example_translation": "Hän ei olisi uskaltanut palauttaa niitä sinulle (avaimet – le chiavi ; hän (nainen))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Gliene avremmo mandate altre quattro.",
-      "example_translation": "Olisimme lähettäneet heille neljä lisää."
+      "example_translation": "Olisimme lähettäneet heille neljä lisää (neljä valokuvaa lisää – le fotografie ; me (sekaryhmä); vastaanottaja (he))."
     },
     {
       "italian": "riuscire a prestare",
       "finnish": "pystyä lainaamaan",
       "example": "Saresti riuscita a prestarmene tre?",
-      "example_translation": "Olisitko pystynyt lainaamaan minulle kolme?"
+      "example_translation": "Olisitko pystynyt lainaamaan minulle kolme (kolme polkupyörää – le biciclette ; sinä (nainen))?"
     },
     {
       "italian": "accorgersi di",
       "finnish": "huomata",
       "example": "Non se n'erano accorte.",
-      "example_translation": "He eivät olleet huomanneet sitä."
+      "example_translation": "He eivät olleet huomanneet sitä (virhe – l’errore ; he (naiset))."
     },
     {
       "italian": "potere restituire",
       "finnish": "voida palauttaa",
       "example": "Avrei potuto restituirveli entrambi?",
-      "example_translation": "Olisinko voinut palauttaa teille ne molemmat?"
+      "example_translation": "Olisinko voinut palauttaa teille ne molemmat (kirjat – i libri ; minä (mies))?"
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Gliel'avreste restituita?",
-      "example_translation": "Olisitteko palauttaneet sen hänelle?"
+      "example_translation": "Olisitteko palauttaneet sen hänelle (kirje – la lettera ; te (miehet tai sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Ce ne avrebbe dati tre.",
-      "example_translation": "Hän olisi antanut meille niitä kolme."
+      "example_translation": "Hän olisi antanut meille niitä kolme (kolme kirjaa – i libri ; hän (nainen))."
     },
     {
       "italian": "restituire",
       "finnish": "palauttaa",
       "example": "Non te ne avrebbero restituita neanche una.",
-      "example_translation": "He eivät olisi palauttaneet sinulle yhtäkään."
+      "example_translation": "He eivät olisi palauttaneet sinulle yhtäkään (yhtäkään valokuvaa – la fotografia ; he (naiset))."
     },
     {
       "italian": "parlare di",
       "finnish": "puhua jostakin",
       "example": "Gliene avresti già parlato?",
-      "example_translation": "Olisitko jo puhunut hänelle siitä?"
+      "example_translation": "Olisitko jo puhunut hänelle siitä (ongelma – il problema ; sinä (mies tai nainen); vastaanottaja (nainen))?"
     },
     {
       "italian": "dare",
       "finnish": "antaa",
       "example": "Me ne avrebbe data la metà.",
-      "example_translation": "Hän olisi antanut minulle niistä puolet."
+      "example_translation": "Hän olisi antanut minulle niistä puolet (kirjeet – le lettere ; määrän pääsana: la metà ; hän (mies))."
     },
     {
       "italian": "mandare",
       "finnish": "lähettää",
       "example": "Glieli avreste mandati tutti?",
-      "example_translation": "Olisitteko lähettäneet hänelle ne kaikki?"
+      "example_translation": "Olisitteko lähettäneet hänelle ne kaikki (asiakirjat – i documenti ; te (miehet tai sekaryhmä); vastaanottaja (nainen))?"
     },
     {
       "italian": "osare dire",
       "finnish": "uskaltaa kertoa",
       "example": "Non avremmo osato dirgliela.",
-      "example_translation": "Emme olisi uskaltaneet kertoa sitä heille."
+      "example_translation": "Emme olisi uskaltaneet kertoa sitä heille (totuus – la verità ; me (sekaryhmä); vastaanottaja (he))."
     }
   ]
 }
